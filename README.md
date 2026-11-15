@@ -69,7 +69,7 @@ The lesson files use a small line-based format: `=lesson` starts a lesson, `ex:`
 
 If you change a lesson line in English, its translations are matched by the English text, so the same line in the `tr_*.json` files needs updating too, or that line will show in English.
 
-Before publishing, raise the version at the top of `src/static/sw.js` (`nihongo-v31` → `nihongo-v32`) and run `./build.sh` again. Phones hang on to the old copy otherwise, which confused me the first time.
+Before publishing, raise the version at the top of `src/static/sw.js` (`nihongo-v33` → `nihongo-v34`) and run `./build.sh` again. Phones hang on to the old copy otherwise, which confused me the first time.
 
 The audio in `audio.json` was recorded with Google Cloud Text-to-Speech. Anything without a clip falls back to the device's own Japanese voice.
 

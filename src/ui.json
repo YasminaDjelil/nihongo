@@ -180,7 +180,9 @@
 "wfilter": "Filter by word or meaning…",
 "wadd": "Add this whole list as a deck",
 "wnote": "The JLPT publishes no official word list. This one follows the lists most learners use.",
-"wnote2": "Meanings are shown in English."
+"wnote2": "Meanings are shown in English.",
+"vslow": "Very slow",
+"natural": "Natural speed"
 },
 "fr": {
 "name": "Français",
@@ -363,7 +365,9 @@
 "wfilter": "Filtrer par mot ou par sens…",
 "wadd": "Ajouter toute la liste comme paquet",
 "wnote": "Le JLPT ne publie pas de liste officielle. Celle-ci suit les listes les plus utilisées.",
-"wnote2": "Meanings are shown in English."
+"wnote2": "Meanings are shown in English.",
+"vslow": "Très lent",
+"natural": "Vitesse naturelle"
 },
 "pt": {
 "name": "Português",
@@ -546,7 +550,9 @@
 "wfilter": "Filtrar por palavra ou significado…",
 "wadd": "Adicionar a lista toda como baralho",
 "wnote": "O JLPT não publica uma lista oficial. Esta segue as listas mais usadas.",
-"wnote2": "Os significados aparecem em inglês."
+"wnote2": "Os significados aparecem em inglês.",
+"vslow": "Muito lento",
+"natural": "Velocidade natural"
 },
 "ar": {
 "name": "العربية",
@@ -729,6 +735,8 @@
 "wfilter": "تصفية بالكلمة أو المعنى…",
 "wadd": "أضف القائمة كلها كمجموعة",
 "wnote": "لا ينشر اختبار JLPT قائمة رسمية. هذه القائمة تتبع القوائم الأكثر استعمالًا.",
-"wnote2": "المعاني معروضة بالإنجليزية."
+"wnote2": "المعاني معروضة بالإنجليزية.",
+"vslow": "بطيء جدًّا",
+"natural": "السرعة الطبيعية"
 }
 }
