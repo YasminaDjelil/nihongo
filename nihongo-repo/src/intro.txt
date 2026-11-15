@@ -1,9 +1,0 @@
-=lesson start | Before you start | How to use this course
-This course takes you from zero to the end of **JLPT N4**, the second level of the Japanese Language Proficiency Test. Part 1 covers N5 (12 lessons + exercises); Part 2 covers N4 (13 lessons + exercises). Every lesson has explanations, example sentences, a vocabulary list, and the exercises come with answer keys.
-li: **Use Japanese every day.** Hungry? Cooking? Try to say it in Japanese, even in your head.
-li: **Don't try to learn everything in one day.** Make sure you are comfortable with a lesson before moving on, so you never feel overwhelmed.
-li: **Get a good dictionary and a kanji notebook** — they will be your best allies. (Free apps such as a Japanese–English dictionary work well too.)
-li: **Learn the kana with paper slips.** Write each character on a small piece of paper, put them in a box, and draw 1 to 5 every day to recognise. You learn steadily without overloading yourself.
-li: **Go at your own pace.** It doesn't matter if the basics take you six months — solid foundations beat rushing. (Remember the tortoise and the hare.)
-tip: Use the buttons at the top of the page. Turn off **Rōmaji** once you can read kana, turn off **Translations** to test yourself on the examples (click a blurred line to reveal it), and use **Hide meanings** on any vocabulary list to turn it into flashcards. Click any Japanese word or sentence to hear it read aloud.
-note: Rōmaji in this course follows the Hepburn system with long vowels marked by a macron: とうきょう = *Tōkyō*, すうがく = *sūgaku*. The particles は, へ and を are written *wa*, *e* and *o* because that is how they are pronounced.
