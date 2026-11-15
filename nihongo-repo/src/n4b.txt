@@ -1,0 +1,302 @@
+=lesson n4-7 | N4 · Lesson 7 | Negative expressions
+== あまり～ない — not very, not much
+あまり is an adverb of degree or frequency. With a **negative** verb or adjective it means "not very, not much, hardly".
+rule: あまり + negative verb / adjective
+ex: 彼女はあまりお金を持っていない。 | かのじょ は あまり おかね を もって いない。 | She doesn't have much money.
+ex: この映画はあまりおもしろくなかった。 | この えいが は あまり おもしろく なかった。 | This film wasn't very interesting.
+== ～ずに / ～ないで — without doing
+These forms say you do one thing **without** doing another. ～ないで is common in speech; ～ずに has the same meaning but sounds more formal and written.
+rule: Verb ない form + で
+rule: Verb ない form, remove ない + ずに
+table: :: Verb | ～ないで | ～ずに
+- 行く (to go) | 行かないで | 行かずに
+- 食べる (to eat) | 食べないで | 食べずに
+- する (to do) | しないで | **せずに** (irregular)
+- 来る (to come) | 来ないで (こないで) | 来ずに (こずに)
+ex: テキストを見ないで答えてください。 | テキスト を みないで こたえて ください。 | Please answer without looking at the textbook.
+ex: 彼女は一言も言わずに部屋から出た。 | かのじょ は ひとこと も いわずに へや から でた。 | She left the room without saying a word.
+== だけ / しか～ない / のみ — only
+li: **だけ**: "only, just". It limits what comes before it. After a verb: "just do…".
+li: **しか**: also "only", but it **always** takes a **negative** verb and stresses that it's less than expected ("nothing but").
+li: **のみ**: a formal, written "only".
+rule: Noun + だけ / のみ
+rule: Noun + しか + negative verb
+rule: Verb (plain) + だけ
+ex: 見ているだけです。 | みて いる だけ です。 | I'm just looking.
+ex: 彼女は野菜しか食べない。 | かのじょ は やさい しか たべない。 | She eats nothing but vegetables.
+ex: 千円しかありません。 | せんえん しか ありません。 | I only have 1,000 yen.
+ex: 真実のみが美しい。 | しんじつ のみ が うつくしい。 | Only the truth is beautiful.
+vocab:
+- お金 | おかね | okane | money
+- 面白い | おもしろい | omoshiroi | interesting, funny
+- 一言 | ひとこと | hitokoto | a (single) word
+- 真実 | しんじつ | shinjitsu | truth
+- 現実 | げんじつ | genjitsu | reality
+- 果物 | くだもの | kudamono | fruit
+- 答える | こたえる | kotaeru | to answer
+- 出る | でる | deru | to go out, leave
+
+=lesson n4-8 | N4 · Lesson 8 | Passive, causative and causative-passive
+== The passive form — be done (by)
+The **passive** shows that the subject **undergoes** an action. The agent (the one doing the action) is marked with **に** (sometimes から, or によって in formal writing). Passive verbs conjugate as **ichidan** verbs.
+rule: Godan: ない form, replace ない with れる (読まない → 読まれる)
+rule: Ichidan: remove る + られる (食べる → 食べられる)
+rule: Irregular: する → される, 来る → 来られる (こられる)
+ex: この雑誌は広く読まれている。 | この ざっし は ひろく よまれて いる。 | This magazine is widely read.
+ex: その試合はみんなに待たれていた。 | その しあい は みんな に またれて いた。 | Everyone had been looking forward to that match.
+ex: 私は先生にほめられた。 | わたし は せんせい に ほめられた。 | I was praised by the teacher.
+note: Japanese also has a "suffering passive", used when something happens to you that you didn't want: 雨に降られた (I got caught in the rain), 弟にケーキを食べられた (my brother ate my cake, and I'm not happy about it).
+== The causative form — make / let someone do
+The **causative** means "**make** someone do" or "**let** someone do". The person made/allowed to act is marked with **に** (or を with intransitive verbs like 行く, 走る). Causative verbs conjugate as ichidan verbs. Followed by ～てあげる / ～てくれる / ～てください, it always means "let".
+rule: Godan: ない form, replace ない with せる (読まない → 読ませる)
+rule: Ichidan: remove る + させる (食べる → 食べさせる)
+rule: Irregular: する → させる, 来る → 来させる (こさせる)
+ex: 先生は学生に宿題をたくさんさせる。 | せんせい は がくせい に しゅくだい を たくさん させる。 | The teacher makes the students do a lot of homework.
+ex: 私は妹に新しいパソコンを使わせてあげた。 | わたし は いもうと に あたらしい パソコン を つかわせて あげた。 | I let my little sister use my new computer.
+ex: いい子にしていたら、アイスクリームを食べさせてあげる。 | いい こ に して いたら、アイスクリーム を たべさせて あげる。 | If you're good, I'll let you have an ice cream.
+ex: 少し考えさせてください。 | すこし かんがえさせて ください。 | Please let me think about it a little.
+== The causative-passive — be made to do
+The **causative-passive** means someone is **forced to do** something (usually against their will). The person who forces is marked with **に**. These verbs conjugate as ichidan verbs.
+rule: Godan: ない form, replace ない with せられる → usually shortened to される (読まされる, 待たされる)
+rule: Ichidan: remove る + させられる (食べさせられる)
+rule: Irregular: する → させられる, 来る → 来させられる (こさせられる)
+warn: The short form ～される is not used with verbs ending in す: 話す → 話させられる (not 話さされる).
+ex: 彼はそうさせられました。 | かれ は そう させられました。 | He was made to do it that way.
+ex: 子供の時、母に野菜を食べさせられた。 | こども の とき、はは に やさい を たべさせられた。 | When I was a child, my mother made me eat vegetables.
+ex: 駅で一時間も待たされた。 | えき で いちじかん も またされた。 | I was kept waiting at the station for a whole hour.
+table: Summary for 書く and 食べる :: Form | Godan 書く | Ichidan 食べる
+- Passive | 書かれる | 食べられる
+- Causative | 書かせる | 食べさせる
+- Causative-passive | 書かされる / 書かせられる | 食べさせられる
+- Potential (Lesson 6) | 書ける | 食べられる
+vocab:
+- 雑誌 | ざっし | zasshi | magazine
+- 広く | ひろく | hiroku | widely
+- 試合 | しあい | shiai | match, game
+- 褒める | ほめる | homeru | to praise
+- 宿題 | しゅくだい | shukudai | homework
+- パソコン | パソコン | pasokon | (personal) computer
+- 使う | つかう | tsukau | to use
+- 考える | かんがえる | kangaeru | to think, consider
+
+=lesson n4-9 | N4 · Lesson 9 | Conditionals
+== ～ば and ～たら — if
+Japanese has several ways to say "if". ～ば and ～たら are the most common.
+li: **～ば** states a **general or logical condition**: if A, then B. It's often used for advice and hypotheses.
+li: **～たら** is the most versatile: "if" for a concrete, one-off situation, and also "**when / after**" A happens, then B.
+=== Forming ～ば
+rule: Verbs: final -u → -e + ば (行く → 行けば, 食べる → 食べれば)
+rule: Irregular: する → すれば, 来る → 来れば (くれば)
+rule: い-adjective (and ～ない, ～たい): replace い with ければ (高い → 高ければ, 行かない → 行かなければ)
+rule: Noun / な-adjective: + なら(ば) or であれば; negative: でなければ / じゃなければ
+=== Forming ～たら
+rule: Any plain past form + ら (行った → 行ったら, 高かった → 高かったら, 雨だった → 雨だったら)
+ex: 成功したければ、一生懸命働かなければならない。 | せいこう したければ、いっしょうけんめい はたらかなければ ならない。 | If you want to succeed, you have to work as hard as you can.
+ex: 早起きすれば間に合いますよ。 | はやおき すれば まにあいます よ。 | If you get up early, you'll make it in time.
+ex: 助けが必要だったら呼んでくれ。 | たすけ が ひつよう だったら よんで くれ。 | If you need help, call me.
+ex: 家に着いたら電話します。 | いえ に ついたら でんわ します。 | I'll call you when I get home.
+ex: 左へ曲がったらいいか右へ曲がったらいいか分からない。 | ひだり へ まがったら いい か みぎ へ まがったら いい か わからない。 | I don't know whether to turn left or right.
+== ～なら — if (it's the case that…)
+なら(ば) sets a **context**: "if (that's the case)…", "if it's about…". It often picks up something the other person just said. ならば is slightly more formal than なら.
+rule: Verb / い-adjective (plain) + なら
+rule: Noun / な-adjective + なら
+ex: 必要ならば手伝わせてください。 | ひつよう ならば てつだわせて ください。 | If it's necessary, please let me help.
+ex: 京都に行くなら、秋がいいですよ。 | きょうと に いく なら、あき が いい です よ。 | If you're going to Kyoto, autumn is a good time.
+ex: すしなら、あの店がおいしいです。 | すし なら、あの みせ が おいしい です。 | If it's sushi you want, that restaurant is good.
+== ～と — whenever / if (natural result)
+fig: ballfall
+The particle と after a plain verb expresses a **natural, automatic consequence**: whenever A happens, B follows. B can't be a request, invitation or wish.
+rule: Verb (plain, present) + と + result
+rule: Noun / な-adjective + だ + と + result
+ex: ボールを落とすと落ちる。 | ボール を おとす と おちる。 | If you drop a ball, it falls.
+ex: このボタンを押すと、ドアが開きます。 | この ボタン を おす と、ドア が あきます。 | When you press this button, the door opens.
+ex: 春になると、桜が咲きます。 | はる に なる と、さくら が さきます。 | When spring comes, the cherry trees bloom.
+table: Which "if" should I use? :: | ～ば | ～たら | ～なら | ～と
+- General truth, logic | ✓ | ✓ | – | ✓
+- One-off, concrete case | ✓ | ✓ (best) | ✓ | –
+- "When / after" A happens | – | ✓ | – | ✓ (automatic)
+- Advice / request in the result | ✓ | ✓ | ✓ | ✗
+- Reacting to what was just said | – | – | ✓ (best) | –
+== ～ても — even if / even though
+rule: Verb て form + も
+rule: い-adjective: replace い with くても (高くても)
+rule: Noun / な-adjective + でも (雨でも, 静かでも)
+ex: 私は雨が降っても行くつもりだ。 | わたし は あめ が ふって も いく つもり だ。 | I intend to go even if it rains.
+ex: 今度は失敗してもまた機会がありますよ。 | こんど は しっぱい して も また きかい が あります よ。 | Even if you fail this time, you'll have another chance.
+== ～のに — although / in order to
+のに has two different uses:
+li: **although, even though** — often expressing surprise, frustration or regret about an unexpected result. At the end of a sentence it means "…and yet!", "if only…". It's more emotional than けど, and more neutral than くせに.
+li: **in order to, for** — after a plain verb, with words like 必要, 便利, いい, 使う, かかる.
+rule: Verb / い-adjective (plain) + のに
+rule: Noun / な-adjective + な + のに
+ex: 一生懸命勉強したのに、試験に落ちた。 | いっしょうけんめい べんきょう した のに、しけん に おちた。 | Even though I studied hard, I failed the exam.
+ex: 彼はもっと注意すべきだったのに。 | かれ は もっと ちゅうい すべき だった のに。 | He really should have been more careful!
+ex: 列車に乗るのに十分な時間がある。 | れっしゃ に のる のに じゅうぶん な じかん が ある。 | We have enough time to catch the train.
+fig: compass
+vocab:
+- 成功する | せいこうする | seikō suru | to succeed
+- 早起き | はやおき | hayaoki | getting up early
+- 間に合う | まにあう | ma ni au | to be in time
+- 助け | たすけ | tasuke | help
+- 必要な | ひつような | hitsuyō na | necessary
+- 左 | ひだり | hidari | left
+- 右 | みぎ | migi | right
+- 北 | きた | kita | north
+- 南 | みなみ | minami | south
+- 西 | にし | nishi | west
+- 東 | ひがし | higashi | east
+- 曲がる | まがる | magaru | to turn, bend
+- 手伝う | てつだう | tetsudau | to help
+- 落ちる | おちる | ochiru | to fall; to fail (an exam)
+- 落とす | おとす | otosu | to drop
+- 桜 | さくら | sakura | cherry blossom
+- 咲く | さく | saku | to bloom
+- 十分な | じゅうぶんな | jūbun na | enough, sufficient
+- 乗る | のる | noru | to get on, ride
+- 時間 | じかん | jikan | time
+- 雨が降る | あめがふる | ame ga furu | to rain
+- 失敗する | しっぱいする | shippai suru | to fail
+- 機会 | きかい | kikai | opportunity, chance
+
+=lesson n4-10 | N4 · Lesson 10 | Sources, opinions and rumours
+== ～によると / ～によれば / ～によって / ～の意見では
+li: **～によると / ～によれば** — "according to…": gives the **source** of information. The sentence usually ends with そうだ / らしい ("I hear…").
+li: **～の意見では** (のいけんでは) — "in (someone's) opinion": 私の意見では, "in my opinion".
+li: **～によって** — "**depending on**…, varying with…", and also "by (means of)" or "by (an agent)" in formal passives.
+rule: Noun + によると / によれば / によって / の意見では
+ex: 天気予報によると、明日は雨だそうだ。 | てんき よほう に よる と、あした は あめ だ そう だ。 | According to the weather forecast, it will rain tomorrow.
+ex: 聖書によれば、神は6日で世界を創られた。 | せいしょ に よれば、かみ は むいか で せかい を つくられた。 | According to the Bible, God created the world in six days.
+ex: 人によって意見が異なる。 | ひと に よって いけん が ことなる。 | Opinions differ from person to person.
+ex: 私の意見では、彼はその仕事に適任だ。 | わたし の いけん では、かれ は その しごと に てきにん だ。 | In my opinion, he is the right person for the job.
+== ～らしい — apparently, I hear
+らしい expresses something you **heard or inferred** from evidence: "apparently", "it seems". It conjugates like an い-adjective.
+rule: Verb / い-adjective (plain) + らしい
+rule: Noun / な-adjective + らしい (no だ)
+ex: 秘密がもれたらしい。 | ひみつ が もれた らしい。 | It seems the secret has leaked.
+ex: 彼はうそをついたらしい。 | かれ は うそ を ついた らしい。 | Apparently he lied.
+note: After a noun, らしい can also mean "typical of, worthy of": 男らしい (manly), 子供らしい (childlike), あなたらしい (so like you).
+== ～かどうか — whether or not
+かどうか turns a yes/no question into part of a sentence: "whether (or not)…". It is often followed by 分からない, 知らない, 覚えていない or 聞く.
+rule: Verb / い-adjective (plain) + かどうか
+rule: Noun / な-adjective + かどうか (だ is dropped)
+ex: それが本当かどうか分からない。 | それ が ほんとう か どう か わからない。 | I don't know whether it's true or not.
+ex: 彼が来るかどうか知らない。 | かれ が くる か どう か しらない。 | I don't know whether he'll come.
+ex: 窓を閉めたかどうか覚えていません。 | まど を しめた か どう か おぼえて いません。 | I don't remember whether I closed the window.
+vocab:
+- 意見 | いけん | iken | opinion
+- 異なる | ことなる | kotonaru | to differ
+- 天気予報 | てんきよほう | tenki yohō | weather forecast
+- 聖書 | せいしょ | seisho | the Bible
+- 神 / 神様 | かみ / かみさま | kami / kamisama | God, a god
+- 創る | つくる | tsukuru | to create
+- 適任 | てきにん | tekinin | well suited, the right person
+- 秘密 | ひみつ | himitsu | secret
+- 漏れる | もれる | moreru | to leak, get out
+- 嘘 | うそ | uso | lie
+- 嘘をつく | うそをつく | uso o tsuku | to tell a lie
+- 嘘つき | うそつき | usotsuki | liar
+- 本当 | ほんとう | hontō | truth, real
+- 覚える | おぼえる | oboeru | to remember, memorise
+
+=lesson n4-11 | N4 · Lesson 11 | Expectations and obligations
+== はず — should (be), supposed to
+はず expresses an **expectation** based on logic or information: something "should" be the case, or is "supposed to" happen. With がない / はない it means "it can't possibly be". Add です to be polite.
+rule: Verb / い-adjective (plain) + はずだ
+rule: Noun + の + はずだ; な-adjective + な + はずだ
+rule: Verb (plain) + はずがない — "can't possibly"
+ex: 彼はきっと試合に勝つはずだ。 | かれ は きっと しあい に かつ はず だ。 | He should definitely win the match.
+ex: 今日は学校に行くはずじゃなかったの？ | きょう は がっこう に いく はず じゃ なかった の？ | Weren't you supposed to go to school today?
+ex: 彼がそんなことを言うはずがない。 | かれ が そんな こと を いう はず が ない。 | He can't possibly have said such a thing.
+== べき — should, ought to
+べき expresses a **moral duty** or strong advice: "should, ought to". It is stronger than はず and ほうがいい. べきだった means "should have".
+rule: Verb (plain) + べきだ — する → すべき (or するべき)
+rule: Verb (plain) + べきではない — "should not"
+rule: Noun / な-adjective + であるべきだ
+rule: い-adjective: replace い with く + あるべきだ
+ex: 両親には従うべきだ。 | りょうしん に は したがう べき だ。 | You should obey your parents.
+ex: 早く帰るべきです。 | はやく かえる べき です。 | You should go home early.
+ex: やるべきことはまだたくさんある。 | やる べき こと は まだ たくさん ある。 | There are still lots of things to do.
+ex: 人のことを悪く言うべきではない。 | ひと の こと を わるく いう べき では ない。 | You shouldn't speak ill of others.
+== ～なさい — do it! (soft command)
+～なさい is a firm but gentle **command**, used by parents to children, teachers to pupils, or in exam instructions. Don't use it with superiors or strangers.
+rule: Verb stem + なさい
+ex: 朝15分早く起きなさい。 | あさ じゅうごふん はやく おきなさい。 | Get up fifteen minutes earlier in the morning.
+ex: お年寄りに親切にしなさい。 | おとしより に しんせつ に しなさい。 | Be kind to elderly people.
+ex: 次の文を読みなさい。 | つぎ の ぶん を よみなさい。 | Read the following sentence. (exam instruction)
+vocab:
+- 試合 | しあい | shiai | match
+- 勝つ | かつ | katsu | to win
+- 負ける | まける | makeru | to lose
+- 従う | したがう | shitagau | to obey, follow
+- 悪く言う | わるくいう | waruku iu | to speak ill of
+- 親切な | しんせつな | shinsetsu na | kind
+- 次 | つぎ | tsugi | next
+- 文 | ぶん | bun | sentence
+
+=lesson n4-12 | N4 · Lesson 12 | Counters
+Counters (助数詞, じょすうし) are an essential part of Japanese from N4 onwards. Different kinds of things are counted with different counters. The general counter ～つ (Lesson 5 of N5) works for many objects, but using the right counter makes you sound much more natural.
+tip: Fun fact: in *Attack on Titan*, Eren counts titans with ～匹, the counter for **small animals** — a deliberate insult that shows his contempt for them.
+note: The counter goes **after** the noun and its particle, before the verb: 本を三冊買いました (I bought three books), 猫が二匹います (there are two cats).
+Readings in **red** are irregular (sound changes like いっ・ろっ・はっ・じゅっ or ぴ／ぽ／ば). Click a reading to hear it.
+counters:
+table: Question words for counting :: Question | Meaning
+- いくつ | how many (things)?
+- 何人 (なんにん) | how many people?
+- 何本 (なんぼん)・何匹 (なんびき)・何杯 (なんばい) | how many (long things / animals / cups)?
+- 何冊 (なんさつ)・何枚 (なんまい)・何台 (なんだい) | how many (books / sheets / machines)?
+- 何階 (なんがい) | which floor?
+- 何歳 (なんさい)・おいくつ | how old?
+note: 20 years old has its own special word: **二十歳** (はたち). And the general counter stops at 10 (とお); from 11 you use plain numbers: じゅういち, じゅうに…
+
+=lesson n4-13 | N4 · Lesson 13 | Keigo basics
+fig: keigo | Two directions of respect.
+**Keigo** (敬語) is the respectful language used with customers, superiors, teachers and strangers. At N4 you need to recognise two main kinds:
+li: **尊敬語** (そんけいご, honorific language): raises **the other person** by describing *their* actions respectfully.
+li: **謙譲語** (けんじょうご, humble language): lowers **yourself** by describing *your own* actions humbly.
+== お～します (humble) and お～ください (polite request)
+To speak humbly about something **you do for someone**, use お + verb stem + します (or いたします, even humbler).
+rule: お + Verb stem + します
+ex: 手伝います → お手伝いします | てつだいます → おてつだい します | I'll help you.
+ex: 持ちます → お持ちします | もちます → おもち します | Let me carry that for you.
+To make a **polite request**, use お + verb stem + ください.
+rule: お + Verb stem + ください
+ex: 待ちます → お待ちください | まちます → おまち ください | Please wait.
+ex: 入ります → お入りください | はいります → おはいり ください | Please come in.
+note: With Sino-Japanese words (two kanji, on-yomi), use **ご** instead of お: ご確認ください (please check), ご連絡します (I'll contact you), ご案内します (I'll show you the way).
+== Special honorific and humble verbs
+Some very common verbs have their own special keigo forms. These are worth learning by heart — you'll hear them in every shop, station and office in Japan.
+table: :: Plain verb | Honorific 尊敬語 (them) | Humble 謙譲語 (me)
+- 行く / 来る (go / come) | いらっしゃる | 参る (まいる)
+- いる (be) | いらっしゃる | おる
+- する (do) | なさる | いたす
+- 言う (say) | おっしゃる | 申す (もうす)
+- 食べる / 飲む (eat / drink) | 召し上がる (めしあがる) | いただく
+- 見る (see) | ご覧になる (ごらんになる) | 拝見する (はいけんする)
+- 知っている (know) | ご存じだ (ごぞんじだ) | 存じている (ぞんじている)
+- くれる (give me) | くださる | —
+- もらう (receive) | — | いただく
+ex: 先生はいらっしゃいますか。 | せんせい は いらっしゃいます か。 | Is the teacher in?
+ex: どうぞ召し上がってください。 | どうぞ めしあがって ください。 | Please, help yourself (eat).
+ex: よろしくお願いいたします。 | よろしく おねがい いたします。 | Thank you in advance. / I look forward to working with you.
+ex: 私が説明いたします。 | わたし が せつめい いたします。 | I will explain.
+== くださる — (a superior) gives me / does for me
+くださる is the honorific form of くれる: someone of higher status **gives** you something, or does something **for you** (with the て form). Its ます form is irregular: くださいます.
+ex: 先生が本をくださいました。 | せんせい が ほん を くださいました。 | The teacher gave me a book.
+ex: 先生が教えてくださいました。 | せんせい が おしえて くださいました。 | The teacher kindly taught me.
+== いただく — I humbly receive
+いただく is the humble form of もらう: you **receive** something from someone of higher status. It's the word in the famous いただきます said before eating — you humbly receive the food. You can use it when someone gives you food or a present, and with the て form (～ていただく, Lesson 4).
+ex: 先生からこの辞書をいただきました。 | せんせい から この じしょ を いただきました。 | I received this dictionary from my teacher.
+ex: 部長に手伝っていただきました。 | ぶちょう に てつだって いただきました。 | My manager kindly helped me.
+note: With friends and family, use もらう: 友達からこのドレスをもらいました (I got this dress from a friend).
+== 申す — to be called (humble)
+申す (もうす) is the humble form of 言う. It's the standard way to give your name in formal situations: job interviews, phone calls, business meetings.
+ex: 私は田中と申します。 | わたし は たなか と もうします。 | My name is Tanaka.
+ex: 山田と申しますが、佐藤さんはいらっしゃいますか。 | やまだ と もうします が、さとう さん は いらっしゃいます か。 | This is Yamada speaking — is Mr Sato there?
+vocab:
+- 敬語 | けいご | keigo | respectful language
+- 確認 | かくにん | kakunin | confirmation, check
+- 連絡 | れんらく | renraku | contact
+- 案内 | あんない | annai | guidance, showing the way
+- 説明 | せつめい | setsumei | explanation
+- 部長 | ぶちょう | buchō | department manager
+- 教える | おしえる | oshieru | to teach, tell

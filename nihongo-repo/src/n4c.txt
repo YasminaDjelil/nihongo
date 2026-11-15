@@ -1,0 +1,191 @@
+=lesson n4-ex | N4 · Practice | N4 exercises
+tip: These exercises review both N5 and N4. Try them on paper (or print this page), then check with the answers.
+== Particles
+Fill in the correct particle.
+q: 日本＿＿三年間住んでいました。
+q: 毎朝コーヒー＿＿飲みます。
+q: 父＿＿会社員です。
+q: バス＿＿学校へ行きます。
+q: 図書館＿＿本を借りました。
+q: 明日友達＿＿映画を見ます。
+q: 電車＿＿遅れています。
+q: この店＿＿パンがおいしいです。
+ans: 日本**に**三年間住んでいました。 — I lived in Japan for three years.
+ans: 毎朝コーヒー**を**飲みます。 — I drink coffee every morning.
+ans: 父**は**会社員です。 — My father is an office worker.
+ans: バス**で**学校へ行きます。 — I go to school by bus.
+ans: 図書館**で**本を借りました。 — I borrowed a book at the library.
+ans: 明日友達**と**映画を見ます。 — Tomorrow I'll watch a film with a friend.
+ans: 電車**が**遅れています。 — The train is delayed.
+ans: この店**は**パンがおいしいです。 — This shop's bread is delicious. (As for this shop, the bread is good.)
+== The right verb form
+Choose the correct answer.
+q: 雨が（　）ので、傘を持って行きます。 — A. 降ります　B. 降った　C. 降って　D. 降る
+q: 毎日日本語を（　）います。 — A. 勉強して　B. 勉強し　C. 勉強します　D. 勉強
+q: 先生はもう（　）。 — A. 来ました　B. 来ます　C. 来る　D. 来ない
+ans: **D. 降る** — It's going to rain, so I'll take an umbrella.
+ans: **A. 勉強して** — I study Japanese every day. (て form + いる)
+ans: **A. 来ました** — The teacher has already come. (もう + past)
+== The て form
+Change to the て form.
+q: 飲む →
+q: 書く →
+q: 遊ぶ →
+q: 話す →
+q: 待つ →
+q: 死ぬ →
+q: 読む →
+q: 帰る →
+ans: 飲んで
+ans: 書いて
+ans: 遊んで
+ans: 話して
+ans: 待って
+ans: 死んで
+ans: 読んで
+ans: 帰って (帰る is godan!)
+== The ない form
+Change to the negative ない form.
+q: 行く →
+q: 食べる →
+q: 来る →
+q: する →
+q: 見る →
+q: 飲む →
+q: 読む →
+q: 買う →
+ans: 行かない
+ans: 食べない
+ans: 来ない (こない)
+ans: しない
+ans: 見ない
+ans: 飲まない
+ans: 読まない
+ans: 買わない (う → わ)
+== Kanji
+Give the reading.
+q: 最近
+q: 勉強
+q: 病院
+q: 旅行
+q: 天気
+q: 自転車
+q: 電話
+q: 機会
+q: 経験
+q: 会社
+ans: さいきん (recently)
+ans: べんきょう (study)
+ans: びょういん (hospital)
+ans: りょこう (travel)
+ans: てんき (weather)
+ans: じてんしゃ (bicycle)
+ans: でんわ (telephone)
+ans: きかい (opportunity)
+ans: けいけん (experience)
+ans: かいしゃ (company)
+== The right word
+q: 昨日はとても（　）。 — A. 忙しかった　B. 忙しいです　C. 忙しく　D. 忙しいでした
+q: 私は毎日（　）へ行きます。 — A. 学校　B. 猫　C. 天気　D. 本
+q: このケーキは（　）です。 — A. 甘い　B. 遠い　C. 暗い　D. 若い
+ans: **A. 忙しかった** — I was very busy yesterday. (忙しいでした is a common mistake: the past is in the adjective, not in です.)
+ans: **A. 学校** — I go to school every day.
+ans: **A. 甘い** — This cake is sweet.
+== Word order
+Put the words in the right order.
+q: 行く / 来週 / 京都へ / つもりです
+q: 日本語を / 毎日 / 勉強しています
+q: 買いました / 新しい / 昨日 / 靴を
+ans: 来週京都へ行くつもりです。 — I intend to go to Kyoto next week.
+ans: 毎日日本語を勉強しています。 — I study Japanese every day.
+ans: 昨日新しい靴を買いました。 — I bought new shoes yesterday.
+== Adjectives
+Change to the form requested.
+q: 高い → past
+q: 静かな → negative
+q: 元気な → past
+q: 新しい → negative
+q: 有名な → past negative
+ans: 高かった
+ans: 静かではない / 静かじゃない
+ans: 元気だった
+ans: 新しくない
+ans: 有名ではなかった / 有名じゃなかった
+== Question words
+Fill in a question word. The expected answer is given in brackets.
+q: ＿＿来ましたか。 (Yesterday.)
+q: あの方は＿＿の人ですか。 (From France.)
+q: 週末は＿＿へ行きますか。 (To the sea.)
+q: 昼ご飯に＿＿を食べますか。 (Ramen.)
+q: ＿＿時間がありますか。 (About 30 minutes.)
+ans: **いつ**来ましたか。 — When did you come?
+ans: あの方は**どこ**の人ですか。 — Where is that person from?
+ans: 週末は**どこ**へ行きますか。 — Where are you going this weekend?
+ans: 昼ご飯に**なに**を食べますか。 — What will you have for lunch?
+ans: **どのくらい**時間がありますか。 — How much time do you have?
+== Counters
+Fill in the right counter.
+q: 本を三＿＿買いました。
+q: 猫が二＿＿います。
+q: 車が一＿＿あります。
+q: 人が五＿＿います。
+q: 水を二＿＿飲みました。
+ans: 三**冊** (さんさつ)
+ans: 二**匹** (にひき)
+ans: 一**台** (いちだい)
+ans: 五**人** (ごにん)
+ans: 二**杯** (にはい)
+== Connectors
+Choose from しかし・そして・だから・でも (use each once).
+q: 雨でした。＿＿、出かけました。
+q: お金がありません。＿＿、買えません。
+q: 朝ご飯を食べました。＿＿、学校へ行きました。
+q: 日本語は難しいです。＿＿、面白いです。
+ans: **でも** — It was raining. But I went out anyway.
+ans: **だから** — I have no money. So I can't buy it.
+ans: **そして** — I had breakfast. Then I went to school.
+ans: **しかし** — Japanese is difficult. However, it's interesting. (でも and しかし both mean "but"; しかし is more formal.)
+== Translation
+Translate into Japanese.
+q: I went to the supermarket yesterday.
+q: I'm going to study Japanese this evening.
+q: It's cold today.
+q: My older brother drives a car.
+q: I'd like to visit Japan.
+ans: 昨日スーパーへ行きました。
+ans: 今晩日本語を勉強します。 / 今晩日本語を勉強するつもりです。
+ans: 今日は寒いです。
+ans: 兄は車を運転します。
+ans: 日本を訪ねたいです。 / 日本に行ってみたいです。
+== Listening comprehension
+Imagine you hear this sentence:
+ex: 明日は朝から雨ですが、午後は晴れるでしょう。 | あした は あさ から あめ です が、ごご は はれる でしょう。 | Tomorrow it will rain from the morning, but it will probably clear up in the afternoon.
+q: What will the weather be like in the morning?
+q: And in the afternoon?
+ans: It will rain (from the morning).
+ans: It will probably be sunny / clear up.
+== Reading
+Read the text, then answer the questions.
+ex: 休日の一日 | きゅうじつ の いちにち | A day off
+ex: 先週の日曜日、私は朝八時に起きました。天気がとてもよかったので、公園へ散歩に行きました。公園には子どもや犬を散歩させている人がたくさんいました。昼ご飯は近くのレストランでカレーを食べました。午後は図書館へ行って、日本の歴史についての本を読みました。歴史は少し難しかったですが、とても面白かったです。 | せんしゅう の にちようび、わたし は あさ はちじ に おきました。てんき が とても よかった ので、こうえん へ さんぽ に いきました。こうえん に は こども や いぬ を さんぽ させて いる ひと が たくさん いました。ひるごはん は ちかく の レストラン で カレー を たべました。ごご は としょかん へ いって、にほん の れきし に ついて の ほん を よみました。れきし は すこし むずかしかった です が、とても おもしろかった です。 | Last Sunday I got up at eight in the morning. The weather was very nice, so I went for a walk in the park. In the park there were lots of children and people walking their dogs. For lunch I had curry at a nearby restaurant. In the afternoon I went to the library and read a book about Japanese history. History was a little difficult, but very interesting.
+ex: 夕方、友達から電話がありました。友達は「来週京都へ旅行しませんか」と聞きました。私はすぐに「ぜひ行きたいです」と答えました。家へ帰ってから、旅行の計画を立てました。京都には有名なお寺や神社がたくさんあるので、とても楽しみです。夜は少し疲れていましたが、旅行のことを考えながら十一時に寝ました。 | ゆうがた、ともだち から でんわ が ありました。ともだち は「らいしゅう きょうと へ りょこう しません か」と ききました。わたし は すぐ に「ぜひ いきたい です」と こたえました。いえ へ かえって から、りょこう の けいかく を たてました。きょうと に は ゆうめい な おてら や じんじゃ が たくさん ある ので、とても たのしみ です。よる は すこし つかれて いました が、りょこう の こと を かんがえ ながら じゅういちじ に ねました。 | In the early evening a friend called me. My friend asked, "Shall we take a trip to Kyoto next week?" I answered right away, "I'd love to go!" After I got home, I planned the trip. Kyoto has lots of famous temples and shrines, so I'm really looking forward to it. In the evening I was a little tired, but I went to bed at eleven, thinking about the trip.
+q: 何時に起きましたか。
+q: なぜ公園へ行きましたか。
+q: 昼ご飯に何を食べましたか。
+q: 午後はどこへ行きましたか。
+q: 何についての本を読みましたか。
+q: だれから電話がありましたか。
+q: 来週どこへ行く予定ですか。
+q: 京都には何がありますか。
+q: 夜、何を考えながら寝ましたか。
+q: この人は旅行を楽しみにしていますか。
+ans: 八時に起きました。
+ans: 天気がとてもよかったからです。
+ans: カレーを食べました。
+ans: 図書館へ行きました。
+ans: 日本の歴史についての本を読みました。
+ans: 友達から電話がありました。
+ans: 京都へ行く予定です。
+ans: 有名なお寺や神社がたくさんあります。
+ans: 旅行のことを考えながら寝ました。
+ans: はい、とても楽しみにしています。

@@ -1,0 +1,510 @@
+=lesson n5-7 | N5 · Lesson 7 | Sentence endings, before / after / during
+== Sentence-ending expressions
+=== 1. でしょう / だろう — "probably", "right?"
+At the end of a sentence, でしょう (polite) or だろう (plain) express **probability**: "probably", "I suppose". Said with a rising tone, でしょう? asks for confirmation: "…right?". They come after the plain form of a verb or adjective, or directly after a noun.
+ex: 彼は来るだろう。 | Kare wa kuru darō. | He'll probably come.
+ex: 彼はまけないでしょう。 | Kare wa makenai deshō. | He probably won't lose.
+=== 2. のです / んです — explaining
+At the end of a sentence, のです gives an **explanation** or background ("it's that…"). It can also soften what you say or show interest in the conversation. In speech it usually becomes んです (polite) or んだ (casual).
+ex: 私は仕事をさがしにここに来たんだ。 | Watashi wa shigoto o sagashi ni koko ni kita n da. | (The thing is,) I came here to look for work.
+ex: どうしたんですか。 | Dō shita n desu ka. | What's the matter? (What happened?)
+== Before, after, during
+=== 1. 前に (まえに) — before
+rule: Verb (plain dictionary form) + 前に
+rule: Noun + の前に
+ex: 来る前に食べた。 | Kuru mae ni tabeta. | I ate before coming.
+ex: 彼女は食事の前によごれた手をあらった。 | Kanojo wa shokuji no mae ni yogoreta te o aratta. | She washed her dirty hands before the meal.
+note: The verb before 前に is always in the **present** form, even when the sentence is in the past.
+=== 2. 後で (あとで) — after
+rule: Verb (plain past, た form) + 後で
+rule: Noun + の後で
+ex: 雨の後で、地面がぬれている。 | Ame no ato de, jimen ga nurete iru. | The ground is wet after the rain.
+ex: 映画の後で、彼らはねむってしまいました。 | Eiga no ato de, karera wa nemutte shimaimashita. | They fell asleep after the film.
+ex: 宿題をした後で、テレビを見ます。 | Shukudai o shita ato de, terebi o mimasu. | I watch TV after doing my homework.
+=== 3. 中 (ちゅう / じゅう) — during, throughout
+After a noun of activity, 中 is read **ちゅう** and means "during / in the middle of". After a place or a period of time, it is read **じゅう** and means "throughout / all over".
+ex: 彼は仕事中に事故にあった。 | Kare wa shigoto-chū ni jiko ni atta. | He had an accident while at work.
+ex: 彼女は世界中を旅行した。 | Kanojo wa sekai-jū o ryokō shita. | She travelled all over the world.
+ex: 明日は一日中家にいるつもりです。 | Ashita wa ichinichi-jū ie ni iru tsumori desu. | Tomorrow I intend to stay home all day.
+== Indefinite words
+Question words become indefinite words when you add か, も or でも.
+table: :: | + か (some-) | + も (every- / no-) | + でも (any-)
+- いつ when | いつか some day | いつも always | いつでも any time
+- だれ who | だれか someone | だれも + negative: nobody | だれでも anyone
+- なに what | なにか something | なにも + negative: nothing | なんでも anything
+- どこ where | どこか somewhere | どこも everywhere / どこにも + negative: nowhere | どこでも anywhere
+- どれ which | どれか one of them | どれも all of them | どれでも whichever
+note: With a negative verb, も means "no-": だれも来ませんでした (nobody came), なにも食べません (I eat nothing), どこにも行きません (I'm not going anywhere). Also useful: なにもかも = absolutely everything.
+vocab:
+- | あなた | anata | you (use names instead when you can)
+- 彼 | かれ | kare | he; boyfriend
+- 彼女 | かのじょ | kanojo | she; girlfriend
+- 私たち | わたしたち | watashitachi | we
+- | あなたたち | anatatachi | you (plural)
+- 彼ら | かれら | karera | they (men or mixed group)
+- 彼女たち | かのじょたち | kanojotachi | they (women)
+- 地面 | じめん | jimen | the ground
+- 映画 | えいが | eiga | film, movie
+- 電車 | でんしゃ | densha | train
+- 事故 | じこ | jiko | accident
+- 世界 | せかい | sekai | world
+- 食事 | しょくじ | shokuji | meal
+- 頭 | あたま | atama | head
+- 手 | て | te | hand
+- 腕 | うで | ude | arm
+- 足 | あし | ashi | foot; leg
+- 脚 | あし | ashi | leg
+- 汚れる | よごれる | yogoreru | to get dirty
+- 洗う | あらう | arau | to wash
+- 答える | こたえる | kotaeru | to answer
+- 聞く | きく | kiku | to listen; to ask
+- 濡れる | ぬれる | nureru | to get wet
+- 旅行(する) | りょこう(する) | ryokō (suru) | travel, trip (to travel)
+
+=lesson n5-8 | N5 · Lesson 8 | Wanting, liking, existing, adjectives
+== Desire and intention
+=== 1. The たい form — "want to"
+Take the ます form of a verb, remove ます and add **たい**. This means "want to (do)". Add です at the end to be more polite.
+rule: Verb stem (ます form without ます) + たい
+ex: たべたい。 | Tabetai. | I want to eat.
+ex: 日本に行きたいです。 | Nihon ni ikitai desu. | I want to go to Japan.
+The たい form conjugates like an い-adjective:
+table: :: Form | Ending | Example
+- Negative | ～たくない | たべたくない — I don't want to eat
+- Past | ～たかった | たべたかった — I wanted to eat
+- Past negative | ～たくなかった | たべたくなかった — I didn't want to eat
+note: たい is used for **your own** wishes (or to ask "do you want to…?"). For someone else's wishes, see ～たがる in N4 Lesson 5.
+=== 2. Liking and disliking — 好き / 嫌い
+To say what you like, use 好き (すき) です. To say you love something, add 大 (だい) in front: 大好きです. The thing you like is marked with **が**.
+rule: Noun + が + 好きです
+ex: チョコが好きです。 | Choko ga suki desu. | I like chocolate.
+ex: コーヒーが好きではありません。 | Kōhī ga suki de wa arimasen. | I don't like coffee.
+嫌い (きらい, to dislike / hate) exists, but Japanese people use it sparingly because it sounds strong. 好きではありません is the gentler choice.
+ex: うそつきが大嫌いです。 | Usotsuki ga daikirai desu. | I hate liars.
+=== 3. つもり — intending to
+rule: Verb (plain form) + つもりです
+つもりです can be conjugated in the tense you need (つもりでした, I intended to…).
+ex: 来週海に行くつもりです。 | Raishū umi ni iku tsumori desu. | I intend to go to the sea next week.
+== Existence and position: います / あります
+います and あります both mean "there is / to be (somewhere)". There is no single English equivalent.
+li: **います** (*imasu*) is for **living things**: people and animals.
+li: **あります** (*arimasu*) is for **inanimate** things: objects, plants, places, events.
+Two sentence patterns are common:
+rule: Thing + は + Place + に + います / あります
+ex: ねこはテーブルのしたにいます。 | Neko wa tēburu no shita ni imasu. | The cat is under the table.
+rule: Place + に + Thing + が + います / あります
+ex: テーブルのしたにねこがいます。 | Tēburu no shita ni neko ga imasu. | There is a cat under the table.
+fig: position | Position words follow the pattern "Noun + の + position + に".
+Position words are linked to the reference noun with の: テーブル**の**うえ (on the table), いえ**の**まえ (in front of the house).
+vocab: Position words
+- 中 | なか | naka | inside, in the middle of
+- 上 | うえ | ue | on, above, up
+- 下 | した | shita | under, below, down
+- 後ろ | うしろ | ushiro | behind
+- 前 | まえ | mae | in front of
+- 横 | よこ | yoko | beside, next to
+- 隣 | となり | tonari | next door, right next to
+== Adjectives
+Japanese has two kinds of adjectives: those ending in **-い** and those that take **-な** before a noun.
+vocab: い-adjectives
+- 新しい | あたらしい | atarashii | new
+- 美味しい | おいしい | oishii | delicious
+- 悲しい | かなしい | kanashii | sad
+- 嬉しい | うれしい | ureshii | happy, glad
+- 楽しい | たのしい | tanoshii | fun, enjoyable
+- 可愛い | かわいい | kawaii | cute
+- 忙しい | いそがしい | isogashii | busy
+ex: このおんがくはたのしいです。 | Kono ongaku wa tanoshii desu. | This music is fun.
+ex: 日本りょうりはおいしいです。 | Nihon ryōri wa oishii desu. | Japanese food is delicious.
+vocab: な-adjectives
+- 有名な | ゆうめいな | yūmei na | famous
+- 綺麗な | きれいな | kirei na | pretty; clean
+- 賑やかな | にぎやかな | nigiyaka na | lively, busy (with people)
+- 暇な | ひまな | hima na | free, not busy
+- 静かな | しずかな | shizuka na | quiet
+ex: このかしゅはとてもゆうめいです。 | Kono kashu wa totemo yūmei desu. | This singer is very famous.
+ex: ゆうめいなかしゅ | yūmei na kashu | a famous singer
+warn: Before です, the な **disappears** (ゆうめいです), but the い of an い-adjective **stays** (たのしいです). Before a noun, both keep their ending: たのしいおんがく, ゆうめいなかしゅ. Careful: きれい ends in い but is a **な**-adjective!
+=== Joining two adjectives ("… and …")
+rule: い-adjective: replace い with くて
+rule: な-adjective: replace な with で
+ex: このジャケットはあたらしくてきれいです。 | Kono jaketto wa atarashikute kirei desu. | This jacket is new and pretty.
+ex: このかしゅはゆうめいでたのしいです。 | Kono kashu wa yūmei de tanoshii desu. | This singer is famous and fun.
+=== Adjective tenses
+table: :: Form | い-adjective たかい (expensive) | な-adjective しずか (quiet)
+- Present | たかい(です) | しずかだ / しずかです
+- Negative | たかくない(です) | しずかではない / しずかじゃないです
+- Past | たかかった(です) | しずかだった / しずかでした
+- Past negative | たかくなかった(です) | しずかではなかった / しずかじゃなかったです
+warn: One irregular adjective: いい (good) conjugates from よい → **よくない**, **よかった**, **よくなかった**.
+
+=lesson n5-9 | N5 · Lesson 9 | The て form, ability and change
+== The て form
+The **て form** links actions in time order ("I did A and then B"), can show cause ("because of A, B"), is used for polite requests and casual commands, and is the base of many other forms (ている, てください, てもいい…).
+rule: Ichidan: remove る + て
+ex: 食べる → 食べて | taberu → tabete | eat (and…)
+For **godan** verbs, use the same rules as the past (Lesson 6) and simply replace た / だ with **て / で**.
+table: Godan て form :: Verb ending | て ending | Examples
+- う・つ・る | って | 買う → 買って・分かる → 分かって・待つ → 待って
+- ぬ・ぶ・む | んで | 遊ぶ → 遊んで・飲む → 飲んで・死ぬ → 死んで
+- く | いて | 書く → 書いて・聞く → 聞いて
+- ぐ | いで | 泳ぐ → 泳いで・急ぐ → 急いで
+- す | して | 許す → 許して・貸す → 貸して
+warn: Irregular: する → **して** (do), 来る → **来て (きて)** (come), and 行く → **行って (いって)** (go).
+ex: あさおきて、シャワーをあびて、がっこうへいきます。 | Asa okite, shawā o abite, gakkō e ikimasu. | In the morning I get up, take a shower and go to school.
+=== 1. ～ている — ongoing action or state
+て + いる describes an action **in progress** ("be …ing"), a **habit**, or a **resulting state**.
+ex: 母はざっしを読んでいる。 | Haha wa zasshi o yonde iru. | My mother is reading a magazine.
+ex: そのはくぶつかんは月曜日から金曜日まで開いています。 | Sono hakubutsukan wa getsuyōbi kara kin'yōbi made aite imasu. | That museum is open from Monday to Friday.
+=== 2. ～てから — after doing
+て + から means "after doing…, (then)". It stresses the order of events.
+ex: 父はしゅじゅつをしてから、たいちょうがいい。 | Chichi wa shujutsu o shite kara, taichō ga ii. | My father has been in good health since his operation.
+=== 3. ～てください — please do
+ください means "please (give me)". With the て form it makes a polite **request** or instruction. For "please don't…", use the plain negative + **で** + ください.
+rule: Verb て form + ください
+rule: Verb ない form + でください
+ex: せつめいしょを読んでください。 | Setsumeisho o yonde kudasai. | Please read the instructions.
+ex: へやにはノックしないで入らないでください。 | Heya ni wa nokku shinaide hairanaide kudasai. | Please don't enter the room without knocking.
+== Ability and advice
+=== 1. ことができる — can, be able to
+Add ことができる to the plain form of a verb to say you are able to do it. できる ("can") conjugates like an ichidan verb: できます, できません…
+rule: Verb (plain form) + ことができる
+ex: 彼は英語を話すことができますか。 | Kare wa eigo o hanasu koto ga dekimasu ka? | Can he speak English?
+note: N4 Lesson 6 shows the shorter, more natural **potential form** (話せる = can speak).
+=== 2. ほうがいい — had better
+Use this to give advice or say what would be better. Add です to be more polite.
+rule: Verb (plain past, た form) + ほうがいい — "you'd better do"
+rule: Verb (ない form) + ほうがいい — "you'd better not do"
+rule: Noun + の + ほうがいい — "(this) would be better"
+ex: 彼女に電話したほうがいいです。 | Kanojo ni denwa shita hō ga ii desu. | You'd better call her.
+ex: 今日は電車で行ったほうがいい。 | Kyō wa densha de itta hō ga ii. | Today it would be better to go by train.
+ex: やきにくのほうがいい。 | Yakiniku no hō ga ii. | I'd prefer grilled meat.
+ex: むりしないほうがいいよ。 | Muri shinai hō ga ii yo. | You'd better not overdo it.
+=== 3. なる — to become
+なる means "to become" and conjugates as a **godan** verb (なります, なった…). It describes a change.
+rule: Noun / な-adjective (without な) + に + なる
+rule: い-adjective: replace い with く + なる
+ex: ひごとにさむくなってくる。 | Higoto ni samuku natte kuru. | It is getting colder day by day.
+ex: 森の中はふたたびしずかになった。 | Mori no naka wa futatabi shizuka ni natta. | The forest became quiet again.
+ex: いしゃになりたいです。 | Isha ni naritai desu. | I want to become a doctor.
+vocab:
+- 雑誌 | ざっし | zasshi | magazine
+- 新聞 | しんぶん | shinbun | newspaper
+- 写真 | しゃしん | shashin | photo
+- 博物館 | はくぶつかん | hakubutsukan | museum
+- 美術館 | びじゅつかん | bijutsukan | art museum
+- 手術 | しゅじゅつ | shujutsu | surgery, operation
+- 体調 | たいちょう | taichō | physical condition, health
+- 説明書 | せつめいしょ | setsumeisho | instructions, manual
+- 部屋 | へや | heya | room
+- 英語 | えいご | eigo | English (language)
+- 日毎に | ひごとに | higoto ni | day by day
+- 再び | ふたたび | futatabi | again
+- 電話 | でんわ | denwa | telephone
+- 電話番号 | でんわばんごう | denwa bangō | phone number
+- 焼肉 | やきにく | yakiniku | grilled meat (Japanese barbecue)
+- 医者 | いしゃ | isha | doctor
+table: Family words: my family vs. someone else's family :: English | My own (humble) | Someone else's (polite)
+- father | 父 ちち | お父さん おとうさん
+- mother | 母 はは | お母さん おかあさん
+- older sister | 姉 あね | お姉さん おねえさん
+- older brother | 兄 あに | お兄さん おにいさん
+- younger sister | 妹 いもうと | 妹さん いもうとさん
+- younger brother | 弟 おとうと | 弟さん おとうとさん
+- grandmother | 祖母 そぼ | おばあさん
+- grandfather | 祖父 そふ | おじいさん
+- aunt | 叔母 おば | おばさん
+- uncle | 叔父 おじ | おじさん
+note: When talking **about** your own family to others, use the humble words (父, 母…). When talking **to** your own family members, or about someone else's family, use the polite words (お父さん, お母さん…).
+
+=lesson n5-10 | N5 · Lesson 10 | Must, must not, experiences
+== Prohibition and obligation
+=== 1. ～てはいけません — must not
+This form expresses a clear **prohibition**: "you must not…". Said directly to someone, it is used by people in authority (a parent to a child, a teacher, a sign or rule).
+rule: Verb て form + は + いけません
+Variations, from most formal to most casual:
+table: :: Form | Register
+- ～てはなりません | very formal, written rules
+- ～てはいけません | polite
+- ～てはいけない / ～てはならない | plain (ならない is written / formal)
+- ～てはだめだ | casual
+- ～ちゃだめ / ～じゃだめ | colloquial (て は → ちゃ, で は → じゃ)
+ex: 目をとじてはいけない。 | Me o tojite wa ikenai. | Don't close your eyes.
+ex: ここでしゃしんをとってはいけません。 | Koko de shashin o totte wa ikemasen. | You must not take photos here.
+Using a **double negative** turns the meaning into "must": take the ない form, replace the final い with **くてはいけません**.
+rule: Verb ない form (without い) + くてはいけません
+ex: このくすりを飲まなくてはいけません。 | Kono kusuri o nomanakute wa ikemasen. | I have to take this medicine.
+=== 2. ～なければなりません — must, have to
+This expresses an **obligation**: something you have to do, a duty you can't avoid.
+rule: Verb ない form (without い) + ければなりません
+table: :: Form | Register
+- ～なければなりません | formal
+- ～なければいけません | polite
+- ～なければならない / ～なければいけない | plain
+- ～なきゃだめだ | casual
+- ～なきゃ | very casual (spoken)
+ex: はやくねなければいけない。 | Hayaku nenakereba ikenai. | I have to go to bed early.
+ex: 通りをわたるときは注意しなければなりません。 | Tōri o wataru toki wa chūi shinakereba narimasen. | You must be careful when you cross the street.
+== More uses of the た form
+=== 1. ～たことがある — have done before
+This expresses a past **experience**: "have (ever) done".
+rule: Verb (plain past, た form) + ことがある
+ex: 香港には一度行ったことがあります。 | Honkon ni wa ichido itta koto ga arimasu. | I have been to Hong Kong once.
+ex: すしを食べたことがありますか。 | Sushi o tabeta koto ga arimasu ka. | Have you ever eaten sushi?
+=== 2. ～たり～たりする — doing things like…
+This lists a few **example actions** from a longer, non-exhaustive list. Each verb takes the plain past form + り, and する at the end carries the tense.
+rule: Verb1 た + り + Verb2 た + り + する
+ex: そうですね、テレビを見たり、ひるねをしたり、近くのこうえんをさんぽしたりしました。 | Sō desu ne, terebi o mitari, hirune o shitari, chikaku no kōen o sanpo shitari shimashita. | Well, I watched TV, had a nap, took a walk in the park nearby, that kind of thing.
+vocab:
+- 閉じる | とじる | tojiru | to close
+- 写真を撮る | しゃしんをとる | shashin o toru | to take a photo
+- 薬 | くすり | kusuri | medicine
+- 通り | とおり | tōri | street, road
+- 渡る | わたる | wataru | to cross
+- 注意する | ちゅういする | chūi suru | to be careful, pay attention
+- 一度 | いちど | ichido | once
+- 昼寝 | ひるね | hirune | nap
+- 近く | ちかく | chikaku | nearby, the neighbourhood
+- 公園 | こうえん | kōen | park
+- 散歩する | さんぽする | sanpo suru | to take a walk
+
+=lesson n5-11 | N5 · Lesson 11 | Building on the verb stem
+The **verb stem** is the ます form without ます: 食べ(ます), 読み(ます), 泣き(ます). Many useful patterns are built on it.
+== Patterns built on the stem
+=== 1. ～出す (だす) — to suddenly start
+出す after a verb stem means that an action **suddenly starts**. 出す itself conjugates as a godan verb.
+rule: Verb stem + 出す
+ex: 彼はなき出した。 | Kare wa naki-dashita. | He burst into tears.
+ex: きゅうにあめがふり出した。 | Kyū ni ame ga furi-dashita. | It suddenly started raining.
+=== 2. ～始める (はじめる) — to begin to
+始める after a verb stem means "to begin to (do)". It conjugates as an ichidan verb.
+rule: Verb stem + 始める
+ex: はがいろづき始めた。 | Ha ga irozuki-hajimeta. | The leaves have started to change colour.
+=== 3. ～に行く / ～に来る — go / come to do
+rule: Verb stem + に行く — go (somewhere) to do
+rule: Verb stem + に来る — come (somewhere) to do
+ex: 友達が明日家にあそびに来る。 | Tomodachi ga ashita ie ni asobi ni kuru. | A friend is coming over to hang out tomorrow.
+ex: スーパーへかいものに行きます。 | Sūpā e kaimono ni ikimasu. | I'm going to the supermarket to do some shopping.
+=== 4. ～過ぎる (すぎる) — too much
+過ぎる expresses **excess**: "too…", "too much". It conjugates as an ichidan verb. The stem すぎ turns the expression into a noun (たべすぎ, overeating).
+rule: い-adjective: remove い + すぎる
+rule: な-adjective: remove な + すぎる
+rule: Verb stem + すぎる
+ex: たかすぎる！ | Taka-sugiru! | It's too expensive!
+ex: 食べすぎた。 | Tabe-sugita. | I ate too much.
+ex: このへやはしずかすぎる。 | Kono heya wa shizuka-sugiru. | This room is too quiet.
+fig: seasons
+vocab:
+- 泣く | なく | naku | to cry
+- 笑う | わらう | warau | to laugh
+- 葉 | は | ha | leaf
+- 木 | き | ki | tree
+- 森 | もり | mori | forest
+- 色付く | いろづく | irozuku | to change colour (leaves)
+- 冬 | ふゆ | fuyu | winter
+- 春 | はる | haru | spring
+- 夏 | なつ | natsu | summer
+- 秋 | あき | aki | autumn
+- 友達 | ともだち | tomodachi | friend
+- 家族 | かぞく | kazoku | family
+- 遊ぶ | あそぶ | asobu | to play, hang out
+- 買い物 | かいもの | kaimono | shopping
+- 急に | きゅうに | kyū ni | suddenly
+- 高い | たかい | takai | expensive; tall, high
+- 安い | やすい | yasui | cheap
+- 足りる | たりる | tariru | to be enough
+
+=lesson n5-12 | N5 · Lesson 12 | Permission, opinions, comparisons
+== Expressing yourself
+=== 1. ～てもいいです — may I…? / it's OK to…
+This asks for or gives **permission**: "May I…?", "Is it all right if…?".
+rule: Verb て form + もいいです
+table: :: Form | Register
+- ～てもよろしいでしょうか | very polite
+- ～てもかまいません | polite ("I don't mind if…")
+- ～てもいいです | polite
+- ～てもかまわない / ～てもいい | plain
+- ～ていい | casual
+ex: 入ってもいいですか。 | Haitte mo ii desu ka. | May I come in?
+ex: まどを開けてもかまわないでしょうか。 | Mado o akete mo kamawanai deshō ka. | Would you mind if I opened the window?
+To say you **don't have to** do something, use the ない form: replace the final い with **くてもいいです**.
+rule: Verb ない form (without い) + くてもいいです
+ex: あしたは来なくてもいいです。 | Ashita wa konakute mo ii desu. | You don't have to come tomorrow.
+=== 2. ～という — called…, a … named
+と言う (という) introduces a name or a word you are quoting: "called…", "named…". In casual speech it is often shortened to って.
+rule: Name / word + という + Noun
+ex: P.S.という文字は何を表していますか。 | "P.S." to iu moji wa nani o arawashite imasu ka. | What do the letters "P.S." stand for?
+ex: 佐藤さんという人があなたに会うために待っています。 | Satō-san to iu hito ga anata ni au tame ni matte imasu. | A Mr Sato is waiting to see you.
+=== 3. ～と思います / どう思いますか — I think / what do you think?
+と思います gives your **opinion** ("I think that…"). どう思いますか asks for someone else's ("What do you think of…?").
+rule: Verb (plain) / い-adjective + と思います
+rule: Noun / な-adjective + だと思います
+rule: Noun + を / について + どう思いますか
+ex: 列車はすぐに来ると思います。 | Ressha wa sugu ni kuru to omoimasu. | I think the train will arrive soon.
+ex: あの人は先生だと思います。 | Ano hito wa sensei da to omoimasu. | I think that person is a teacher.
+ex: 彼の新作の小説をどう思いますか。 | Kare no shinsaku no shōsetsu o dō omoimasu ka. | What do you think of his new novel?
+== Comparisons and superlatives
+=== 1. もう / まだ — already / still
+These adverbs change meaning depending on whether the verb is positive or negative.
+table: :: | Positive verb | Negative verb
+- もう | already (action finished, verb often in the past) | not any more
+- まだ | still (action continues) | not yet (often with ～ていない)
+ex: 宿題はもう終わりましたか。 | Shukudai wa mō owarimashita ka. | Have you already finished your homework?
+ex: 彼はまだ来ていない。 | Kare wa mada kite inai. | He hasn't come yet.
+ex: もうたばこをすいません。 | Mō tabako o suimasen. | I don't smoke any more.
+=== 2. より / のほうが — comparing
+より ("than") follows the thing you compare **against**. The thing that "wins" is marked with は or のほうが (の方が, "the side of…").
+rule: A + は + B + より(も) + adjective — "A is more … than B"
+rule: B + より + A + のほうが + adjective
+ex: 今年は去年よりもさむい。 | Kotoshi wa kyonen yori mo samui. | This year is colder than last year.
+ex: 兄より弟のほうがせがたかい。 | Ani yori otōto no hō ga se ga takai. | My younger brother is taller than my older brother.
+=== 3. 最も / 一番 / 最～ — the most
+最も (もっとも) and 一番 (いちばん, literally "number one") both mean "the most". 一番 is more common in speech; 最も is more formal and written. Some words already include 最 (さい):
+table: :: Kanji | Kana | English
+- 最高 | さいこう | the best, awesome
+- 最低 | さいてい | the worst
+- 最小 | さいしょう | the smallest, minimum
+- 最大 | さいだい | the largest, maximum
+- 最近 | さいきん | recently; the latest
+- 最初 | さいしょ | the first
+- 最後 | さいご | the last
+- 最強 | さいきょう | the strongest
+rule: 最も / 一番 + adjective
+rule: Word with 最 + の + Noun
+ex: パリは世界でもっともうつくしい街です。 | Pari wa sekai de mottomo utsukushii machi desu. | Paris is the most beautiful city in the world.
+ex: 日本で一番高い山はふじさんです。 | Nihon de ichiban takai yama wa Fujisan desu. | The highest mountain in Japan is Mount Fuji.
+ex: 日曜日が一週間の最初の日です。 | Nichiyōbi ga isshūkan no saisho no hi desu. | Sunday is the first day of the week (on Japanese calendars).
+vocab:
+- 文字 | もじ | moji | letter, character
+- 表す | あらわす | arawasu | to express, stand for
+- 列車 | れっしゃ | ressha | train
+- 新作 | しんさく | shinsaku | new work, new release
+- 小説 | しょうせつ | shōsetsu | novel
+- 宿題 | しゅくだい | shukudai | homework
+- 今年 | ことし | kotoshi | this year
+- 去年 | きょねん | kyonen | last year
+- 来年 | らいねん | rainen | next year
+- 背 | せ | se | height (of a person)
+- 寒い | さむい | samui | cold (weather)
+- 冷たい | つめたい | tsumetai | cold (to the touch)
+- 暑い | あつい | atsui | hot (weather)
+- 暖かい | あたたかい | atatakai | warm (weather)
+- 温かい | あたたかい | atatakai | warm (to the touch, food)
+- 気温 | きおん | kion | (air) temperature
+- 美しい | うつくしい | utsukushii | beautiful
+- 街 | まち | machi | town, city
+- 山 | やま | yama | mountain
+- 一週間 | いっしゅうかん | isshūkan | one week
+
+=lesson n5-ex | N5 · Practice | N5 exercises
+tip: Try each exercise on paper first, then open the answers to check.
+== Choose the right particle
+Fill in the blanks with は・が・を・に・で・へ.
+q: 私＿＿学生です。
+q: 自転車＿＿学校＿＿行きます。
+q: パン＿＿食べます。
+q: 七時＿＿起きます。
+q: あそこに猫＿＿います。
+ans: 私**は**学生です。 — I am a student.
+ans: 自転車**で**学校**へ / に**行きます。 — I go to school by bike.
+ans: パン**を**食べます。 — I eat bread.
+ans: 七時**に**起きます。 — I get up at seven.
+ans: あそこに猫**が**います。 — There is a cat over there.
+== Choose the right word
+q: 今日はとても（　）です。 — あつい / たかい / おおきい / あかい
+q: 毎朝コーヒーを（　）。 — みます / ききます / のみます / あいます
+q: 本を（　）。 — あそびます / おきます / かえります / よみます
+ans: **あつい** — It's very hot today.
+ans: **のみます** — I drink coffee every morning.
+ans: **よみます** — I read a book.
+== Put the words in order
+Make a correct sentence.
+q: します / 日本語 / 勉強 / 毎日 / を
+q: スーパー / 行きます / へ
+q: 見ます / 映画 / 今晩 / を
+ans: 毎日日本語を勉強します。 — I study Japanese every day.
+ans: スーパーへ行きます。 — I go to the supermarket.
+ans: 今晩映画を見ます。 — I'll watch a film tonight.
+== Kanji
+Write the reading in hiragana.
+q: 学校
+q: 人
+q: 日本
+q: 月
+q: 先生
+ans: がっこう (school)
+ans: ひと (person)
+ans: にほん (Japan)
+ans: つき (moon; month: がつ / げつ)
+ans: せんせい (teacher)
+== Choose the right translation
+q: 電車 — bicycle / train / bus / taxi
+q: 白い — black / red / white / blue
+q: 犬 — cat / dog / bird / fish
+ans: train
+ans: white
+ans: dog
+== Reading comprehension
+Read the text.
+ex: わたしはマリアです。フランス人です。毎日七時に起きます。八時に学校へ行きます。学校で日本語を勉強します。日本語が好きです。 | Watashi wa Maria desu. Furansujin desu. Mainichi shichi-ji ni okimasu. Hachi-ji ni gakkō e ikimasu. Gakkō de nihongo o benkyō shimasu. Nihongo ga suki desu. | I'm Maria. I'm French. I get up at seven every day. I go to school at eight. At school I study Japanese. I like Japanese.
+Answer the questions.
+q: マリアさんはどこの人ですか。
+q: 何時に起きますか。
+q: 学校で何を勉強しますか。
+q: 日本語は好きですか。
+ans: フランス人です。 — She's French.
+ans: 七時に起きます。 — She gets up at seven.
+ans: 日本語を勉強します。 — She studies Japanese.
+ans: はい、好きです。 — Yes, she likes it.
+== Find the odd one out
+q: りんご・ねこ・バナナ・みかん
+q: 水・コーヒー・お茶・車
+q: 学校・病院・本・スーパー
+ans: **ねこ** (cat) — the others are fruits.
+ans: **車** (car) — the others are drinks.
+ans: **本** (book) — the others are places.
+== Conjugation
+Change to the polite ます form. Example: 食べる → 食べます
+q: 行く
+q: 見る
+q: 飲む
+q: 読む
+q: 来る
+ans: 行きます
+ans: 見ます
+ans: 飲みます
+ans: 読みます
+ans: 来ます (きます)
+== Question words
+Fill in with だれ・どこ・いつ・なに・いくら. The expected answer is given in brackets.
+q: ＿＿ですか。 (My friend.)
+q: ＿＿へ行きますか。 (To Tokyo.)
+q: ＿＿を食べますか。 (Sushi.)
+q: ＿＿学校へ行きますか。 (At 8 o'clock.)
+q: ＿＿ですか。 (500 yen.)
+ans: **だれ**ですか。 — Who is it?
+ans: **どこ**へ行きますか。 — Where are you going?
+ans: **なに**を食べますか。 — What will you eat?
+ans: **いつ**学校へ行きますか。 — When do you go to school? (何時に, "at what time", also works)
+ans: **いくら**ですか。 — How much is it?
+== Translate into Japanese
+q: I am a student.
+q: I like cats.
+q: Tomorrow I'm going to Tokyo.
+q: It's hot today.
+q: Where are the toilets?
+q: I drink water.
+q: I watch a film.
+q: Thank you very much.
+q: What time is it?
+q: I get up at seven.
+ans: 私は学生です。
+ans: 私は猫が好きです。
+ans: 明日東京へ行きます。
+ans: 今日は暑いです。
+ans: トイレはどこですか。
+ans: 水を飲みます。
+ans: 映画を見ます。
+ans: どうもありがとうございます。
+ans: 今何時ですか。
+ans: 七時に起きます。

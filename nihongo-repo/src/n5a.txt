@@ -1,0 +1,449 @@
+=part n5 | Part 1 · JLPT N5 | The foundations
+
+=lesson n5-1 | N5 · Lesson 1 | The Japanese writing system
+fig: scripts | Japanese mixes three scripts in the same sentence.
+== Hiragana (平仮名)
+Japanese writing uses three main scripts: **hiragana**, **katakana** and **kanji**. Hiragana and katakana are *syllabaries* (each character is a syllable); kanji are characters that carry meaning.
+Hiragana is used all the time, especially for the grammatical parts of the language: particles, verb and adjective endings. It is also used to write words whose kanji are rare or that the reader might not know.
+Small hiragana are sometimes written above kanji to show how they are read. These are called **furigana** (振り仮名). You see them a lot in manga for young readers, who do not yet know all the common kanji.
+Some basic hiragana can take a **diacritic**, a small mark that changes the pronunciation:
+li: **dakuten** (濁点), commonly called *ten-ten*: ゛ — か (ka) → が (ga), さ → ざ, た → だ, は → ば
+li: **handakuten** (半濁点), commonly called *maru*: ゜ — only on the h-row: は (ha) → ぱ (pa)
+fig: diacritics
+Other special features of hiragana:
+li: a **small っ** doubles the following consonant: ゆっくり (*yukkuri*, slowly).
+li: a **small ゃ, ゅ, ょ** can follow a kana ending in *-i* to form a combined sound: き + ゃ = きゃ (*kya*).
+li: **long vowels**: う after an *o*-sound, or い after an *e*-sound, lengthens the vowel: のう (*nō*, brain), せんせい (*sensei*, teacher). For a long *a, i, u* you add あ, い, う: おかあさん (*okāsan*), おにいさん, すうがく.
+=== The basic hiragana chart
+Read each column from top to bottom. Click a character to hear it.
+kana: basic hira
+=== With dakuten and handakuten
+kana: daku hira
+note: じ / ぢ are both read *ji* and ず / づ are both read *zu*. In practice you almost always use じ and ず; ぢ and づ appear only in a few words (はなぢ, nosebleed; つづく, to continue).
+=== Combined sounds (yōon)
+kana: yoon hira
+== Katakana (片仮名)
+Katakana is the second syllabary. It is used mainly for:
+li: **foreign loanwords**, such as コンクール (*konkūru*, contest, from the French *concours*) or コーヒー (*kōhī*, coffee);
+li: **foreign names**, such as ジョン・スミス (*Jon Sumisu*, John Smith);
+li: **onomatopoeia**, such as ケロケロ (*kero kero*, the croaking of a frog).
+Katakana can also be used to make a word stand out, a little like italics. Some native words are therefore often written in katakana even though they are not foreign: ケガ (*kega*, injury), リンゴ (*ringo*, apple), イルカ (*iruka*, dolphin).
+Three special signs:
+li: ー lengthens the previous vowel: アパート (*apāto*, apartment).
+li: a **small ッ** doubles the following consonant: アルファベット (*arufabetto*, alphabet).
+li: ・ separates words written in katakana, e.g. first name and surname: ジョン・スミス. It is optional.
+kana: basic kata
+kana: daku kata
+kana: yoon kata
+== Kanji (漢字)
+There is no fixed total number of kanji, but around 2,000 are needed for everyday reading. During the six years of elementary school, Japanese children learn **1,026** kanji, called **gakushū kanji** (学習漢字, "learning kanji").
+In junior and senior high school they learn about 1,100 more. Together these make up the **jōyō kanji** (常用漢字, "kanji for daily use"): **2,136** characters in the official list.
+A kanji usually has two kinds of reading:
+li: the **on-yomi** (音読み), the reading derived from Chinese — often used in compound words: 日本 (*ni-hon*);
+li: the **kun-yomi** (訓読み), the native Japanese reading — often used when the kanji stands alone: 日 (*hi*, sun/day).
+The kanji in this course are introduced little by little and match the **N5** and **N4** levels of the **JLPT** (Japanese-Language Proficiency Test), the international Japanese exam — the equivalent of TOEFL or IELTS for English. N5 is the easiest level and N1 the hardest.
+note: The sign 々 (often called *noma*) is not a hiragana, katakana or kanji: it simply repeats the previous kanji, as in 時々 (*tokidoki*, sometimes) or 人々 (*hitobito*, people).
+tip: Every kana and kanji has a fixed **stroke order**. As a general rule, write from **top to bottom** and from **left to right**. Learning the correct order from the start makes your handwriting readable and helps you remember the characters.
+
+=lesson n5-2 | N5 · Lesson 2 | Particles (1) and introducing yourself
+fig: sentence | The verb always comes at the end; particles follow the word they mark.
+== Particles (1)
+The basic structure of a Japanese sentence is:
+rule: Topic / Subject + Object + Verb
+**Particles** are added to this structure. They are short words placed *after* a noun to show its role in the sentence — a bit like prepositions in English, except they come after the word. In this lesson we study four essential ones.
+=== 1. は — the topic
+は is pronounced **wa** when used as a particle. It marks the **topic** of the sentence: "as for…". There is no exact English equivalent. In the sentence below, the topic is わたし (*watashi*, I), so は goes after it.
+ex: わたしはハナです。 | Watashi wa Hana desu. | I am Hana.
+=== 2. の — possession and linking nouns
+の (*no*) links two nouns and often shows possession, like "'s" or "of". Note the order: the owner comes first.
+ex: ローラのほん。 | Rōra no hon. | Laura's book.
+ex: にほんごのじゅぎょう。 | Nihongo no jugyō. | The Japanese class.
+=== 3. を — the direct object
+を is pronounced **o** when used as a particle. It marks the **direct object** of the verb — the thing being eaten, read, watched…
+ex: わたしはりんごをたべます。 | Watashi wa ringo o tabemasu. | I eat an apple.
+ex: わたしはにほんごのきょうかしょをよみます。 | Watashi wa nihongo no kyōkasho o yomimasu. | I read the Japanese textbook.
+=== 4. です — "to be"
+です (*desu*) works like the verb "to be". Grammatically it is a **copula** (a word linking the subject to a noun or adjective), not a particle — but in most cases it translates as "is / am / are".
+ex: いぬです。 | Inu desu. | It's a dog.
+note: です comes directly after the noun: いぬです, not いぬをです. The subject is often left out when it is obvious from context — いぬです simply means "(it) is a dog".
+== Introducing yourself
+=== 人 and 語
+人 is the kanji for "person". On its own it is read ひと (*hito*, kun-yomi). After another word it is usually read じん (*jin*, on-yomi). Put it after the name of a country to say a person from that country.
+table: :: Country | Person | Language
+- 日本 (にほん) Japan | 日本人 (にほんじん) a Japanese person | 日本語 (にほんご) Japanese
+- フランス France | フランス人 (フランスじん) a French person | フランス語 (フランスご) French
+- イギリス the UK | イギリス人 a British person | 英語 (えいご) English
+語 (*go*) after a country name means "the language of".
+=== Useful phrases
+ex: こんにちは。わたしのなまえは＿＿です。 | Konnichiwa. Watashi no namae wa ___ desu. | Hello. My name is ___.
+ex: わたしは＿＿です。 | Watashi wa ___ desu. | I am ___.
+ex: わたしはフランス人です。 | Watashi wa Furansujin desu. | I am French.
+ex: よろしくおねがいします。 | Yoroshiku onegaishimasu. | Nice to meet you. / I look forward to working with you.
+note: よろしくおねがいします literally asks the other person to "treat you favourably". It ends almost every self-introduction, and is also used when you ask someone for a favour or start working together.
+vocab:
+- 私 | わたし | watashi | I (neutral, polite — used by everyone)
+- 僕 | ぼく | boku | I (casual, mostly used by men and boys)
+- 本 | ほん | hon | book
+- 授業 | じゅぎょう | jugyō | class, lesson
+- 林檎 | りんご | ringo | apple (usually written in kana)
+- 教科書 | きょうかしょ | kyōkasho | textbook
+- 食べます | たべます | tabemasu | to eat
+- 読みます | よみます | yomimasu | to read
+- 犬 | いぬ | inu | dog
+- 猫 | ねこ | neko | cat
+- 名前 | なまえ | namae | name
+- | ありがとうございます | arigatō gozaimasu | thank you (polite)
+- | すみません | sumimasen | excuse me / sorry
+- | おはようございます | ohayō gozaimasu | good morning
+- | こんにちは | konnichiwa | hello / good afternoon
+- | こんばんは | konbanwa | good evening
+- | またね | mata ne | see you!
+
+=lesson n5-3 | N5 · Lesson 3 | Particles (2): time, place and movement
+fig: route | から, まで, で and へ in a single trip.
+== Particles (2)
+=== 1. に — time, destination, "on/into"
+に (*ni*) is often translated "at", "to" or "in". It marks a **point in time** and the **destination** or location where something is. With the verbs のる (to get on/ride) and のぼる (to climb), に marks what you get on or climb.
+ex: ちかてつにのります。 | Chikatetsu ni norimasu. | I get on the subway.
+ex: まいあさ、8時におきます。 | Maiasa, hachi-ji ni okimasu. | I get up at 8 every morning.
+note: Relative time words such as まいあさ (every morning), きょう (today) or あした (tomorrow) do **not** take に. Clock times, dates and days of the week do.
+=== 2. から / まで — from / until
+から (*kara*) means "from" and まで (*made*) means "until / as far as". They mark a starting point and an end point, in space or in time.
+ex: いえからぎんこうまで。 | Ie kara ginkō made. | From the house to the bank.
+ex: 私はごぜん10時からごご5時まではたらきます。 | Watashi wa gozen jū-ji kara gogo go-ji made hatarakimasu. | I work from 10 a.m. to 5 p.m.
+=== 3. へ — direction
+へ is pronounced **e** when used as a particle. It indicates **direction** of movement ("towards"). It is typically used with いきます (*ikimasu*, to go), きます (*kimasu*, to come) and かえります (*kaerimasu*, to go back home).
+ex: 9時にしごとへいきます。 | Ku-ji ni shigoto e ikimasu. | I go to work at 9.
+ex: どこへいきますか。 | Doko e ikimasu ka. | Where are you going?
+note: With verbs of movement, へ and に are usually interchangeable. へ focuses on the **direction** of the movement, に on the **destination** you reach. いえにかえります and いえへかえります both mean "I'm going home".
+ex: いえにかえります。 | Ie ni kaerimasu. | I'm going (back) home.
+=== 4. で — means and place of action
+で (*de*) comes after a noun to indicate the **means** or method ("by, with, in") or the **place where an action happens**.
+ex: バスでがっこうにいきます。 | Basu de gakkō ni ikimasu. | I go to school by bus.
+ex: カードではらいます。 | Kādo de haraimasu. | I'll pay by card.
+ex: としょかんでべんきょうします。 | Toshokan de benkyō shimasu. | I study at the library.
+warn: に marks where something **is** or **goes**; で marks where something **is done**. としょかんにいます (I am in the library) vs. としょかんでよみます (I read in the library).
+=== 5. ね — "isn't it?"
+ね (*ne*) is used much more in speech than in writing. At the end of a sentence it softens the statement or seeks agreement ("isn't it?", "right?"). At the start of a sentence (ねえ) it gets someone's attention.
+ex: ねえ、聞こえますか。 | Nē, kikoemasu ka. | Hey, can you hear me?
+ex: きれいですね。 | Kirei desu ne. | It's pretty, isn't it?
+=== 6. よ — emphasis
+よ (*yo*) is used almost only in speech. At the end of a sentence it asserts something strongly or tells the listener something new — like "I tell you!".
+ex: 日本語はかんたんですよ。 | Nihongo wa kantan desu yo. | Japanese is easy, you know!
+vocab:
+- 東京 | とうきょう | Tōkyō | Tokyo
+- 大阪 | おおさか | Ōsaka | Osaka
+- 京都 | きょうと | Kyōto | Kyoto
+- 毎朝 | まいあさ | maiasa | every morning
+- 毎日 | まいにち | mainichi | every day
+- 起きます | おきます | okimasu | to get up, to wake up
+- 聞こえます | きこえます | kikoemasu | to be audible, can hear
+- 働きます | はたらきます | hatarakimasu | to work
+- 仕事 | しごと | shigoto | work, job
+- 地下鉄 | ちかてつ | chikatetsu | subway, underground
+- 綺麗な | きれいな | kirei na | pretty; clean
+- 簡単な | かんたんな | kantan na | easy, simple
+- 家 | いえ | ie | house, home
+- 銀行 | ぎんこう | ginkō | bank
+- 郵便局 | ゆうびんきょく | yūbinkyoku | post office
+- | ホテル | hoteru | hotel
+- 病院 | びょういん | byōin | hospital
+- フランス大使館 | フランスたいしかん | Furansu taishikan | French embassy
+- 両替所 | りょうがえじょ | ryōgaejo | currency exchange office
+- 警察署 | けいさつしょ | keisatsusho | police station
+- | コンビニ | konbini | convenience store
+- | スーパー | sūpā | supermarket
+- | デパート | depāto | department store
+- 喫茶店 | きっさてん | kissaten | café, coffee shop
+- 漫画喫茶 | まんがきっさ | manga kissa | manga café
+- 図書館 | としょかん | toshokan | library
+- 映画館 | えいがかん | eigakan | cinema
+
+=lesson n5-4 | N5 · Lesson 4 | Particles (3), pointing and asking questions
+== Particles (3)
+=== 1. か — "or"
+Between two nouns, か (*ka*) means "or".
+ex: あおいかあかいか。 | Aoi ka akai ka. | Blue or red?
+ex: コーヒーかこうちゃをのみます。 | Kōhī ka kōcha o nomimasu. | I drink coffee or tea.
+=== 2. と — "and", "with"
+と (*to*) joins nouns ("and") in a **complete** list, or marks the person you do something with ("with").
+ex: ともだちとカラオケへいきます。 | Tomodachi to karaoke e ikimasu. | I go to karaoke with friends.
+ex: しろとくろ。 | Shiro to kuro. | White and black.
+=== 3. も — "also", "(not) either"
+も (*mo*) expresses similarity or addition. It replaces は, が or を. In a positive sentence it means "also / too"; in a negative sentence, "not… either".
+ex: 私も17歳です。 | Watashi mo jūnana-sai desu. | I'm 17 too.
+ex: 私も行きません。 | Watashi mo ikimasen. | I'm not going either.
+note: も can also be added after other particles: に**も**, から**も**, で**も** (とうきょうにもいきます — I'm also going to Tokyo).
+=== 4. や / など — "and so on"
+や (*ya*) lists a few things as **examples** from a longer, incomplete list ("…and … among other things"). など (*nado*, "etc.") can be added after the last item.
+ex: サンドイッチのなかに、パンやハムやチーズがあります。 | Sandoitchi no naka ni, pan ya hamu ya chīzu ga arimasu. | In a sandwich there is bread, ham, cheese and so on.
+ex: 2、4、6などはぐうすうです。 | Ni, yon, roku nado wa gūsū desu. | 2, 4, 6, etc. are even numbers.
+=== 5. から / ので — "because"
+After a clause (a verb, an adjective, or a noun + です/だ), から (*kara*) means "because / so". Don't confuse it with から "from" after a noun (Lesson 3).
+ex: きいろですから。 | Kiiro desu kara. | Because it's yellow.
+ので (*node*) also means "because", but it sounds softer and more **objective**: it presents the reason as a natural fact. It is preferred in polite requests and explanations. から sounds more personal and assertive. After a noun or な-adjective, use **なので**.
+ex: 彼はびょうきなので、かおいろがわるいです。 | Kare wa byōki na node, kaoiro ga warui desu. | He looks pale because he is ill.
+=== 6. が — "but" and the subject marker
+が (*ga*) after a clause means "**but**", showing contrast between two parts of a sentence.
+ex: 日本語は話せますが、中国語は話せません。 | Nihongo wa hanasemasu ga, chūgokugo wa hanasemasen. | I can speak Japanese, but I can't speak Chinese.
+が after a noun also marks the **grammatical subject**, especially when the subject is new information or the focus of the sentence, and inside subordinate clauses.
+ex: 猫がえさを食べました。 | Neko ga esa o tabemashita. | The cat ate the food. (It was the cat who ate it.)
+When you simply describe an event you see happening, the subject usually takes が:
+ex: ドアがあきます。 | Doa ga akimasu. | The door opens.
+ex: でんきがきえます。 | Denki ga kiemasu. | The light goes out.
+tip: Rough rule: は = "as for X…" (the topic, already known). が = "X is the one that…" (new information, focus).
+== Pointing at things: こ・そ・あ・ど
+fig: kosoado | The こ-, そ- and あ- words depend on distance from speaker and listener.
+These **demonstratives** translate as "this / that":
+li: これ / この (*kore / kono*): something close to **me** (the speaker).
+li: それ / その (*sore / sono*): something close to **you** (the listener).
+li: あれ / あの (*are / ano*): something far from **both** of us.
+li: どれ / どの (*dore / dono*): which?
+これ / それ / あれ stand alone as pronouns and are followed by a particle. この / その / あの must be followed directly by a noun. The same pattern works for places: ここ / そこ / あそこ / どこ (here / there / over there / where?).
+ex: これはかさです。 | Kore wa kasa desu. | This is an umbrella.
+ex: あの人はジャンです。 | Ano hito wa Jan desu. | That person is Jean.
+ex: ぎんこうはどこですか。—そこです。 | Ginkō wa doko desu ka. — Soko desu. | Where is the bank? — It's there (near you).
+== Asking questions
+=== 1. か at the end of a sentence
+か at the **end** of a sentence turns it into a question. No question mark is needed in standard Japanese.
+ex: 駅はどこですか。 | Eki wa doko desu ka. | Where is the station?
+=== 2. なぜ / なんで — why?
+なぜ (*naze*) and なんで (*nande*, more casual) mean "why?". どうして (*dōshite*) is another very common option.
+ex: なぜ彼はいつもおくれるのですか。 | Naze kare wa itsumo okureru no desu ka. | Why is he always late?
+=== 3. なに / なん — what?
+なに / なん (*nani / nan*) mean "what?". Use **なん** before です, before counters (なんじ, what time) and before words starting with *t, d, n*. Use **なに** in most other cases, especially before particles like を and が.
+ex: これはなんですか。 | Kore wa nan desu ka. | What is this?
+ex: いま、なにをしますか。 | Ima, nani o shimasu ka. | What are you going to do now?
+=== 4. かな — "I wonder…"
+かな (*kana*) at the end of a casual sentence (verb in plain form) expresses wondering: "I wonder if…".
+ex: あめがふるかな。 | Ame ga furu ka na. | I wonder if it will rain.
+fig: colors
+vocab:
+- 色 | いろ | iro | colour
+- 青い | あおい | aoi | blue
+- 赤い | あかい | akai | red
+- 黄色い | きいろい | kiiroi | yellow (adjective); 黄色 = yellow (noun)
+- 白い | しろい | shiroi | white
+- 黒い | くろい | kuroi | black
+- 緑 | みどり | midori | green
+- 紫 | むらさき | murasaki | purple
+- | オレンジ | orenji | orange
+- 茶色 | ちゃいろ | chairo | brown
+- 傘 | かさ | kasa | umbrella
+- 中国 | ちゅうごく | Chūgoku | China
+- 駅 | えき | eki | station
+- 話します | はなします | hanashimasu | to speak
+- 書きます | かきます | kakimasu | to write
+- 病気 | びょうき | byōki | illness, ill
+- 遅れる | おくれる | okureru | to be late
+
+=lesson n5-5 | N5 · Lesson 5 | Numbers, dates and time
+== Counting
+tip: Fun mnemonic: in the anime *Bleach*, each captain's white coat shows their division number in kanji on the back — a nice way to remember 一 to 十.
+table: :: Kanji | Kana | Rōmaji | Value
+- 一 | いち | ichi | 1
+- 二 | に | ni | 2
+- 三 | さん | san | 3
+- 四 | し / よん | shi / yon | 4
+- 五 | ご | go | 5
+- 六 | ろく | roku | 6
+- 七 | しち / なな | shichi / nana | 7
+- 八 | はち | hachi | 8
+- 九 | く / きゅう | ku / kyū | 9
+- 十 | じゅう | jū | 10
+- 百 | ひゃく | hyaku | 100
+- 千 | せん | sen | 1,000
+- 万 | まん | man | 10,000
+note: For 4, 7 and 9, よん, なな and きゅう are the most common readings when counting. し sounds like 死 (death) and is often avoided.
+For **11 to 19**, say 10 and add the unit: 11 = じゅういち (*jū-ichi*), 12 = じゅうに (*jū-ni*), 13 = じゅうさん (*jū-san*), and so on.
+For **20 and above**, put the multiplier in front of 10: 20 = にじゅう (*ni-jū*, 2 × 10). Then add the unit: 21 = にじゅういち, 22 = にじゅうに…
+table: :: Number | Kana | Rōmaji
+- 30 | さんじゅう | san-jū
+- 54 | ごじゅうよん | go-jū-yon
+- 97 | きゅうじゅうなな | kyū-jū-nana
+- 158 | ひゃくごじゅうはち | hyaku-go-jū-hachi
+- 2,026 | にせんにじゅうろく | ni-sen-ni-jū-roku
+warn: **Sound changes** with hundreds and thousands: 300 = さん**びゃく** (*sanbyaku*, not *sanhyaku*), 600 = ろっ**ぴゃく** (*roppyaku*), 800 = はっ**ぴゃく** (*happyaku*), 3,000 = さん**ぜん** (*sanzen*), 8,000 = はっ**せん** (*hassen*).
+== Counting things and people
+Japanese uses different **counters** depending on what is being counted (see N4 Lesson 12). For now, learn the general counter, which works for almost any object, and the counter for people.
+table: :: | Things (general) | People
+- 1 | ひとつ hitotsu | ひとり hitori
+- 2 | ふたつ futatsu | ふたり futari
+- 3 | みっつ mittsu | さんにん sannin
+- 4 | よっつ yottsu | よにん yonin
+- 5 | いつつ itsutsu | ごにん gonin
+- 6 | むっつ muttsu | ろくにん rokunin
+- 7 | ななつ nanatsu | しちにん / ななにん shichinin / nananin
+- 8 | やっつ yattsu | はちにん hachinin
+- 9 | ここのつ kokonotsu | きゅうにん kyūnin
+- 10 | とお tō | じゅうにん jūnin
+== Days and months
+table: Days of the week :: Kanji | Kana | Rōmaji | English
+- 月曜日 | げつようび | getsuyōbi | Monday (moon)
+- 火曜日 | かようび | kayōbi | Tuesday (fire)
+- 水曜日 | すいようび | suiyōbi | Wednesday (water)
+- 木曜日 | もくようび | mokuyōbi | Thursday (wood)
+- 金曜日 | きんようび | kin'yōbi | Friday (gold/metal)
+- 土曜日 | どようび | doyōbi | Saturday (earth)
+- 日曜日 | にちようび | nichiyōbi | Sunday (sun)
+Months are simply *number + 月* (*gatsu*). Watch the readings of April, July and September.
+table: Months :: Kanji | Kana | Rōmaji | English
+- 一月 | いちがつ | ichigatsu | January
+- 二月 | にがつ | nigatsu | February
+- 三月 | さんがつ | sangatsu | March
+- 四月 | しがつ | shigatsu | April
+- 五月 | ごがつ | gogatsu | May
+- 六月 | ろくがつ | rokugatsu | June
+- 七月 | しちがつ | shichigatsu | July
+- 八月 | はちがつ | hachigatsu | August
+- 九月 | くがつ | kugatsu | September
+- 十月 | じゅうがつ | jūgatsu | October
+- 十一月 | じゅういちがつ | jūichigatsu | November
+- 十二月 | じゅうにがつ | jūnigatsu | December
+=== Saying the date
+fig: date
+A date always goes from the largest unit to the smallest: **year** (年 *nen*), **month** (月 *gatsu*), then **day** (日 *nichi*).
+ex: 今日はなんがつなんにちですか。 | Kyō wa nan-gatsu nan-nichi desu ka. | What's the date today?
+ex: 今日は2025年9月12日です。 | Kyō wa nisen-nijūgo-nen ku-gatsu jūni-nichi desu. | Today is 12 September 2025.
+warn: Days 1–10, 14, 20 and 24 have **special readings**. For the other days, just say the number + にち (*nichi*): 11日 = じゅういちにち, 15日 = じゅうごにち.
+table: :: Day | Kana | Rōmaji
+- 1日 | ついたち | tsuitachi
+- 2日 | ふつか | futsuka
+- 3日 | みっか | mikka
+- 4日 | よっか | yokka
+- 5日 | いつか | itsuka
+- 6日 | むいか | muika
+- 7日 | なのか | nanoka
+- 8日 | ようか | yōka
+- 9日 | ここのか | kokonoka
+- 10日 | とおか | tōka
+- 14日 | じゅうよっか | jūyokka
+- 20日 | はつか | hatsuka
+- 24日 | にじゅうよっか | nijūyokka
+tip: **Practice:** say today's date and your date of birth out loud in Japanese.
+== Telling the time
+fig: clock
+The order is the same as in English: **hour** (時 *ji*), then **minutes** (分 *fun* / *pun*).
+ex: いちじ (1時) | ichi-ji | 1 o'clock
+ex: にふん (2分) | ni-fun | 2 minutes
+ex: きゅうふん (9分) | kyū-fun | 9 minutes
+table: Irregular readings :: | Kana | Rōmaji
+- 4 o'clock | よじ | yo-ji
+- 7 o'clock | しちじ | shichi-ji
+- 9 o'clock | くじ | ku-ji
+- 1 minute | いっぷん | ippun
+- 3 minutes | さんぷん | sanpun
+- 4 minutes | よんぷん | yonpun
+- 6 minutes | ろっぷん | roppun
+- 8 minutes | はっぷん | happun
+- 10 minutes | じゅっぷん | juppun
+- 20, 30, 40 … minutes | にじゅっぷん、さんじゅっぷん… | nijuppun, sanjuppun…
+note: Every multiple of ten minutes follows the 10-minute pattern: さんじゅっぷん, よんじゅっぷん… "Half past" can also be said with 半 (*han*): しちじはん = 7:30.
+ex: いま、なんじですか。—いま、ごぜん7時30分です。 | Ima, nan-ji desu ka? — Ima, gozen shichi-ji sanjuppun desu. | What time is it now? — It's 7:30 a.m.
+ex: どのぐらいかかりますか。 | Dono gurai kakarimasu ka. | How long does it take?
+fig: daytime
+vocab:
+- 時 | じ | ji | o'clock, hour
+- 分 | ふん / ぷん | fun / pun | minute
+- 秒 | びょう | byō | second
+- 午前 | ごぜん | gozen | a.m., morning (for clock times)
+- 午後 | ごご | gogo | p.m., afternoon (for clock times)
+- 半 | はん | han | half, half past
+- 前 | まえ | mae | before
+- 後 | あと / ご | ato / go | after
+- 今日 | きょう | kyō | today
+- 昨日 | きのう | kinō | yesterday
+- 明日 | あした | ashita | tomorrow
+- 一昨日 | おととい | ototoi | the day before yesterday
+- 明後日 | あさって | asatte | the day after tomorrow
+- 円 | えん | en | yen (¥)
+- 朝 | あさ | asa | morning
+- 昼 | ひる | hiru | noon, daytime
+- 夕方 | ゆうがた | yūgata | late afternoon, early evening
+- 夜 | よる | yoru | evening, night
+- 今夜 | こんや | kon'ya | tonight
+- 今 | いま | ima | now
+
+=lesson n5-6 | N5 · Lesson 6 | Verbs: plain and polite forms
+== Plain (dictionary) form
+The **plain form** (also called *dictionary form*) is the form you find in a dictionary. In speech it is used in **casual** conversation. We start with it because it shows the structure of each verb clearly.
+Japanese has two regular verb groups, **godan** (五段, "five-row") and **ichidan** (一段, "one-row"), plus only **two irregular verbs**: する (*suru*, to do) and 来る (*kuru*, to come).
+fig: verbgroups
+=== Ichidan verbs
+Ichidan verbs are the easiest: their conjugation is simple and regular. Their dictionary form ends in **-いる** or **-える** (i.e. *-iru* / *-eru*). You remove the final る to get a **fixed stem**, then add the ending you need.
+Example: 食べます (*tabemasu*, to eat) is ichidan. Its plain form is 食べる; its stem is 食べ, which never changes:
+ex: 食べない | tabenai | don't eat (negative)
+ex: 食べた | tabeta | ate (past)
+table: Common ichidan verbs :: Kanji | Kana | English
+- 食べる | たべる | to eat
+- 寝る | ねる | to sleep, go to bed
+- 見る | みる | to see, watch
+- 出る | でる | to go out, leave
+- 生きる | いきる | to live
+- 起きる | おきる | to get up
+warn: **"Fake ichidan" verbs.** These end in -iru / -eru but are actually **godan**: 要る (いる, to need), 帰る (かえる, to go home), 切る (きる, to cut), 喋る (しゃべる, to chat), 知る (しる, to know), 入る (はいる, to enter), 走る (はしる, to run).
+=== Godan verbs
+Godan verbs always end in a **-u sound** (う, つ, る, む, ぶ, ぬ, く, ぐ, す). The final kana changes depending on the conjugation — it moves across the five vowel rows *a, i, u, e, o*, which gives the group its name.
+ex: 飲まない | nomanai | don't drink (negative of 飲む)
+ex: 飲んだ | nonda | drank (past of 飲む)
+table: Common godan verbs :: Kanji | Kana | English
+- 待つ | まつ | to wait
+- 飲む | のむ | to drink
+- 死ぬ | しぬ | to die
+- 許す | ゆるす | to forgive
+- 思う | おもう | to think
+- 働く | はたらく | to work
+- 学ぶ | まなぶ | to learn, study
+- 選ぶ | えらぶ | to choose
+== The negative (ない form)
+rule: Ichidan: remove る + ない
+ex: 食べる → 食べない | taberu → tabenai | to eat → not to eat
+rule: Godan: final -u → -a + ない
+table: :: Verb | Negative | English
+- 待つ (matsu) | 待たない (matanai) | not wait
+- 死ぬ (shinu) | 死なない (shinanai) | not die
+- 帰る (kaeru) | 帰らない (kaeranai) | not go home
+- 飲む (nomu) | 飲まない (nomanai) | not drink
+warn: Verbs ending in **う** become **わ**ない, not あない: 買う (*kau*) → 買わない (*kawanai*), 言う → 言わない. And the verb ある (to exist) has the irregular negative **ない**.
+warn: The two irregular verbs: する → **しない**, 来る (くる) → **来ない (こない)**.
+== The past (た form)
+rule: Ichidan: remove る + た
+ex: 食べる → 食べた | taberu → tabeta | ate
+For **godan** verbs, the past ending depends on the last kana of the verb. Plain past forms always end in **た** or **だ**. Learn this table well — the て form in Lesson 9 works exactly the same way.
+table: Godan past forms :: Verb ending | Past ending | Examples
+- う・つ・る | った | 買う (to buy) → 買った・分かる (to understand) → 分かった
+- ぬ・ぶ・む | んだ | 遊ぶ (to play) → 遊んだ・飲む (to drink) → 飲んだ
+- く | いた | 書く (to write) → 書いた・聞く (to listen) → 聞いた
+- ぐ | いだ | 泳ぐ (to swim) → 泳いだ・急ぐ (to hurry) → 急いだ
+- す | した | 許す (to forgive) → 許した・貸す (to lend) → 貸した
+warn: Exception: 行く (いく, to go) → **行った** (not 行いた). Irregular verbs: する → **した**, 来る → **来た (きた)**.
+== The past negative
+rule: Ichidan: remove る + なかった
+ex: 食べる → 食べなかった | taberu → tabenakatta | didn't eat
+rule: Godan: negative form, replace the final い with かった
+ex: 待つ → 待たない → 待たなかった | matsu → matanai → matanakatta | didn't wait
+ex: 帰る → 帰らない → 帰らなかった | kaeru → kaeranai → kaeranakatta | didn't go home
+Irregular: する → しなかった, 来る → 来なかった (こなかった).
+== The polite ます form
+To speak formally and politely, use the **ます form**: replace the plain ending with ます.
+rule: Ichidan: remove る + ます
+ex: 食べる → 食べます | taberu → tabemasu | to eat
+ex: 寝る → 寝ます | neru → nemasu | to sleep
+rule: Godan: final -u → -i + ます
+ex: 読む → 読みます | yomu → yomimasu | to read
+ex: 書く → 書きます | kaku → kakimasu | to write
+Irregular: する → します, 来る → 来ます (きます).
+Once you have the ます form, conjugating is easy:
+table: :: Form | Ending | Examples
+- Present / future | ～ます | たべます・のみます
+- Negative | ～ません | たべません・のみません
+- Past | ～ました | たべました・のみました
+- Past negative | ～ませんでした | たべませんでした・のみませんでした
+== です in all its forms
+table: :: | Plain (casual) | Polite
+- Present | だ | です
+- Negative | ではない / じゃない | ではありません / じゃありません
+- Past | だった | でした
+- Past negative | ではなかった / じゃなかった | ではありませんでした / じゃありませんでした
+You will sometimes see **である**. It is a more formal, written form of です / だ, common in books, articles and essays, with a neutral, impersonal tone.
+note: Japanese has **no separate future tense**. The present (non-past) form is used for the future too, and context makes it clear: あした行きます = "I will go tomorrow".
