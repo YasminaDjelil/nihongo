@@ -1,0 +1,664 @@
+会う|あう|to meet|rencontrer
+青|あお|blue|bleu
+青い|あおい|blue|bleu
+赤|あか|red|rouge
+赤い|あかい|red|rouge
+明るい|あかるい|bright|clair, lumineux
+秋|あき|autumn|automne
+開く|あく|to open (by itself)|s'ouvrir
+開ける|あける|to open (something)|ouvrir
+上げる|あげる|to give; to raise|donner ; lever
+朝|あさ|morning|matin
+朝ご飯|あさごはん|breakfast|petit-déjeuner
+あさって|あさって|the day after tomorrow|après-demain
+足|あし|foot, leg|pied, jambe
+明日|あした|tomorrow|demain
+あそこ|あそこ|over there|là-bas
+遊ぶ|あそぶ|to play, hang out|jouer, s'amuser
+暖かい|あたたかい|warm|doux, chaud
+頭|あたま|head|tête
+新しい|あたらしい|new|nouveau
+あちら|あちら|that way (polite)|par là (poli)
+暑い|あつい|hot (weather)|chaud (temps)
+熱い|あつい|hot (to the touch)|chaud (au toucher)
+厚い|あつい|thick|épais
+後|あと|after, later|après
+あなた|あなた|you|vous, tu
+兄|あに|(my) older brother|(mon) grand frère
+姉|あね|(my) older sister|(ma) grande sœur
+あの|あの|that (over there)|ce …-là (là-bas)
+アパート|アパート|apartment|appartement
+浴びる|あびる|to take (a shower)|prendre (une douche)
+危ない|あぶない|dangerous|dangereux
+甘い|あまい|sweet|sucré
+あまり|あまり|not very, not much|pas très, pas beaucoup
+雨|あめ|rain|pluie
+飴|あめ|candy|bonbon
+洗う|あらう|to wash|laver
+ある|ある|to be, exist (things)|être, il y a (choses)
+歩く|あるく|to walk|marcher
+あれ|あれ|that one (over there)|cela (là-bas)
+いい|いい|good|bon, bien
+いいえ|いいえ|no|non
+言う|いう|to say|dire
+家|いえ|house, home|maison
+行く|いく|to go|aller
+いくつ|いくつ|how many; how old|combien ; quel âge
+いくら|いくら|how much|combien (prix)
+池|いけ|pond|étang
+医者|いしゃ|doctor|médecin
+椅子|いす|chair|chaise
+忙しい|いそがしい|busy|occupé
+痛い|いたい|painful|douloureux
+一|いち|one|un
+一日|いちにち|one day, all day|un jour, toute la journée
+一番|いちばん|number one, the most|numéro un, le plus
+いつ|いつ|when|quand
+五日|いつか|the 5th; five days|le 5 ; cinq jours
+一緒|いっしょ|together|ensemble
+五つ|いつつ|five (things)|cinq (choses)
+いつも|いつも|always|toujours
+犬|いぬ|dog|chien
+今|いま|now|maintenant
+意味|いみ|meaning|sens, signification
+妹|いもうと|(my) younger sister|(ma) petite sœur
+嫌|いや|unpleasant, disliked|désagréable
+入口|いりぐち|entrance|entrée
+居る|いる|to be, exist (people, animals)|être, il y a (personnes, animaux)
+要る|いる|to need|avoir besoin de
+入れる|いれる|to put in|mettre dans
+色|いろ|colour|couleur
+色々|いろいろ|various|divers
+上|うえ|above, on, up|dessus, sur, haut
+後ろ|うしろ|behind|derrière
+薄い|うすい|thin; weak (taste)|fin ; léger (goût)
+歌|うた|song|chanson
+歌う|うたう|to sing|chanter
+生まれる|うまれる|to be born|naître
+海|うみ|sea|mer
+売る|うる|to sell|vendre
+うるさい|うるさい|noisy, annoying|bruyant, pénible
+上着|うわぎ|jacket, outerwear|veste
+絵|え|picture, drawing|image, dessin
+映画|えいが|film, movie|film
+映画館|えいがかん|cinema|cinéma
+英語|えいご|English (language)|anglais
+ええ|ええ|yes (casual)|oui (familier)
+駅|えき|station|gare
+エレベーター|エレベーター|lift, elevator|ascenseur
+円|えん|yen|yen
+鉛筆|えんぴつ|pencil|crayon
+おいしい|おいしい|delicious|délicieux
+多い|おおい|many, a lot|nombreux, beaucoup
+大きい|おおきい|big|grand
+大きな|おおきな|big (before a noun)|grand (devant un nom)
+大勢|おおぜい|many people|beaucoup de monde
+お母さん|おかあさん|mother (polite)|mère (poli)
+お菓子|おかし|sweets, snacks|gâteaux, sucreries
+お金|おかね|money|argent
+起きる|おきる|to get up|se lever
+置く|おく|to put|poser
+奥さん|おくさん|(someone's) wife|épouse (de quelqu'un)
+お酒|おさけ|alcohol, sake|alcool, saké
+お皿|おさら|plate, dish|assiette
+伯父|おじ|uncle|oncle
+おじいさん|おじいさん|grandfather; old man|grand-père ; vieil homme
+教える|おしえる|to teach, tell|enseigner, dire
+押す|おす|to push, press|pousser, appuyer
+遅い|おそい|late; slow|tard ; lent
+お茶|おちゃ|tea|thé
+お手洗い|おてあらい|toilet, restroom|toilettes
+お父さん|おとうさん|father (polite)|père (poli)
+弟|おとうと|(my) younger brother|(mon) petit frère
+男|おとこ|man|homme
+男の子|おとこのこ|boy|garçon
+一昨日|おととい|the day before yesterday|avant-hier
+一昨年|おととし|the year before last|il y a deux ans
+大人|おとな|adult|adulte
+お腹|おなか|stomach, belly|ventre
+同じ|おなじ|same|même
+お兄さん|おにいさん|older brother (polite)|grand frère (poli)
+お姉さん|おねえさん|older sister (polite)|grande sœur (poli)
+伯母|おば|aunt|tante
+おばあさん|おばあさん|grandmother; old woman|grand-mère ; vieille femme
+お風呂|おふろ|bath|bain
+お弁当|おべんとう|boxed lunch|panier-repas, bento
+覚える|おぼえる|to remember, memorise|se souvenir, mémoriser
+重い|おもい|heavy|lourd
+面白い|おもしろい|interesting, funny|intéressant, drôle
+泳ぐ|およぐ|to swim|nager
+降りる|おりる|to get off, go down|descendre
+終わる|おわる|to end, finish|finir, se terminer
+音楽|おんがく|music|musique
+女|おんな|woman|femme
+女の子|おんなのこ|girl|fille
+外国|がいこく|foreign country|pays étranger
+外国人|がいこくじん|foreigner|étranger (personne)
+会社|かいしゃ|company|entreprise
+階段|かいだん|stairs|escalier
+買い物|かいもの|shopping|courses, achats
+買う|かう|to buy|acheter
+返す|かえす|to return (something)|rendre
+帰る|かえる|to go home, return|rentrer
+顔|かお|face|visage
+かかる|かかる|to take (time, money)|prendre, coûter (temps, argent)
+鍵|かぎ|key|clé
+書く|かく|to write|écrire
+学生|がくせい|student|étudiant
+かける|かける|to make (a call); to put on (glasses)|passer (un appel) ; mettre (des lunettes)
+傘|かさ|umbrella|parapluie
+貸す|かす|to lend|prêter
+風|かぜ|wind|vent
+風邪|かぜ|a cold|rhume
+家族|かぞく|family|famille
+方|かた|person (polite)|personne (poli)
+片仮名|かたかな|katakana|katakana
+学校|がっこう|school|école
+カップ|カップ|cup|tasse
+家庭|かてい|household, home|foyer, famille
+角|かど|corner|coin (de rue)
+かばん|かばん|bag|sac
+花瓶|かびん|vase|vase
+被る|かぶる|to put on (a hat)|mettre (un chapeau)
+紙|かみ|paper|papier
+カメラ|カメラ|camera|appareil photo
+火曜日|かようび|Tuesday|mardi
+辛い|からい|spicy, hot|épicé
+体|からだ|body|corps
+借りる|かりる|to borrow|emprunter
+軽い|かるい|light (weight)|léger
+カレー|カレー|curry|curry
+カレンダー|カレンダー|calendar|calendrier
+川|かわ|river|rivière
+可愛い|かわいい|cute|mignon
+漢字|かんじ|kanji|kanji
+木|き|tree, wood|arbre, bois
+黄色|きいろ|yellow|jaune
+黄色い|きいろい|yellow|jaune
+消える|きえる|to go out, disappear|s'éteindre, disparaître
+聞く|きく|to listen; to ask|écouter ; demander
+北|きた|north|nord
+ギター|ギター|guitar|guitare
+汚い|きたない|dirty|sale
+喫茶店|きっさてん|café, coffee shop|café (lieu)
+切手|きって|stamp|timbre
+切符|きっぷ|ticket|billet
+昨日|きのう|yesterday|hier
+九|きゅう|nine|neuf
+牛肉|ぎゅうにく|beef|bœuf
+牛乳|ぎゅうにゅう|milk|lait
+今日|きょう|today|aujourd'hui
+教室|きょうしつ|classroom|salle de classe
+兄弟|きょうだい|siblings, brothers|frères et sœurs
+去年|きょねん|last year|l'année dernière
+嫌い|きらい|disliked|détesté
+切る|きる|to cut|couper
+着る|きる|to wear, put on|porter, mettre
+きれい|きれい|pretty; clean|joli ; propre
+キロ|キロ|kilo(gram/metre)|kilo
+銀行|ぎんこう|bank|banque
+金曜日|きんようび|Friday|vendredi
+薬|くすり|medicine|médicament
+ください|ください|please (give me)|s'il vous plaît (donnez-moi)
+果物|くだもの|fruit|fruit
+口|くち|mouth|bouche
+靴|くつ|shoes|chaussures
+靴下|くつした|socks|chaussettes
+国|くに|country|pays
+曇り|くもり|cloudy weather|temps nuageux
+曇る|くもる|to become cloudy|se couvrir
+暗い|くらい|dark|sombre
+クラス|クラス|class|classe
+グラム|グラム|gram|gramme
+来る|くる|to come|venir
+車|くるま|car|voiture
+黒|くろ|black|noir
+黒い|くろい|black|noir
+警官|けいかん|police officer|policier
+今朝|けさ|this morning|ce matin
+消す|けす|to turn off, erase|éteindre, effacer
+結構|けっこう|fine; no thank you|bien ; non merci
+結婚|けっこん|marriage|mariage
+月曜日|げつようび|Monday|lundi
+玄関|げんかん|entrance hall|entrée (de la maison)
+元気|げんき|well, lively|en forme
+五|ご|five|cinq
+公園|こうえん|park|parc
+交差点|こうさてん|intersection|carrefour
+紅茶|こうちゃ|black tea|thé noir
+交番|こうばん|police box|poste de police
+声|こえ|voice|voix
+コート|コート|coat|manteau
+コーヒー|コーヒー|coffee|café
+ここ|ここ|here|ici
+午後|ごご|afternoon, p.m.|après-midi
+九日|ここのか|the 9th; nine days|le 9 ; neuf jours
+九つ|ここのつ|nine (things)|neuf (choses)
+午前|ごぜん|morning, a.m.|matin (a.m.)
+答える|こたえる|to answer|répondre
+こちら|こちら|this way (polite)|par ici (poli)
+コップ|コップ|glass, cup|verre
+今年|ことし|this year|cette année
+言葉|ことば|word, language|mot, langue
+子供|こども|child|enfant
+この|この|this|ce …-ci
+御飯|ごはん|cooked rice; meal|riz cuit ; repas
+コピー|コピー|copy|copie
+困る|こまる|to be in trouble|être embêté
+これ|これ|this one|ceci
+今月|こんげつ|this month|ce mois-ci
+今週|こんしゅう|this week|cette semaine
+こんな|こんな|this kind of|ce genre de
+今晩|こんばん|this evening|ce soir
+さあ|さあ|well, come on|eh bien, allez
+財布|さいふ|wallet|portefeuille
+魚|さかな|fish|poisson
+先|さき|ahead, before|devant, avant
+咲く|さく|to bloom|fleurir
+作文|さくぶん|composition, essay|rédaction
+差す|さす|to hold up (an umbrella)|ouvrir (un parapluie)
+雑誌|ざっし|magazine|magazine
+砂糖|さとう|sugar|sucre
+寒い|さむい|cold (weather)|froid (temps)
+再来年|さらいねん|the year after next|dans deux ans
+三|さん|three|trois
+散歩|さんぽ|walk, stroll|promenade
+四|し|four|quatre
+塩|しお|salt|sel
+しかし|しかし|however|cependant
+時間|じかん|time; hour|temps ; heure
+仕事|しごと|work, job|travail
+辞書|じしょ|dictionary|dictionnaire
+静か|しずか|quiet|calme
+下|した|below, under|dessous, sous
+七|しち|seven|sept
+質問|しつもん|question|question
+自転車|じてんしゃ|bicycle|vélo
+自動車|じどうしゃ|car, automobile|automobile
+死ぬ|しぬ|to die|mourir
+字引|じびき|dictionary (old word)|dictionnaire (ancien mot)
+自分|じぶん|oneself|soi-même
+閉まる|しまる|to close (by itself)|se fermer
+閉める|しめる|to close (something)|fermer
+締める|しめる|to fasten, tie|attacher, serrer
+じゃあ|じゃあ|well then|bon, alors
+写真|しゃしん|photo|photo
+シャツ|シャツ|shirt|chemise
+シャワー|シャワー|shower|douche
+十|じゅう|ten|dix
+授業|じゅぎょう|class, lesson|cours
+宿題|しゅくだい|homework|devoirs
+上手|じょうず|skilful, good at|doué, habile
+丈夫|じょうぶ|sturdy, healthy|solide, robuste
+醤油|しょうゆ|soy sauce|sauce soja
+食堂|しょくどう|cafeteria, dining hall|cantine, réfectoire
+知る|しる|to know|savoir, connaître
+白|しろ|white|blanc
+白い|しろい|white|blanc
+新聞|しんぶん|newspaper|journal
+水曜日|すいようび|Wednesday|mercredi
+吸う|すう|to smoke, breathe in|fumer, aspirer
+スカート|スカート|skirt|jupe
+好き|すき|liked|aimé
+少ない|すくない|few, little|peu nombreux
+すぐ|すぐ|at once, soon|tout de suite
+少し|すこし|a little|un peu
+涼しい|すずしい|cool (weather)|frais (temps)
+ストーブ|ストーブ|heater, stove|poêle, chauffage
+スプーン|スプーン|spoon|cuillère
+スポーツ|スポーツ|sport|sport
+ズボン|ズボン|trousers|pantalon
+住む|すむ|to live (somewhere)|habiter
+スリッパ|スリッパ|slippers|chaussons
+する|する|to do|faire
+座る|すわる|to sit down|s'asseoir
+背|せ|height (of a person)|taille (d'une personne)
+生徒|せいと|pupil|élève
+セーター|セーター|sweater|pull
+石鹸|せっけん|soap|savon
+背広|せびろ|business suit|costume
+狭い|せまい|narrow, small (room)|étroit, exigu
+ゼロ|ゼロ|zero|zéro
+千|せん|thousand|mille
+先月|せんげつ|last month|le mois dernier
+先週|せんしゅう|last week|la semaine dernière
+先生|せんせい|teacher|professeur
+洗濯|せんたく|laundry|lessive
+全部|ぜんぶ|all, everything|tout
+掃除|そうじ|cleaning|ménage
+そうして|そうして|and then|et puis
+そこ|そこ|there|là
+そちら|そちら|that way (polite)|par là (poli)
+外|そと|outside|dehors
+その|その|that|ce …-là
+そば|そば|near, beside|près, à côté
+空|そら|sky|ciel
+それ|それ|that one|cela
+それから|それから|and then, after that|ensuite
+それでは|それでは|well then|alors, dans ce cas
+大学|だいがく|university|université
+大使館|たいしかん|embassy|ambassade
+大丈夫|だいじょうぶ|all right, OK|ça va, pas de problème
+大好き|だいすき|loved, liked a lot|adoré
+大切|たいせつ|important, precious|important, précieux
+台所|だいどころ|kitchen|cuisine (pièce)
+たいへん|たいへん|very; tough|très ; pénible
+高い|たかい|tall, high; expensive|haut ; cher
+たくさん|たくさん|a lot, many|beaucoup
+タクシー|タクシー|taxi|taxi
+出す|だす|to take out; to hand in|sortir ; remettre
+立つ|たつ|to stand|se lever, être debout
+縦|たて|length, vertical|longueur, vertical
+建物|たてもの|building|bâtiment
+楽しい|たのしい|fun, enjoyable|amusant, agréable
+頼む|たのむ|to ask, request|demander
+煙草|たばこ|tobacco, cigarette|tabac, cigarette
+多分|たぶん|probably|probablement
+食べ物|たべもの|food|nourriture
+食べる|たべる|to eat|manger
+卵|たまご|egg|œuf
+誰|だれ|who|qui
+誰か|だれか|someone|quelqu'un
+誕生日|たんじょうび|birthday|anniversaire
+だんだん|だんだん|gradually|peu à peu
+小さい|ちいさい|small|petit
+小さな|ちいさな|small (before a noun)|petit (devant un nom)
+近い|ちかい|near|proche
+違う|ちがう|to be different; to be wrong|être différent ; se tromper
+近く|ちかく|nearby|près d'ici
+地下鉄|ちかてつ|subway, underground|métro
+地図|ちず|map|carte, plan
+父|ちち|(my) father|(mon) père
+茶色|ちゃいろ|brown|marron
+茶碗|ちゃわん|rice bowl|bol à riz
+ちょうど|ちょうど|exactly, just|exactement, juste
+ちょっと|ちょっと|a little; a moment|un peu ; un instant
+一日|ついたち|the 1st of the month|le 1er du mois
+使う|つかう|to use|utiliser
+疲れる|つかれる|to get tired|se fatiguer
+次|つぎ|next|suivant, prochain
+着く|つく|to arrive|arriver
+机|つくえ|desk|bureau (meuble)
+作る|つくる|to make|fabriquer, faire
+点ける|つける|to turn on|allumer
+勤める|つとめる|to work for|travailler pour
+つまらない|つまらない|boring|ennuyeux
+冷たい|つめたい|cold (to the touch)|froid (au toucher)
+強い|つよい|strong|fort
+手|て|hand|main
+テープ|テープ|tape|cassette, ruban
+テーブル|テーブル|table|table
+テープレコーダー|テープレコーダー|tape recorder|magnétophone
+出かける|でかける|to go out|sortir
+手紙|てがみ|letter|lettre
+できる|できる|can, to be able to|pouvoir
+出口|でぐち|exit|sortie
+テスト|テスト|test|test, contrôle
+では|では|well then|alors, bon
+デパート|デパート|department store|grand magasin
+でも|でも|but|mais
+出る|でる|to go out, leave|sortir, partir
+テレビ|テレビ|television|télévision
+天気|てんき|weather|temps, météo
+電気|でんき|electricity; light|électricité ; lumière
+電車|でんしゃ|train|train
+電話|でんわ|telephone|téléphone
+戸|と|door (Japanese style)|porte (japonaise)
+ドア|ドア|door|porte
+トイレ|トイレ|toilet|toilettes
+どう|どう|how|comment
+どうして|どうして|why|pourquoi
+どうぞ|どうぞ|please, go ahead|je vous en prie
+動物|どうぶつ|animal|animal
+どうも|どうも|thanks|merci
+十|とお|ten (things)|dix (choses)
+遠い|とおい|far|loin
+十日|とおか|the 10th; ten days|le 10 ; dix jours
+時々|ときどき|sometimes|parfois
+時計|とけい|watch, clock|montre, horloge
+どこ|どこ|where|où
+所|ところ|place|endroit
+年|とし|year; age|année ; âge
+図書館|としょかん|library|bibliothèque
+どちら|どちら|which (of two); where (polite)|lequel (des deux) ; où (poli)
+とても|とても|very|très
+どなた|どなた|who (polite)|qui (poli)
+隣|となり|next door, next to|voisin, à côté
+どの|どの|which|quel
+飛ぶ|とぶ|to fly, jump|voler, sauter
+止まる|とまる|to stop|s'arrêter
+友達|ともだち|friend|ami
+土曜日|どようび|Saturday|samedi
+鳥|とり|bird|oiseau
+鶏肉|とりにく|chicken (meat)|poulet (viande)
+取る|とる|to take|prendre
+撮る|とる|to take (a photo)|prendre (une photo)
+どれ|どれ|which one|lequel
+どんな|どんな|what kind of|quel genre de
+無い|ない|there isn't, not have|il n'y a pas
+ナイフ|ナイフ|knife|couteau
+中|なか|inside, middle|dedans, milieu
+長い|ながい|long|long
+鳴く|なく|to sing, cry (animal)|chanter, crier (animal)
+無くす|なくす|to lose (something)|perdre
+なぜ|なぜ|why|pourquoi
+夏|なつ|summer|été
+夏休み|なつやすみ|summer holidays|vacances d'été
+七つ|ななつ|seven (things)|sept (choses)
+何|なに|what|quoi
+七日|なのか|the 7th; seven days|le 7 ; sept jours
+名前|なまえ|name|nom
+習う|ならう|to learn|apprendre
+並ぶ|ならぶ|to line up|faire la queue
+並べる|ならべる|to line up (things)|aligner
+なる|なる|to become|devenir
+二|に|two|deux
+賑やか|にぎやか|lively, bustling|animé
+肉|にく|meat|viande
+西|にし|west|ouest
+日曜日|にちようび|Sunday|dimanche
+荷物|にもつ|luggage|bagages
+ニュース|ニュース|news|nouvelles, informations
+庭|にわ|garden|jardin
+脱ぐ|ぬぐ|to take off (clothes)|enlever (un vêtement)
+温い|ぬるい|lukewarm|tiède
+ネクタイ|ネクタイ|tie|cravate
+猫|ねこ|cat|chat
+寝る|ねる|to sleep, go to bed|dormir, se coucher
+ノート|ノート|notebook|cahier
+登る|のぼる|to climb|monter, grimper
+飲み物|のみもの|drink|boisson
+飲む|のむ|to drink|boire
+乗る|のる|to get on, ride|monter (dans un véhicule)
+歯|は|tooth|dent
+パーティー|パーティー|party|fête
+はい|はい|yes|oui
+灰皿|はいざら|ashtray|cendrier
+入る|はいる|to enter|entrer
+葉書|はがき|postcard|carte postale
+履く|はく|to put on (shoes, trousers)|mettre (chaussures, pantalon)
+箱|はこ|box|boîte
+橋|はし|bridge|pont
+箸|はし|chopsticks|baguettes
+始まる|はじまる|to begin|commencer
+初め|はじめ|beginning|début
+初めて|はじめて|for the first time|pour la première fois
+走る|はしる|to run|courir
+バス|バス|bus|bus
+バター|バター|butter|beurre
+二十歳|はたち|20 years old|20 ans
+働く|はたらく|to work|travailler
+八|はち|eight|huit
+二十日|はつか|the 20th; twenty days|le 20 ; vingt jours
+花|はな|flower|fleur
+鼻|はな|nose|nez
+話|はなし|story, talk|histoire, conversation
+話す|はなす|to speak|parler
+母|はは|(my) mother|(ma) mère
+早い|はやい|early|tôt
+速い|はやい|fast|rapide
+春|はる|spring|printemps
+貼る|はる|to stick, paste|coller
+晴れ|はれ|fine weather|beau temps
+晴れる|はれる|to clear up|s'éclaircir
+半|はん|half|demi
+晩|ばん|evening|soir
+パン|パン|bread|pain
+ハンカチ|ハンカチ|handkerchief|mouchoir
+番号|ばんごう|number|numéro
+晩御飯|ばんごはん|dinner|dîner
+半分|はんぶん|half|moitié
+東|ひがし|east|est
+引く|ひく|to pull|tirer
+弾く|ひく|to play (an instrument)|jouer (d'un instrument)
+低い|ひくい|low, short|bas
+飛行機|ひこうき|aeroplane|avion
+左|ひだり|left|gauche
+人|ひと|person|personne
+一つ|ひとつ|one (thing)|un (chose)
+一月|ひとつき|one month|un mois
+一人|ひとり|one person; alone|une personne ; seul
+暇|ひま|free time|temps libre
+百|ひゃく|hundred|cent
+病院|びょういん|hospital|hôpital
+病気|びょうき|illness|maladie
+平仮名|ひらがな|hiragana|hiragana
+昼|ひる|noon, daytime|midi, journée
+昼御飯|ひるごはん|lunch|déjeuner
+広い|ひろい|wide, spacious|large, spacieux
+フィルム|フィルム|film (for a camera)|pellicule
+封筒|ふうとう|envelope|enveloppe
+プール|プール|swimming pool|piscine
+フォーク|フォーク|fork|fourchette
+吹く|ふく|to blow|souffler
+服|ふく|clothes|vêtements
+二つ|ふたつ|two (things)|deux (choses)
+豚肉|ぶたにく|pork|porc
+二人|ふたり|two people|deux personnes
+二日|ふつか|the 2nd; two days|le 2 ; deux jours
+太い|ふとい|thick, fat|épais, gros
+冬|ふゆ|winter|hiver
+降る|ふる|to fall (rain, snow)|tomber (pluie, neige)
+古い|ふるい|old (things)|vieux, ancien
+風呂|ふろ|bath|bain
+文章|ぶんしょう|sentence, text|phrase, texte
+ページ|ページ|page|page
+下手|へた|unskilful, bad at|maladroit, mauvais en
+ベッド|ベッド|bed|lit
+ペット|ペット|pet|animal de compagnie
+部屋|へや|room|pièce, chambre
+辺|へん|area, vicinity|environs
+ペン|ペン|pen|stylo
+勉強|べんきょう|study|étude
+便利|べんり|convenient|pratique
+帽子|ぼうし|hat|chapeau
+ボールペン|ボールペン|ballpoint pen|stylo à bille
+他|ほか|other|autre
+ポケット|ポケット|pocket|poche
+欲しい|ほしい|to want (something)|vouloir (quelque chose)
+ポスト|ポスト|postbox|boîte aux lettres
+細い|ほそい|thin, slender|fin, mince
+ボタン|ボタン|button|bouton
+ホテル|ホテル|hotel|hôtel
+本|ほん|book|livre
+本棚|ほんだな|bookshelf|étagère à livres
+本当|ほんとう|truth, real|vrai, vérité
+毎朝|まいあさ|every morning|chaque matin
+毎月|まいつき|every month|chaque mois
+毎週|まいしゅう|every week|chaque semaine
+毎日|まいにち|every day|chaque jour
+毎年|まいとし|every year|chaque année
+毎晩|まいばん|every evening|chaque soir
+前|まえ|before; in front|avant ; devant
+曲がる|まがる|to turn|tourner
+不味い|まずい|bad-tasting|mauvais (goût)
+また|また|again; also|encore ; aussi
+まだ|まだ|still, not yet|encore, pas encore
+町|まち|town|ville
+待つ|まつ|to wait|attendre
+まっすぐ|まっすぐ|straight ahead|tout droit
+マッチ|マッチ|match (for fire)|allumette
+窓|まど|window|fenêtre
+丸い|まるい|round|rond
+万|まん|ten thousand|dix mille
+万年筆|まんねんひつ|fountain pen|stylo-plume
+磨く|みがく|to brush, polish|brosser, polir
+右|みぎ|right|droite
+短い|みじかい|short|court
+水|みず|water|eau
+店|みせ|shop|magasin
+見せる|みせる|to show|montrer
+道|みち|road, way|route, chemin
+三日|みっか|the 3rd; three days|le 3 ; trois jours
+三つ|みっつ|three (things)|trois (choses)
+緑|みどり|green|vert
+皆さん|みなさん|everyone (polite)|tout le monde (poli)
+南|みなみ|south|sud
+耳|みみ|ear|oreille
+見る|みる|to see, watch|voir, regarder
+みんな|みんな|everyone|tout le monde
+六日|むいか|the 6th; six days|le 6 ; six jours
+向こう|むこう|over there, the other side|là-bas, de l'autre côté
+難しい|むずかしい|difficult|difficile
+六つ|むっつ|six (things)|six (choses)
+村|むら|village|village
+目|め|eye|œil
+メートル|メートル|metre|mètre
+眼鏡|めがね|glasses|lunettes
+もう|もう|already|déjà
+もう一度|もういちど|once more|encore une fois
+木曜日|もくようび|Thursday|jeudi
+持つ|もつ|to hold, have|tenir, avoir
+もっと|もっと|more|plus, davantage
+物|もの|thing|chose
+門|もん|gate|portail
+問題|もんだい|problem, question|problème, question
+八百屋|やおや|greengrocer|marchand de légumes
+野菜|やさい|vegetable|légume
+易しい|やさしい|easy|facile
+安い|やすい|cheap|bon marché
+休み|やすみ|holiday, rest|congé, repos
+休む|やすむ|to rest; to take a day off|se reposer ; prendre congé
+八つ|やっつ|eight (things)|huit (choses)
+山|やま|mountain|montagne
+やる|やる|to do|faire
+夕方|ゆうがた|late afternoon, evening|fin d'après-midi
+夕飯|ゆうはん|dinner|dîner
+郵便局|ゆうびんきょく|post office|bureau de poste
+昨夜|ゆうべ|last night|hier soir
+有名|ゆうめい|famous|célèbre
+雪|ゆき|snow|neige
+ゆっくり|ゆっくり|slowly|lentement
+八日|ようか|the 8th; eight days|le 8 ; huit jours
+洋服|ようふく|Western clothes|vêtements occidentaux
+よく|よく|often; well|souvent ; bien
+横|よこ|beside; width|à côté ; largeur
+四日|よっか|the 4th; four days|le 4 ; quatre jours
+四つ|よっつ|four (things)|quatre (choses)
+呼ぶ|よぶ|to call|appeler
+読む|よむ|to read|lire
+夜|よる|night, evening|nuit, soir
+弱い|よわい|weak|faible
+来月|らいげつ|next month|le mois prochain
+来週|らいしゅう|next week|la semaine prochaine
+来年|らいねん|next year|l'année prochaine
+ラジオ|ラジオ|radio|radio
+立派|りっぱ|splendid, fine|magnifique, admirable
+留学生|りゅうがくせい|foreign student|étudiant étranger
+両親|りょうしん|parents|parents
+料理|りょうり|cooking, cuisine|cuisine (plats)
+旅行|りょこう|trip, travel|voyage
+零|れい|zero|zéro
+冷蔵庫|れいぞうこ|refrigerator|réfrigérateur
+レコード|レコード|record|disque
+レストラン|レストラン|restaurant|restaurant
+練習|れんしゅう|practice|exercice, entraînement
+六|ろく|six|six
+ワイシャツ|ワイシャツ|dress shirt|chemise de ville
+若い|わかい|young|jeune
+分かる|わかる|to understand|comprendre
+忘れる|わすれる|to forget|oublier
+私|わたし|I|je, moi
+渡す|わたす|to hand over|remettre, donner
+渡る|わたる|to cross|traverser
+悪い|わるい|bad|mauvais

@@ -1,0 +1,347 @@
+=part n4 | Part 2 · JLPT N4 | Going further
+
+=lesson n4-0 | N4 · Introduction | What you need from N5
+Before starting N4, make sure you are comfortable with these N5 essentials — everything in this part builds on them:
+li: the **plain (dictionary) form** of verbs (N5 Lesson 6)
+li: the **て form** (N5 Lesson 9)
+li: the **ない form** — the negative (N5 Lesson 6)
+li: the **た form** — the past (N5 Lesson 6)
+li: **い- and な-adjectives** (N5 Lesson 8)
+li: the main **particles** (N5 Lessons 2–4)
+Don't hesitate to go back over these points if you don't feel confident with them.
+note: From this part on, example sentences are shown with a **kana reading** instead of rōmaji, so you get used to reading Japanese. Toggle them with the "Rōmaji / readings" button.
+
+=lesson n4-1 | N4 · Lesson 1 | Time, habits and states
+== ～時に — when
+時 (とき, often written in hiragana) means "when / at the time of".
+rule: Verb (plain) / い-adjective + 時(に)
+rule: Noun + の + 時(に)
+rule: な-adjective + な + 時(に)
+ex: 辞書は言語を学習する時に重要な助けになる。 | じしょ は げんご を がくしゅう する とき に じゅうよう な たすけ に なる。 | A dictionary is a great help when you study a language.
+ex: 暇な時にこの本を読んでください。 | ひま な とき に この ほん を よんで ください。 | Please read this book when you have free time.
+ex: 子供の時、よく海で泳ぎました。 | こども の とき、よく うみ で およぎました。 | When I was a child, I often swam in the sea.
+== ～たばかり — have just done
+た + ばかり means you have **just** done something (from your point of view, it feels recent). A similar form is た + ところ, which means "just this moment". Add です to be polite.
+rule: Verb (plain past, た form) + ばかり(です)
+ex: 列車は着いたばかりです。 | れっしゃ は ついた ばかり です。 | The train has just arrived.
+ex: 父は帰国したばかりだ。 | ちち は きこく した ばかり だ。 | My father has just come back from abroad.
+note: ～たところ = the action finished seconds ago (いま着いたところです, "I've just this moment arrived"). ～たばかり can cover a longer time (日本に来たばかりです, "I came to Japan recently").
+== ～てばかりいる — do nothing but…
+This form means "do nothing but…, keep on doing…". It stresses that an action is repeated all the time, often with a critical tone.
+rule: Verb て form + ばかり + いる
+rule: Noun + ばかり + Verb て form + いる
+ex: 彼は朝から晩まで働いてばかりいる。 | かれ は あさ から ばん まで はたらいて ばかり いる。 | He does nothing but work from morning till night.
+ex: 彼は一日中テレビばかり見ていた。 | かれ は いちにちじゅう テレビ ばかり みて いた。 | He did nothing but watch TV all day.
+== ～ながら — while doing
+ながら expresses two actions done **at the same time** by the same person: "do A while doing B". The main action comes last.
+rule: Verb stem (ます form without ます) + ながら + main verb
+ex: 歩きながら話しましょう。 | あるき ながら はなしましょう。 | Let's talk while we walk.
+ex: 私は音楽を聞きながら勉強をします。 | わたし は おんがく を きき ながら べんきょう を します。 | I study while listening to music.
+== ～くする / ～にする — to make something…
+To show that someone **changes the state** of something ("make X + adjective"), use する. Compare with なる (N5 Lesson 9), where the change happens by itself.
+rule: い-adjective: replace い with く + する
+rule: な-adjective / noun: replace な with に + する
+ex: 彼は子供を幸せにするために一生懸命働いた。 | かれ は こども を しあわせ に する ため に いっしょうけんめい はたらいた。 | He worked as hard as he could to make his children happy.
+ex: 太陽は地球を暖かく明るくする。 | たいよう は ちきゅう を あたたかく あかるく する。 | The sun makes the Earth warm and bright.
+ex: 音を小さくしてください。 | おと を ちいさく して ください。 | Please turn the volume down.
+vocab:
+- 辞書 | じしょ | jisho | dictionary
+- 言語 | げんご | gengo | language
+- 重要な | じゅうような | jūyō na | important
+- 助け | たすけ | tasuke | help
+- 学習する | がくしゅうする | gakushū suru | to study, learn
+- 暇な | ひまな | hima na | free, not busy
+- 着く | つく | tsuku | to arrive
+- 帰国する | きこくする | kikoku suru | to return to one's country
+- 外国 | がいこく | gaikoku | foreign country, abroad
+- 晩 | ばん | ban | evening
+- 歩く | あるく | aruku | to walk
+- 音楽 | おんがく | ongaku | music
+- 子供 | こども | kodomo | child
+- 幸せな | しあわせな | shiawase na | happy
+- 一生懸命 | いっしょうけんめい | isshōkenmei | as hard as one can
+- 太陽 | たいよう | taiyō | the sun
+- 地球 | ちきゅう | chikyū | the Earth
+- 明るい | あかるい | akarui | bright
+- 音 | おと | oto | sound
+- 電気 | でんき | denki | electricity; light
+- 生活 | せいかつ | seikatsu | daily life
+- 便利な | べんりな | benri na | convenient, handy
+- 火事 | かじ | kaji | fire (in a building)
+- 押す | おす | osu | to push, press
+- 割る | わる | waru | to break, split
+
+=lesson n4-2 | N4 · Lesson 2 | Actions and how they turn out
+== ～ておく — do in advance / leave as is
+て + おく (置く, "to put") has two main meanings:
+li: do something **in advance**, as preparation for later;
+li: **leave** something in a certain state after an action.
+おく conjugates as a godan verb. In casual speech ～ておく often becomes ～とく (しておく → しとく).
+rule: Verb て form + おく
+ex: とりあえず応急処置をしておきます。 | とりあえず おうきゅう しょち を して おきます。 | For now, I'll give you first aid (to prepare for proper treatment).
+ex: 旅行の前にホテルを予約しておきます。 | りょこう の まえ に ホテル を よやく して おきます。 | I'll book the hotel before the trip.
+ex: 彼は部屋をきれいにしておく。 | かれ は へや を きれい に して おく。 | He keeps his room clean.
+== ～てある — has been done (on purpose)
+て + ある describes the **state resulting from an intentional action** done by someone for a purpose. It is used with **transitive** verbs; the thing affected is usually marked with が.
+rule: Transitive verb て form + ある
+ex: 窓が開けてある。 | まど が あけて ある。 | The window has been (left) open (by someone, on purpose).
+ex: やさしい英語で書いてあるので、この本は初心者に適している。 | やさしい えいご で かいて ある ので、この ほん は しょしんしゃ に てきして いる。 | This book is written in simple English, so it is suitable for beginners.
+ex: これらの座席はお年寄りや病人のために取ってある。 | これら の ざせき は おとしより や びょうにん の ため に とって ある。 | These seats are reserved for elderly and sick people.
+note: Compare: 窓が**開いている** (the window is open — just a state, intransitive) and 窓が**開けてある** (someone opened the window on purpose).
+== ～てしまう — completely / regrettably
+て + しまう has two meanings:
+li: **regret** or embarrassment: something happened that you did not want ("ended up…", "accidentally…");
+li: **completion**: the action has been done completely.
+rule: Verb て form + しまう
+In casual speech, ～てしまう becomes **～ちゃう** and ～でしまう becomes **～じゃう**. Both conjugate as godan verbs (食べちゃった, 飲んじゃった).
+ex: 彼は失業してしまった。 | かれ は しつぎょう して しまった。 | He lost his job (unfortunately).
+ex: 木の葉はみんな落ちてしまった。 | き の は は みんな おちて しまった。 | All the leaves have fallen from the trees.
+ex: ケーキを全部食べちゃった。 | ケーキ を ぜんぶ たべちゃった。 | I ate the whole cake (oops).
+== ～てみる — try doing
+て + みる (見る, "to see") means "try doing something (to see what it's like)".
+rule: Verb て form + みる
+ex: 船で世界一周をしてみたい。 | ふね で せかい いっしゅう を して みたい。 | I'd like to try sailing around the world.
+ex: このくつをはいてみてもいいですか。 | この くつ を はいて みて も いい です か。 | May I try these shoes on?
+== ～し — and what's more…
+し lists several **reasons or qualities**, suggesting that there are more ("…and…, and besides…"). It is often used to justify a conclusion.
+rule: Verb (plain) / い-adjective + し
+rule: Noun / な-adjective + だ + し
+ex: ワット先生は熱心だし、まじめだし、経験もあります。 | ワット せんせい は ねっしん だ し、まじめ だ し、けいけん も あります。 | Mr Watt is enthusiastic, serious, and on top of that he has experience.
+ex: 駅から近いし、車でも来られるし、この店はとても便利です。 | えき から ちかい し、くるま でも こられる し、この みせ は とても べんり です。 | It's close to the station and you can come by car too, so this shop is very convenient.
+== ～続ける — keep on doing
+続ける (つづける, "to continue") after a verb stem means "keep on doing". It conjugates as an ichidan verb.
+rule: Verb stem + 続ける
+ex: 選手は走り続けました。 | せんしゅ は はしり つづけました。 | The athlete kept on running.
+ex: 物価は上がり続けるだろう。 | ぶっか は あがり つづける だろう。 | Prices will probably keep on rising.
+vocab:
+- 応急処置 | おうきゅうしょち | ōkyū shochi | first aid
+- 予約する | よやくする | yoyaku suru | to book, reserve
+- 英語 | えいご | eigo | English (language)
+- 初心者 | しょしんしゃ | shoshinsha | beginner
+- 適する | てきする | teki suru | to be suitable
+- 座席 | ざせき | zaseki | seat
+- お年寄り | おとしより | otoshiyori | elderly person
+- 病人 | びょうにん | byōnin | sick person
+- 取っておく | とっておく | totte oku | to keep, set aside
+- 失業する | しつぎょうする | shitsugyō suru | to lose one's job
+- 落ちる | おちる | ochiru | to fall
+- 全部 | ぜんぶ | zenbu | all, everything
+- 船 | ふね | fune | ship, boat
+- 世界一周 | せかいいっしゅう | sekai isshū | trip around the world
+- 履く | はく | haku | to put on (shoes, trousers)
+- 先生 | せんせい | sensei | teacher
+- 熱心な | ねっしんな | nesshin na | enthusiastic, eager
+- 真面目な | まじめな | majime na | serious, earnest
+- 経験 | けいけん | keiken | experience
+- 店 | みせ | mise | shop
+- 選手 | せんしゅ | senshu | athlete, player
+- 走る | はしる | hashiru | to run
+- 物価 | ぶっか | bukka | prices, cost of living
+- 上がる | あがる | agaru | to rise, go up
+
+=lesson n4-3 | N4 · Lesson 3 | Intentions and decisions
+== The volitional form ～よう / ～おう / ～ましょう
+The **volitional form** expresses the speaker's **will** or a **suggestion**: "let's…", "I'll…". It is also used to show you have made a decision.
+rule: Godan: final -u → -ō (う → おう)
+ex: 行く → 行こう | いく → いこう | to go → let's go
+ex: 待つ → 待とう | まつ → まとう | to wait → let's wait
+rule: Ichidan: remove る + よう
+ex: 寝る → 寝よう | ねる → ねよう | to sleep → let's go to bed
+ex: 食べる → 食べよう | たべる → たべよう | to eat → let's eat
+rule: Irregular: する → しよう, 来る → 来よう (こよう)
+rule: Polite: Verb stem + ましょう
+ex: 飲みます → 飲みましょう | のみます → のみましょう | drink → let's drink
+ex: します → しましょう | します → しましょう | do → let's do (it)
+ex: その犬をスキッパーと呼ぼう。 | その いぬ を スキッパー と よぼう。 | Let's call that dog Skipper.
+ex: 冷たいビールでも飲みながら話しましょう。 | つめたい ビール でも のみ ながら はなしましょう。 | Let's talk over a cold beer or something.
+note: Volitional + と思う = "I'm thinking of…": 来年日本へ行こうと思っています (I'm thinking of going to Japan next year).
+== ～ようとする — try to / be about to
+Volitional form + とする means you **tried** to do something — often without succeeding — or that something is **about to** happen. Don't confuse it with ～てみる, which means you actually try something out to see what it's like.
+rule: Volitional form + とする
+ex: 早く寝ようとしたけど、結局は徹夜した。 | はやく ねよう と した けど、けっきょく は てつや した。 | I tried to go to bed early, but in the end I stayed up all night.
+ex: 出かけようとした時、電話が鳴った。 | でかけよう と した とき、でんわ が なった。 | Just as I was about to go out, the phone rang.
+ex: 他人のあら探しをしようとするな。 | たにん の あらさがし を しよう と する な。 | Don't go looking for faults in other people.
+== ～ようにする / ～ようになる
+**～ようにする**: "make sure to / make an effort to". It shows a **conscious effort** or habit you decide on.
+**～ようになる**: "come to / reach the point where". It describes a **gradual change** over time — there was a "before" and an "after". It is often used with the potential form (Lesson 6).
+rule: Verb (plain, positive or negative) + ようにする / ようになる
+ex: 卵を割らないようにしてください。 | たまご を わらない よう に して ください。 | Please be careful not to break the eggs.
+ex: 毎日野菜を食べるようにしています。 | まいにち やさい を たべる よう に して います。 | I make sure to eat vegetables every day.
+ex: 英語が話せるようになるだろう。 | えいご が はなせる よう に なる だろう。 | You'll probably become able to speak English.
+== ～ことにする / ～ことになる — decide
+Both express a decision, but who decides is different:
+li: **～ことにする**: **I** decide (personal choice). ～ことに決める (or ことを決める) is similar, but sounds more deliberate, for important decisions.
+li: **～ことになる**: it **has been decided** (by someone else, or by circumstances).
+li: **～ことにしている / ～ことになっている**: a decision that has become a habit / a rule.
+rule: Verb (plain) + ことにする / ことになる
+To decide **not** to do something, put the verb before こと in the negative: 行かないことにした (I decided not to go).
+ex: 弁護士に相談することにした。 | べんごし に そうだん する こと に した。 | I decided to consult a lawyer.
+ex: 来週東京に行くことになりました。 | らいしゅう とうきょう に いく こと に なりました。 | It's been decided that I'll go to Tokyo next week.
+ex: ここではくつをぬぐことになっています。 | ここ では くつ を ぬぐ こと に なって います。 | The rule here is that you take your shoes off.
+== ～合う — each other
+合う (あう) after a verb stem means the action is done **mutually**, "…each other". It conjugates as a godan verb.
+rule: Verb stem + 合う
+ex: 二人は手を取り合って月明かりの中を歩いた。 | ふたり は て を とりあって つきあかり の なか を あるいた。 | The two of them walked hand in hand in the moonlight.
+ex: 困った時は助け合いましょう。 | こまった とき は たすけあいましょう。 | Let's help each other when we're in trouble.
+vocab:
+- 呼ぶ | よぶ | yobu | to call
+- 結局 | けっきょく | kekkyoku | in the end, after all
+- 徹夜する | てつやする | tetsuya suru | to stay up all night
+- 鳴る | なる | naru | to ring, sound
+- 他人 | たにん | tanin | other people
+- 粗探し | あらさがし | arasagashi | fault-finding
+- 卵 | たまご | tamago | egg
+- 野菜 | やさい | yasai | vegetable
+- 決める | きめる | kimeru | to decide
+- 弁護士 | べんごし | bengoshi | lawyer
+- 相談する | そうだんする | sōdan suru | to consult, ask for advice
+- 脱ぐ | ぬぐ | nugu | to take off (clothes, shoes)
+- 月明かり | つきあかり | tsukiakari | moonlight
+- 困る | こまる | komaru | to be in trouble
+
+=lesson n4-4 | N4 · Lesson 4 | Requests, favours and suggestions
+fig: giving | The direction of the favour decides the verb.
+== ～てくれませんか / ～ていただけませんか — could you…?
+Both forms politely **ask someone to do something for you**: "Could you… (for me)?"
+li: **～てくれませんか** is polite, for friends, colleagues, equals.
+li: **～ていただけませんか** is more polite and respectful, for strangers, customers, superiors.
+rule: Verb て form + くれませんか / いただけませんか
+ex: 窓を開けてくれませんか。 | まど を あけて くれません か。 | Could you open the window?
+ex: 電話を貸していただけませんか。 | でんわ を かして いただけません か。 | Could you possibly lend me your phone?
+== ～たらどうですか — why don't you…?
+This form makes a **suggestion** to the listener: "Why don't you…?", "How about…?". Casually: ～たら？ or ～たらどう？
+rule: Verb (plain past, た form) + ら + どうですか
+ex: それを電話帳で調べたらどうですか。 | それ を でんわちょう で しらべたら どう です か。 | Why don't you look it up in the phone book?
+ex: 少し休んだらどうですか。 | すこし やすんだら どう です か。 | Why don't you rest a little?
+== ～てあげる / ～てさしあげる / ～てやる — do for someone
+These forms mean you do something **for someone else** (another person, not you or your group).
+li: **～てあげる**: neutral.
+li: **～てさしあげる** (差し上げる): humble and respectful, towards a superior.
+li: **～てやる**: casual, towards someone younger or lower in status, or an animal or plant.
+rule: Verb て form + あげる / さしあげる (ichidan) / やる (godan)
+ex: 待ってあげる。 | まって あげる。 | I'll wait for you.
+ex: 私は雨の日も晴れの日も犬を散歩に連れて行ってやる。 | わたし は あめ の ひ も はれ の ひ も いぬ を さんぽ に つれて いって やる。 | Rain or shine, I take my dog out for a walk.
+warn: Saying ～てあげる directly to a superior can sound condescending ("I'll do you the favour of…"). With teachers or bosses, prefer the humble お～します (Lesson 13): お持ちします (Let me carry it).
+== ～てくれる / ～てくださる — someone does for me
+The form ～てくれる means someone does something **for me** (or my group). ～てくださる (下さる) is the respectful version, for a superior.
+rule: Verb て form + くれる (ichidan) / くださる (godan; ます form: くださいます)
+ex: 友達は私に本を貸してくれました。 | ともだち は わたし に ほん を かして くれました。 | My friend lent me a book.
+ex: 先生は用意ができたら私たちを呼んでくださるでしょう。 | せんせい は ようい が できたら わたしたち を よんで くださる でしょう。 | The teacher will probably call us when he's ready.
+== ～てもらう / ～ていただく — have someone do for me
+～てもらう means you **receive** an action from someone: "I had someone do it / someone did it for me". ～ていただく (頂く) is the humble, more polite version, which also expresses gratitude. The person who does the action is marked with に.
+Compare the point of view:
+li: くれる: 姉が私にプレゼントを買ってくれた。 — My sister bought me a present. (the sister is the subject)
+li: もらう: 私は姉にプレゼントを買ってもらった。 — I had my sister buy me a present / I got a present from my sister. (I am the subject)
+rule: Verb て form + もらう / いただく (godan)
+ex: 自己紹介をさせていただきます。 | じこしょうかい を させて いただきます。 | Allow me to introduce myself.
+ex: 両親は彼に大学へ行ってもらいたいと思っている。 | りょうしん は かれ に だいがく へ いって もらいたい と おもって いる。 | His parents want him to go to university.
+vocab:
+- 窓 | まど | mado | window
+- 貸す | かす | kasu | to lend
+- 借りる | かりる | kariru | to borrow
+- 電話帳 | でんわちょう | denwachō | phone book
+- 調べる | しらべる | shiraberu | to look up, check, investigate
+- 休む | やすむ | yasumu | to rest; to take a day off
+- 晴れ | はれ | hare | fine weather
+- 連れて行く | つれていく | tsurete iku | to take (someone) along
+- 用意 | ようい | yōi | preparation(s)
+- 自己紹介 | じこしょうかい | jiko shōkai | self-introduction
+- 両親 | りょうしん | ryōshin | parents
+- 大学 | だいがく | daigaku | university
+
+=lesson n4-5 | N4 · Lesson 5 | Desires and feelings
+== ほしい — want (something)
+欲しい (ほしい) means "want" + a **thing** (an object), not an action — for actions, use ～たい. It only describes **your own** wishes (or asks about the listener's).
+li: The wanted thing is marked with **が**.
+li: ほしい conjugates like an **い-adjective** (ほしくない, ほしかった).
+li: Add です to be polite.
+rule: Noun + が + ほしい(です)
+ex: あなたは今何がほしいですか。 | あなた は いま なに が ほしい です か。 | What do you want now?
+ex: このおもちゃがほしかったです。 | この おもちゃ が ほしかった です。 | I wanted this toy.
+== ～がる — (someone else) seems to…
+Japanese doesn't state other people's feelings directly. がる turns a feeling word into "**shows signs of** / seems to…" for a third person. It conjugates as a godan verb, usually as ～がっている.
+rule: い-adjective: remove い + がる (こわい → こわがる)
+rule: ほしい → ほしがる; Verb たい → たがる
+ex: 彼は君が持っているような時計をほしがっている。 | かれ は きみ が もって いる よう な とけい を ほしがって いる。 | He wants a watch like the one you have.
+ex: 彼女はほえる犬を怖がる。 | かのじょ は ほえる いぬ を こわがる。 | She's scared of barking dogs.
+ex: 子供は外で遊びたがっています。 | こども は そと で あそびたがって います。 | The children want to play outside.
+note: With がる, the object takes **を**, not が: 時計**を**ほしがる.
+== 気になる / 気にする — be bothered / worry about
+li: **気になる** (きになる): something **is on your mind**, you can't stop thinking about it, it bothers or intrigues you.
+li: **気にする** (きにする): to (actively) **worry about, mind, care about** something. 気にしないで = "don't worry about it".
+rule: Noun + が + 気になる
+rule: Noun + を + 気にする
+ex: 学校の成績が気になる。 | がっこう の せいせき が き に なる。 | My school grades are on my mind.
+ex: 試験の結果を気にするな。 | しけん の けっか を き に する な。 | Don't worry about your exam results.
+== ～てよかった — I'm glad that…
+て + よかった expresses **satisfaction or relief** about something that happened: "I'm glad (that)…".
+rule: Verb て form + よかった
+ex: あなたとお話しできてよかった。 | あなた と おはなし できて よかった。 | I'm glad I was able to talk with you.
+ex: 喜んでいただけてよかったです。 | よろこんで いただけて よかった です。 | I'm glad you liked it.
+== ～てすみません — sorry for…
+て + すみません apologises for something: "Sorry for…". ごめん (casual) or ごめんなさい (polite) can replace すみません.
+rule: Verb て form + すみません
+ex: こんなに長い間待たせてすみません。 | こんなに ながい あいだ またせて すみません。 | I'm sorry to have kept you waiting so long.
+ex: 遅れてごめんなさい。 | おくれて ごめんなさい。 | Sorry I'm late.
+vocab:
+- 玩具 | おもちゃ | omocha | toy
+- 時計 | とけい | tokei | watch, clock
+- 吠える | ほえる | hoeru | to bark
+- 怖い | こわい | kowai | scary, afraid
+- 怖がる | こわがる | kowagaru | to be afraid of
+- 外 | そと | soto | outside
+- 成績 | せいせき | seiseki | grades, results
+- 試験 | しけん | shiken | exam
+- 結果 | けっか | kekka | result
+- 喜ぶ | よろこぶ | yorokobu | to be pleased
+- 長い間 | ながいあいだ | nagai aida | for a long time
+
+=lesson n4-6 | N4 · Lesson 6 | Expressing ability and impressions
+== The potential form ～える / ～られる — can
+The **potential form** means "can, be able to". It is shorter and more natural than ～ことができる (N5 Lesson 9). It describes a **state** ("I can write"), not an action, so the object is usually marked with **が** instead of を.
+rule: Ichidan: remove る + られる
+ex: 食べる → 食べられる | たべる → たべられる | can eat
+ex: 見る → 見られる | みる → みられる | can see
+rule: Godan: final -u → -e + る
+ex: 書く → 書ける | かく → かける | can write
+ex: 飲む → 飲める | のむ → のめる | can drink
+ex: 話す → 話せる | はなす → はなせる | can speak
+rule: Irregular: する → できる, 来る → 来られる (こられる)
+All potential forms conjugate as **ichidan** verbs (書けます, 書けない, 書けた).
+ex: 日本語が話せます。 | にほんご が はなせます。 | I can speak Japanese.
+ex: 明日は仕事に来られません。 | あした は しごと に こられません。 | I won't be able to come to work tomorrow.
+note: In casual speech, ichidan verbs often drop the ら: 見れる, 食べれる (*ra-nuki kotoba*). You'll hear it everywhere, but use 見られる in writing and exams. Also useful: ありえる / ありうる (有り得る, "can happen, be possible") — そんなことはありえない (That's impossible).
+== ～やすい / ～にくい — easy / hard to do
+Added to a verb stem, these say an action is **easy** (～やすい) or **hard** (～にくい) to do. This is about the nature of the thing, not the person's skill. Both conjugate like い-adjectives.
+rule: Verb stem + やすい / にくい
+ex: この本は漢字が少なくて、読みやすいです。 | この ほん は かんじ が すくなくて、よみやすい です。 | This book has few kanji, so it's easy to read.
+ex: このくつはデザインはいいですが、歩きにくいです。 | この くつ は デザイン は いい です が、あるきにくい です。 | These shoes look nice, but they're hard to walk in.
+== 得意 / 苦手 / 上手 / 下手 — good at, bad at
+li: **得意** (とくい): good at something, comfortable with it (often about yourself).
+li: **苦手** (にがて): not good at, uncomfortable with (also "don't like").
+li: **上手** (じょうず): skilful — mostly used about **other people** (saying it about yourself sounds boastful).
+li: **下手** (へた): unskilful, bad at.
+rule: Person + は + Noun + が + 得意 / 苦手 / 上手 / 下手 + です
+ex: 彼は料理が得意です。 | かれ は りょうり が とくい です。 | He's good at cooking.
+ex: 私は絵が下手です。 | わたし は え が へた です。 | I'm bad at drawing.
+ex: 日本語が上手ですね！ | にほんご が じょうず です ね！ | Your Japanese is good!
+== ～そう — looks like…
+～そう expresses an **impression based on what you see**: "looks…", "seems about to…".
+rule: Verb stem + そう — "looks like it's going to…"
+rule: い-adjective: remove い + そう (いい → よさそう)
+rule: な-adjective: remove な + そう
+rule: Negative: ～ない → ～なさそう
+ex: 雨が降りそうです。 | あめ が ふりそう です。 | It looks like it's going to rain.
+ex: 彼女は悲しそうだ。 | かのじょ は かなしそう だ。 | She looks sad.
+ex: 急ぐ必要はなさそうだ。 | いそぐ ひつよう は なさそう だ。 | There doesn't seem to be any need to hurry.
+warn: Don't confuse this with ～そうだ after a **plain form** (降るそうだ), which means "I hear that…" (hearsay): 明日は雨が降るそうです — "I heard it will rain tomorrow."
+vocab:
+- 靴 | くつ | kutsu | shoes
+- 靴下 | くつした | kutsushita | socks
+- 漢字 | かんじ | kanji | kanji
+- 少ない | すくない | sukunai | few, little
+- 絵 | え | e | picture, drawing, painting
+- 料理 | りょうり | ryōri | cooking, cuisine
+- 悲しい | かなしい | kanashii | sad
+- 必要 | ひつよう | hitsuyō | necessary, need
+- 急ぐ | いそぐ | isogu | to hurry
