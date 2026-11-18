@@ -177,60 +177,11 @@ body.ov-open{overflow:hidden}
 .toast{bottom:calc(150px + env(safe-area-inset-bottom,0px))!important}
 .lz{margin:14px 0 0;display:flex;justify-content:center}
 a.ldone::after{content:" ✓";color:var(--ok);font-weight:700}
-.kj-upto{display:flex;flex-direction:column;gap:6px;font-size:14px;color:var(--muted)}.kj-upto .sel{max-width:none;width:100%}
-.kj-modes{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}
-.kj-mode{border:0;border-radius:14px;background:var(--acc2);color:#fff;padding:12px 6px;cursor:pointer;display:flex;flex-direction:column;align-items:center;gap:2px;font:15px var(--ui)}
-.kj-mode span{font-size:12.5px;opacity:.9}.kj-mode:disabled{opacity:.4;cursor:default}
-.kj-lv{font-size:19px;margin:10px 0 0;display:flex;justify-content:space-between;align-items:baseline;gap:10px}.kj-lv span{font-size:13.5px;font-weight:400;color:var(--muted)}
-.kj-gh{display:flex;justify-content:space-between;gap:8px;color:var(--muted);font-size:13.5px;margin:6px 0 -6px}.kj-gh .okc{color:var(--ok)}.psb{white-space:nowrap;font-size:12px;padding:3px 9px;border-radius:999px}
-.kj-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(46px,1fr));gap:6px}
-.kj-t{aspect-ratio:1;border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:10px;font:500 25px/1 var(--jps);cursor:pointer;padding:0}
-.kj-t.st1{box-shadow:inset 0 -3px 0 var(--acc2)}.kj-t.st2{box-shadow:inset 0 -3px 0 var(--ok)}
-#printsheet{display:none}
-@media print{
-  body.psheet>*:not(#printsheet){display:none!important}
-  body.psheet{background:#fff!important;color:#000}
-  body.psheet #printsheet{display:block;font:11pt/1.35 var(--ui);color:#000}
-  @page{margin:12mm}
-}
-#printsheet header{font-size:13pt;margin:0 0 5mm;padding-bottom:2mm;border-bottom:1pt solid #000}
-.pk{break-inside:avoid;page-break-inside:avoid;margin:0 0 6mm}
-.pk-h{display:flex;gap:5mm;align-items:flex-start;margin-bottom:2mm}.pk-i{display:flex;flex-direction:column;gap:.6mm;min-width:0}.pk-i b{font-size:12pt}.pk-i i{font-style:normal;color:#444}
-.pbig{width:26mm;height:26mm;border:.6pt solid #000;flex:none}.psteps{display:flex;flex-wrap:wrap;gap:1mm;margin-top:1mm}.pstep{width:8.5mm;height:8.5mm;border:.4pt solid #999}
-.pboxes{display:grid;grid-template-columns:repeat(10,1fr);gap:0}.pbox{width:100%;border:.6pt solid #000;margin-inline-start:-.6pt}
-.ps{fill:none;stroke:#000;stroke-width:3.4;stroke-linecap:round;stroke-linejoin:round}.ps.cur{stroke:#c4432f}.faint .ps{stroke:#c9c9c9}.pg{fill:none;stroke:#bbb;stroke-width:.5;stroke-dasharray:3 3}
-.pstep .pg{display:none}
-.nb li.nbp{list-style:none;margin-inline-start:-20px}
-.kj-selbtn{align-self:flex-start}.kj-t.sel{background:var(--acc2);border-color:var(--acc2);color:#fff}
-.kj-selbar{position:sticky;bottom:10px;display:flex;align-items:center;gap:8px;background:var(--card);border:1px solid var(--line);border-radius:999px;padding:8px 12px 8px 18px;box-shadow:0 8px 24px rgba(0,0,0,.2);margin-top:8px}.kj-selbar span{flex:1;color:var(--muted);font-size:13.5px}
-.kj-ov{display:flex;flex-direction:column;gap:8px;background:var(--card);border:1px solid var(--line);border-radius:var(--r);padding:12px 14px}.kj-ovr{display:grid;grid-template-columns:86px 1fr auto;gap:10px;align-items:center;font-size:13.5px}.kj-ovr small{color:var(--muted);font-variant-numeric:tabular-nums}
-.kj-card{background:var(--card);border:1px solid var(--line);border-radius:20px;padding:18px;display:flex;flex-direction:column;align-items:center;gap:6px;text-align:center}
-.kj-play{border:0;background:none;padding:0;cursor:pointer;width:min(230px,70%)}.kj-anim{width:100%;display:block}
-.kj-x{fill:none;stroke:var(--line);stroke-width:.6;stroke-dasharray:2 2}
-.kj-s{fill:none;stroke:var(--ink);stroke-width:3.6;stroke-linecap:round;stroke-linejoin:round}.kj-s.g{stroke:var(--line)}.kj-s.kj-h{stroke:var(--acc2)}.kj-s.cur{stroke:var(--acc)}
-.kj-live{fill:none;stroke:var(--acc2);stroke-width:3.6;stroke-linecap:round;stroke-linejoin:round}.kj-probe{fill:none;stroke:none}
-.kj-mean{margin:0;font-size:21px;font-weight:700}.kj-rd{margin:0;display:flex;gap:14px;flex-wrap:wrap;justify-content:center;font-size:16px}
-.kj-rd i{font-style:normal;font-size:11px;border:1px solid var(--line);border-radius:5px;padding:1px 4px;margin-inline-end:6px;color:var(--muted)}
 .kj-row{display:flex;gap:8px;flex-wrap:wrap;justify-content:center}
-.kj-note{margin:0;font-size:14px;color:var(--muted);border:1px dashed var(--line);border-radius:10px;padding:8px 12px}
-.kj-wh{font-size:15px}.kj-words{list-style:none;margin:0;padding:0;width:100%;border-top:1px solid var(--line)}
-.kj-words li{display:grid;grid-template-columns:auto auto 1fr auto;gap:10px;align-items:center;padding:7px 0;border-bottom:1px solid var(--line);font-size:14.5px;text-align:start}
-.kj-w{border:0;background:none;color:var(--ink);font:500 19px var(--jps);cursor:pointer;padding:0}.kj-wr{color:var(--muted)}.kj-wm{min-width:0;overflow-wrap:anywhere}
-.kj-prompt{display:flex;flex-direction:column;align-items:center;gap:2px;text-align:center}.kj-prompt b{font-size:22px}.kj-prompt span{font-size:16px}.kj-prompt small{color:var(--muted);font-size:13px}
-.kj-pad{width:min(100%,340px);aspect-ratio:1;align-self:center;background:var(--card);border:2px solid var(--line);border-radius:18px;touch-action:none;user-select:none;-webkit-user-select:none;cursor:crosshair;transition:border-color .2s}
-.kj-pad.bad{border-color:var(--muted)}
-.kj-stat{margin:0;text-align:center;color:var(--muted);font-size:13.5px}.kj-ctl{display:flex;flex-direction:column;gap:10px}
-.kj-steps{display:grid;grid-template-columns:repeat(auto-fill,minmax(50px,1fr));gap:6px;width:100%}.kj-steps svg{border:1px solid var(--line);border-radius:8px;background:var(--card);display:block;width:100%}
 .kj-nb{margin:0;font-size:15px}.kj-seg{display:grid;grid-template-columns:1fr 1fr;border:1px solid var(--line);border-radius:12px;overflow:hidden}.kj-seg button{border:0;background:var(--card);color:var(--ink);padding:10px 6px;font:600 14.5px var(--ui);cursor:pointer}.kj-seg button.on{background:var(--acc2);color:#fff}
 .nb{margin:28px 0 0;border:1px dashed var(--line);border-radius:var(--r);padding:12px 16px;background:var(--card)}.nb ul{margin:6px 0 0;padding-inline-start:20px}.nb li{margin:4px 0}
-.nbks{display:inline-flex;gap:4px;flex-wrap:wrap;vertical-align:middle}.nbk{border:1px solid var(--line);background:var(--paper);color:var(--ink);border-radius:8px;font:500 19px/1 var(--jps);padding:5px 7px;cursor:pointer}
-.kj-huge{font:500 clamp(90px,30vw,140px)/1.1 var(--jps)}.kj-word{font:500 clamp(40px,12vw,60px)/1.2 var(--jps)}
-.kj-opts{display:grid;grid-template-columns:1fr 1fr;gap:8px}
-.kj-opt{border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:14px;padding:14px 6px;font:500 19px var(--jps);cursor:pointer}
-.kj-opt.ok{border:2px solid var(--acc2);font-weight:700}.kj-opt.no{border-style:dashed;color:var(--muted)}.kj-opt:disabled{cursor:default}
+.nbks{display:inline-flex;gap:4px;flex-wrap:wrap;vertical-align:middle}.nbk{border:1px solid var(--line);background:var(--paper);color:var(--ink);border-radius:8px;font:500 19px/1 var(--jps);padding:5px 7px}
 .ico{display:block}.dk-card .ico{width:112px;height:112px}.wsheet .ico{position:absolute;top:12px;inset-inline-end:14px;width:56px;height:56px}.wsheet:has(.ico) .ws-main{padding-inline-end:64px}
-.ws-k{display:flex;gap:6px;align-items:center;flex-wrap:wrap;font-size:13px;color:var(--muted)}
-.ws-k button{border:1px solid var(--line);background:var(--paper);color:var(--ink);border-radius:8px;font:500 19px/1 var(--jps);padding:6px 8px;cursor:pointer}
 .dk-pre{background:var(--card);border:1px solid var(--line);border-radius:var(--r);padding:4px 14px}
 .dk-pre summary{cursor:pointer;font-weight:700;padding:8px 0}
 .dk-plist{list-style:none;margin:0;padding:0}.dk-plist li{display:grid;grid-template-columns:1fr auto auto;gap:10px;align-items:center;padding:8px 0;border-top:1px solid var(--line)}
@@ -332,7 +283,7 @@ body.paged #content section.lesson.cur{display:block}body.paged.first .hero{disp
   .tabs button{border:0;background:none;color:var(--muted);font:600 11.5px var(--ui);height:56px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:3px;cursor:pointer;position:relative}
   .tabs button svg{width:22px;height:22px;fill:none;stroke:currentColor;stroke-width:1.9;stroke-linecap:round;stroke-linejoin:round}.tabs button .gl{font:600 18px/22px var(--jps)}
   .tabs button.on{color:var(--acc2)}.tabs .badge{position:absolute;top:6px;left:calc(50% + 8px);margin:0}
-  #t-decks,#t-kanji,#t-today,#t-words{display:none}
+  #t-decks,#t-today,#t-words{display:none}
   .ov{bottom:calc(56px + env(safe-area-inset-bottom,0px))}
   .wsheet{bottom:calc(68px + env(safe-area-inset-bottom,0px))}
   main{padding-bottom:140px}
@@ -374,7 +325,7 @@ body.paged #content section.lesson.cur{display:block}body.paged.first .hero{disp
 <div class="bar"><div class="bar-in">
   <button class="tg" id="t-les" type="button" aria-label="Lessons">☰ <span data-i="lessons">Lessons</span></button>
   <div class="brand"><span class="dot"></span><span>日本語 <span class="full" data-i="brand2">N5–N4 course</span></span></div>
-  <nav class="navg" aria-label="Sections"><button class="tg" id="t-today" type="button" data-i="today">Today</button><button class="tg" id="t-decks" type="button"><span data-i="decks">Decks</span><b id="deckn" class="badge" hidden></b></button><button class="tg" id="t-words" type="button" data-i="words">Words</button><button class="tg" id="t-kanji" type="button"><span lang="ja">漢字</span><b id="kjn" class="badge" hidden></b></button></nav>
+  <nav class="navg" aria-label="Sections"><button class="tg" id="t-today" type="button" data-i="today">Today</button><button class="tg" id="t-decks" type="button"><span data-i="decks">Decks</span><b id="deckn" class="badge" hidden></b></button><button class="tg" id="t-words" type="button" data-i="words">Words</button></nav>
   <span class="grow"></span>
   <button class="tg" id="t-ro" aria-pressed="true" type="button"><span class="full" data-i="ro">Rōmaji / readings</span><span class="short" data-i="ros">Rōmaji</span></button>
   <button class="tg" id="t-en" aria-pressed="true" type="button"><span class="full" data-i="tr">Translations</span><span class="short" data-i="trs">Transl.</span></button>
@@ -416,7 +367,6 @@ body.paged #content section.lesson.cur{display:block}body.paged.first .hero{disp
 <footer><span data-i="foot"></span> がんばってください！</footer>
 </main>
 </div>
-<div id="printsheet" aria-hidden="true"></div>
 <div class="ov" id="grampanel" hidden><div class="ov-in" id="grambody"></div></div>
 <div class="ov" id="searchpanel" hidden><div class="ov-in"><div class="dk-top"><input id="sq" type="search" autocomplete="off" autocapitalize="off" spellcheck="false" enterkeyhint="search"><button class="tg" id="sclose" type="button">✕</button></div><div id="sres"></div></div></div>
 <div class="ov" id="todaypanel" hidden><div class="ov-in" id="todaybody"></div></div>
@@ -425,10 +375,8 @@ body.paged #content section.lesson.cur{display:block}body.paged.first .hero{disp
   <button type="button" data-t="lesson"><svg viewBox="0 0 24 24"><path d="M12 6c-3-2-6-2-9-1v13c3-1 6-1 9 1 3-2 6-2 9-1V5c-3-1-6-1-9 1zM12 6v13"/></svg><span data-i="tlesson">Lesson</span></button>
   <button type="button" data-t="decks"><svg viewBox="0 0 24 24"><rect x="3" y="7" width="14" height="12" rx="2"/><path d="M7 4h12a2 2 0 0 1 2 2v10"/></svg><span data-i="decks">Decks</span><b class="badge" id="tb-decks" hidden></b></button>
   <button type="button" data-t="words"><span class="gl" lang="ja">あ</span><span data-i="words">Words</span></button>
-  <button type="button" data-t="kanji"><span class="gl" lang="ja">字</span><span data-i="kanji">Kanji</span><b class="badge" id="tb-kanji" hidden></b></button>
 </nav>
 <div class="ov" id="lespanel" hidden><div class="ov-in"><div class="dk-top"><b class="dk-title" data-i="lessons">Lessons</b><button class="tg" id="lesclose" type="button">✕</button></div><div id="lesbody"></div></div></div>
-<div class="ov" id="kjpanel" hidden><div class="ov-in" id="kjbody"></div></div>
 <script id="kanji" type="application/json">%%KANJI%%</script>
 <script id="icons" type="application/json">%%ICONS%%</script>
 <script id="words" type="application/json">%%WORDS%%</script>
@@ -442,7 +390,7 @@ body.paged #content section.lesson.cur{display:block}body.paged.first .hero{disp
   var b=document.body, root=document.documentElement;
   var HOSTED=%%HOSTED%%;
   var UI=%%UI%%, LANGS=Object.keys(UI), lang='en';
-  var JA={"on":["オン",1],"off":["オフ",1],"cards":["カード",1],"decks":["デッキ",1],"tlesson":["レッスン",1],"lessons":["レッスン",1],"kjhint":["ヒント",1],"dark":["ダーク",2],"tbackup":["バックアップ",2],"cancel":["キャンセル",2],"kanji":["漢字",2],"s_k":["漢字",2],"mfuri":["ふりがな",2],"slow":["ゆっくり",3],"kjtrace":["なぞる",3],"ros":["ローマ字",3],"ro":["ローマ字・読み",3],"kjnext":["次へ",4],"nextles":["次のレッスン",4],"prev":["前へ",4],"today":["今日",5],"again":["もう一度",5],"lplay":["もう一度聞く",5],"kjreplay":["もう一度見る",5],"kjread":["読み",6],"kjwrite":["書き",6],"study":["勉強する",6],"kjshowk":["漢字を見る",6],"lshow":["文を見る",6],"tstart":["始める",7],"tcont":["続ける",7],"showans":["答えを見る",7],"kjclear":["やり直す",7],"new":["新しい",8],"hard":["難しい",8],"easy":["簡単",8],"newdeck":["新しいデッキ",8],"good":["普通",9],"normal":["普通",9],"kjisdone":["完了",9],"kjdone":["レッスンを完了にする",9],"rename":["名前を変える",9],"due":["復習",10],"known":["覚えた",10],"learning":["学習中",10],"tcards":["復習するカード",10],"kjrec":["意味",10],"add":["追加",11],"addbtn":["デッキに追加",11],"indeck":["デッキにある",11],"tlisten":["聞き取り",11],"kjmem":["見ないで書く",11],"kwpaper":["ノートに",11],"kwscreen":["画面に",11],"words":["単語",12],"search":["検索",12],"settings":["設定",12],"s_v":["単語",12],"s_g":["文法",12],"s_x":["例文",12],"trs":["訳",12],"tr":["翻訳",12],"del":["削除",13],"mlang":["言語",13],"mvoice":["音声",13],"mlook":["表示",13],"print":["印刷",14],"pprint":["印刷",14],"psheet":["練習シートを印刷",14],"pall":["すべて選択",14],"contents":["目次",14],"gindex":["文法一覧",15],"bknow":["今すぐ保存",15],"bkrestore":["復元",15],"export":["進み具合を保存",15],"import":["復元",15]}, IMON=false, IMN=0;
+  var JA={"on":["オン",1],"off":["オフ",1],"cards":["カード",1],"decks":["デッキ",1],"tlesson":["レッスン",1],"lessons":["レッスン",1],"dark":["ダーク",2],"tbackup":["バックアップ",2],"cancel":["キャンセル",2],"kanji":["漢字",2],"mfuri":["ふりがな",2],"slow":["ゆっくり",3],"ros":["ローマ字",3],"ro":["ローマ字・読み",3],"kjnext":["次へ",4],"nextles":["次のレッスン",4],"prev":["前へ",4],"today":["今日",5],"again":["もう一度",5],"lplay":["もう一度聞く",5],"study":["勉強する",6],"lshow":["文を見る",6],"tstart":["始める",7],"tcont":["続ける",7],"showans":["答えを見る",7],"new":["新しい",8],"hard":["難しい",8],"easy":["簡単",8],"newdeck":["新しいデッキ",8],"good":["普通",9],"normal":["普通",9],"kjisdone":["完了",9],"kjdone":["レッスンを完了にする",9],"rename":["名前を変える",9],"due":["復習",10],"known":["覚えた",10],"learning":["学習中",10],"tcards":["復習するカード",10],"add":["追加",11],"addbtn":["デッキに追加",11],"indeck":["デッキにある",11],"tlisten":["聞き取り",11],"words":["単語",12],"search":["検索",12],"settings":["設定",12],"s_v":["単語",12],"s_g":["文法",12],"s_x":["例文",12],"trs":["訳",12],"tr":["翻訳",12],"del":["削除",13],"mlang":["言語",13],"mvoice":["音声",13],"mlook":["表示",13],"print":["印刷",14],"contents":["目次",14],"gindex":["文法一覧",15],"bknow":["今すぐ保存",15],"bkrestore":["復元",15],"export":["進み具合を保存",15],"import":["復元",15]}, IMON=false, IMN=0;
   function T0(k){return (UI[lang]&&UI[lang][k])||UI.en[k]||k;}
   function T(k){var j=IMON&&JA[k]; return j&&IMN>=j[1]?j[0]:T0(k);}
   function applyLabels(){document.querySelectorAll('[data-i]').forEach(function(e){var k=e.getAttribute('data-i'), t=T(k), o=T0(k); e.textContent=t; if(t!==o){e.setAttribute('title',o); e.setAttribute('lang','ja');} else if(e.getAttribute('lang')==='ja'&&JA[k]){e.removeAttribute('title'); e.removeAttribute('lang');}});}
@@ -823,8 +771,6 @@ body.paged #content section.lesson.cur{display:block}body.paged.first .hero{disp
     if(c.b&&c.b!==c.jp) h+='<span class="ws-r" lang="ja">← '+esc(c.b)+'</span>';
     if(c.r&&c.r!==c.jp) h+='<span class="ws-r" lang="ja">'+esc(c.r)+(c.ro?' · <span class="ro">'+esc(c.ro)+'</span>':'')+'</span>';
     if(r.raw) h+='<input id="ws-m" placeholder="'+esc(T('ownm'))+'">'; else h+='<span class="ws-m" dir="auto">'+esc(c.m)+'</span>';
-    var kk=[]; if(!c.sent) for(var ki=0;ki<c.jp.length;ki++){var kc=c.jp.charAt(ki); if(kIdx[kc]!==undefined&&kk.indexOf(kc)<0) kk.push(kc);}
-    if(kk.length) h+='<span class="ws-k">'+kk.map(function(x){return '<button lang="ja" data-w="kj" data-k="'+x+'">'+x+'</button>'}).join('')+'<span>'+esc(T('kjopen'))+'</span></span>';
     h+='</div><div class="ws-act"><select id="ws-deck" class="sel" aria-label="'+esc(T('decks'))+'">';
     DK.list.forEach(function(x){h+='<option value="'+x.id+'"'+(x.id===d.id?' selected':'')+'>'+esc(x.name)+'</option>';});
     h+='</select><button class="tg ws-add'+(on?' on':'')+'" data-w="add">'+esc(on?'✓ '+T('indeck'):'＋ '+T('addbtn'))+'</button><button class="tg" data-w="close" aria-label="Close">✕</button></div>';
@@ -834,7 +780,6 @@ body.paged #content section.lesson.cur{display:block}body.paged.first .hero{disp
     e.stopPropagation();
     var t=e.target.closest('[data-w]'); if(!t) return; var a=t.getAttribute('data-w'), d=curDeck();
     if(a==='close'){wS.hidden=true;return;}
-    if(a==='kj'){kShow(t.getAttribute('data-k'));return;}
     if(a==='say'){var c=wref.raw?{say:wref.raw}:cardData(wref); play(c.say,c.say);return;}
     if(a==='add'){
       if(wref.raw){var m=document.getElementById('ws-m').value.trim(); if(!m){note(T('ownneed'));document.getElementById('ws-m').focus();return;}
@@ -987,58 +932,24 @@ body.paged #content section.lesson.cur{display:block}body.paged.first .hero{disp
     var all=e.target.closest('.addall'); if(all){var d=curDeck(), n=0; all.closest('.vocab').querySelectorAll('tr[data-v]').forEach(function(tr){var v=tr.getAttribute('data-v'); if(!inDeck(d,v)){d.cards.push({id:uid(),v:v});n++;}}); dSave(); deckSync(); note('+'+n+' — '+d.name);}
   });
   dLoad();
-  // ---- kanji: lesson progress, stroke order, tracing and practice ----
+  // ---- lesson progress, and which kanji go with which lesson ----
   var KJ={k:[],m:{en:[]},x:{}}; try{KJ=JSON.parse(document.getElementById('kanji').textContent)}catch(e){}
-  var NS='http://www.w3.org/2000/svg', kIdx={}, kLes={}, kWords={}, lesOrder=[];
-  var kP=document.getElementById('kjpanel'), kB=document.getElementById('kjbody');
-  var kview='grid', kcur=null, kmode=null, kq=[], kshown=false, kdraw=null, kread=null, kres=null, kTimers=[];
+  var kIdx={}, kLes={}, lesOrder=[];
   KJ.k.forEach(function(a,i){kIdx[a[0]]=i;});
   function kMean(ch){var i=kIdx[ch]; return (KJ.m[lang]||KJ.m.en)[i]||KJ.m.en[i];}
   function kDone(id){return !!(DK.done&&DK.done[id]);}
   function kMap(){
-    kLes={}; kWords={}; lesOrder=[]; var txtLes={};
+    kLes={}; lesOrder=[]; var txtLes={};
     document.querySelectorAll('#content section.lesson').forEach(function(sec){
       lesOrder.push(sec.id);
-      sec.querySelectorAll('tr[data-v]').forEach(function(tr){var v=tr.getAttribute('data-v'), kj=v.split('|')[1]||'';
-        for(var i=0;i<kj.length;i++){var ch=kj.charAt(i); if(kIdx[ch]===undefined) continue; if(!kLes[ch]) kLes[ch]=sec.id;
-          var w=kWords[ch]=kWords[ch]||[]; if(!w.some(function(x){return x.v===v})) w.push({v:v,l:sec.id});}});
+      sec.querySelectorAll('tr[data-v]').forEach(function(tr){var kj=tr.getAttribute('data-v').split('|')[1]||'';
+        for(var i=0;i<kj.length;i++){var ch=kj.charAt(i); if(kIdx[ch]!==undefined&&!kLes[ch]) kLes[ch]=sec.id;}});
       var t=sec.textContent; for(var j=0;j<t.length;j++){var c=t.charAt(j); if(c>='一'&&kIdx[c]!==undefined&&!txtLes[c]) txtLes[c]=sec.id;}
     });
     KJ.k.forEach(function(a){ if(!kLes[a[0]]&&txtLes[a[0]]) kLes[a[0]]=txtLes[a[0]]; });
   }
-  function kLevelDone(lv){var l=lesOrder.filter(function(id){return id.indexOf(lv)===0}); return l.length>0&&l.every(kDone);}
-  function kOpen(ch){var l=kLes[ch]; return l?kDone(l):kLevelDone(KJ.k[kIdx[ch]][1]);}
   function lesTitle(id){var a=document.querySelector('#side-toc a[href="#'+id+'"]'); return a?a.textContent.replace(/\s+/g,' ').trim():id;}
-  function kWordsFor(ch){
-    var all=kWords[ch]||[], ws=all.filter(function(w){return kDone(w.l)||w.l===kLes[ch]}).map(function(w){var c=cardData({v:w.v}); return {jp:c.jp,r:c.r,m:c.m,say:c.say,v:w.v};});
-    if(!all.length&&KJ.x[ch]){var x=KJ.x[ch]; ws=[{jp:x[0],r:x[1],m:x[2][lang]||x[2].en,say:x[1]}];}
-    return {list:ws,later:all.length?all.length-ws.length:0};
-  }
-  function kS(mode){DK.kj=DK.kj||{}; DK.kj[mode]=DK.kj[mode]||{}; return DK.kj[mode];}
   function anyDone(){return lesOrder.some(kDone);}
-  function kReadWords(ch){var any=anyDone(); return (kWords[ch]||[]).filter(function(w){return !any||kDone(w.l)});}
-  function kQueue(mode){
-    var S=kS(mode), now=Date.now(), all=KJ.k.map(function(a){return a[0]}), met=all.filter(kOpen), open=met.length?met:all;
-    if(mode==='y') open=open.filter(function(ch){return kReadWords(ch).length});
-    var due=open.filter(function(ch){return S[ch]&&S[ch].due<=now}).sort(function(a,b){return S[a].due-S[b].due});
-    var ord=function(ch){var i=lesOrder.indexOf(kLes[ch]); return (i<0?999:i)*1000+kIdx[ch];};
-    var fresh=open.filter(function(ch){return !S[ch]}).sort(function(a,b){return ord(a)-ord(b)});
-    return due.concat(fresh.slice(0,8));
-  }
-  var kSel=null;
-  function selSync(){var n=Object.keys(kSel||{}).length, e=document.getElementById('kj-seln'), pb=kB.querySelector('[data-a="selprint"]'); if(e) e.textContent=n; if(pb) pb.disabled=!n;}
-  function kStage(x){return !x?0:(x.st==='review'&&(x.ivl||0)>=21?2:1);}
-  function kOverview(){
-    var all=KJ.k.map(function(a){return a[0]}), met=all.filter(kOpen), pool=met.length?met:all, h='<div class="kj-ov">';
-    [['r','kjrec'],['y','kjread'],['w','kjwrite']].forEach(function(m){var S=kS(m[0]), n=[0,0,0]; pool.forEach(function(ch){n[kStage(S[ch])]++});
-      var seg=function(i,c){return n[i]?'<i class="'+c+'" style="flex:'+n[i]+'"></i>':''};
-      h+='<div class="kj-ovr"><b>'+esc(T(m[1]))+'</b><div class="dk-prog" role="img" aria-label="'+esc(T('known')+' '+n[2]+', '+T('learning')+' '+n[1]+', '+T('new')+' '+n[0])+'">'+seg(2,'k')+seg(1,'l')+seg(0,'n')+'</div><small>'+n[2]+' · '+n[1]+' · '+n[0]+'</small></div>';});
-    return h+'<div class="dk-leg"><span><i class="k"></i>'+esc(T('known'))+'</span><span><i class="l"></i>'+esc(T('learning'))+'</span><span><i class="n"></i>'+esc(T('new'))+'</span><span>'+pool.length+' '+esc(T(met.length?'kjunl':'kjall'))+'</span></div></div>';
-  }
-  function kBadge(){
-    var n=0, now=Date.now(); ['r','w','y'].forEach(function(m){var S=kS(m); Object.keys(S).forEach(function(ch){if(S[ch].due<=now&&kIdx[ch]!==undefined) n++;});});
-    var e=document.getElementById('kjn'); e.textContent=n||''; e.hidden=!n;
-  }
   function lessonMarksOnly(){document.querySelectorAll('#content .lz').forEach(function(p){var sec=p.closest('section.lesson'), on=kDone(sec.id), zb=p.querySelector('.lzb'), pv=p.querySelector('.pv'), nx=p.querySelector('.nx'); zb.textContent=on?'✓ '+T('kjisdone'):T('kjdone'); if(!pv.disabled) pv.textContent='‹ '+T('prev'); if(!nx.disabled) nx.textContent=T('nextles')+' ›';});
     document.querySelectorAll('.gibtn').forEach(function(x){x.textContent=T('gindex')+' ›'});}
   function lessonMarks(){
@@ -1051,201 +962,15 @@ body.paged #content section.lesson.cur{display:block}body.paged.first .hero{disp
         var ks=KJ.k.filter(function(a){return kLes[a[0]]===sec.id}).map(function(a){return a[0]}), nb=document.createElement('div'), li='';
         if(sec.querySelector('tr[data-v]')) li+='<li>'+esc(T('nb1'))+'</li>';
         if(sec.querySelector('.ans')) li+='<li>'+esc(T('nb2'))+'</li>';
-        if(ks.length) li+='<li class="nbp"><button type="button" class="tg nbprint" data-id="'+sec.id+'">'+esc(T('psheet'))+'</button></li>';
-        if(ks.length) li+='<li>'+esc(T('nb3'))+' <span class="nbks">'+ks.map(function(k){return '<button type="button" class="nbk" lang="ja" data-k="'+k+'">'+k+'</button>'}).join('')+'</span></li>';
+        if(ks.length) li+='<li>'+esc(T('nb3'))+' <span class="nbks">'+ks.map(function(k){return '<span class="nbk" lang="ja" title="'+esc(kMean(k))+'">'+k+'</span>'}).join('')+'</span></li>';
         if(li){nb.className='nb'; nb.innerHTML='<b>✎ '+esc(T('nbtitle'))+'</b><ul>'+li+'</ul>'; sec.insertBefore(nb,p);}
       }
       var on=kDone(sec.id), zb=p.querySelector('.lzb'); zb.textContent=on?'✓ '+T('kjisdone'):T('kjdone'); zb.setAttribute('aria-pressed',on?'true':'false');
     });
     document.querySelectorAll('#side-toc a, #m-toc a, #lesbody a').forEach(function(a){a.classList.toggle('ldone',kDone((a.getAttribute('href')||'').slice(1)));});
-    kBadge();
   }
-  // strokes
-  function kStop(){kTimers.forEach(clearTimeout); kTimers=[];}
-  function kSvg(ch,cls){var st=KJ.k[kIdx[ch]][4], h='<svg class="'+cls+'" viewBox="0 0 109 109" role="img" aria-label="'+ch+'"><path class="kj-x" d="M54.5 5V104M5 54.5H104"/>';
-    st.forEach(function(d){h+='<path class="kj-s" d="'+d+'"/>';}); return h+'</svg>';}
-  function kAnim(svg){
-    kStop(); if(!svg) return; var ps=svg.querySelectorAll('.kj-s'), t=250;
-    if(window.matchMedia&&matchMedia('(prefers-reduced-motion: reduce)').matches) return;
-    [].forEach.call(ps,function(p){var L=p.getTotalLength(), dur=Math.max(260,L*9); p.style.transition='none'; p.style.strokeDasharray=L+' '+L; p.style.strokeDashoffset=L;
-      kTimers.push(setTimeout(function(){p.style.transition='stroke-dashoffset '+dur+'ms ease-out'; p.style.strokeDashoffset=0;},t)); t+=dur+160;});
-  }
-  function dist(a,b){return Math.sqrt((a[0]-b[0])*(a[0]-b[0])+(a[1]-b[1])*(a[1]-b[1]));}
-  function plen(a){var L=0; for(var i=1;i<a.length;i++) L+=dist(a[i],a[i-1]); return L;}
-  function resamp(a,n){
-    var cum=[0], i; for(i=1;i<a.length;i++) cum.push(cum[i-1]+dist(a[i],a[i-1]));
-    var L=cum[cum.length-1], o=[], j=1;
-    for(var k=0;k<n;k++){var t=L*k/(n-1); while(j<a.length-1&&cum[j]<t) j++; var seg=cum[j]-cum[j-1], f=seg?Math.min(1,Math.max(0,(t-cum[j-1])/seg)):0; o.push([a[j-1][0]+(a[j][0]-a[j-1][0])*f,a[j-1][1]+(a[j][1]-a[j-1][1])*f]);}
-    return o;
-  }
-  function kNewDraw(ch,guide,practice){kdraw={ch:ch,guide:guide,practice:practice,i:0,miss:0,here:0,done:false}; kres=null;}
-  function kStat(){
-    var D=kdraw, n=KJ.k[kIdx[D.ch]][4].length, s=document.getElementById('kj-stat'), c=document.getElementById('kj-ctl'); if(!s) return;
-    s.textContent=T('kjstroke')+' '+Math.min(D.i+1,n)+' / '+n;
-    var h='';
-    if(D.done){ if(!D.practice) h+='<div class="kj-row"><button class="tg" data-a="redraw">'+esc(T('kjclear'))+'</button><button class="tg" aria-pressed="true" data-a="'+(D.guide?'mem':'detail')+'">'+esc(D.guide?T('kjmem'):'✓')+'</button></div>'; }
-    else h+='<div class="kj-row"><button class="tg" data-a="hint">'+esc(T('kjhint'))+'</button><button class="tg" data-a="redraw">'+esc(T('kjclear'))+'</button></div>';
-    c.innerHTML=h;
-  }
-  function kSteps(ch){var st=KJ.k[kIdx[ch]][4], h='<div class="kj-steps" aria-hidden="true">'; st.forEach(function(_,i){h+='<svg viewBox="0 0 109 109">'; for(var j=0;j<=i;j++) h+='<path class="kj-s'+(j===i?' cur':'')+'" d="'+st[j]+'"/>'; h+='</svg>';}); return h+'</div>';}
-  function kGrades(mode){var now=Date.now(), S=kS(mode), h='<div class="dk-grades">'; ['again','hard','good','easy'].forEach(function(k,g){h+='<button class="dk-g g'+g+'" data-a="g'+g+'"><b>'+esc(T(k))+'</b><span>'+span(nextState(S[kcur]||{},g,now).due-now)+'</span></button>';}); return h+'</div>';}
-  function kHint(){
-    var D=kdraw, pad=document.getElementById('kj-pad'), d=KJ.k[kIdx[D.ch]][4][D.i]; if(!pad||!d) return;
-    var p=document.createElementNS(NS,'path'); p.setAttribute('class','kj-s kj-h'); p.setAttribute('d',d); pad.appendChild(p);
-    var L=p.getTotalLength(); p.style.strokeDasharray=L+' '+L; p.style.strokeDashoffset=L;
-    setTimeout(function(){p.style.transition='stroke-dashoffset 600ms ease-out'; p.style.strokeDashoffset=0;},20);
-    setTimeout(function(){if(p.parentNode) p.parentNode.removeChild(p);},1500);
-  }
-  function kStroke(u){
-    var D=kdraw, st=KJ.k[kIdx[D.ch]][4], pr=document.getElementById('kj-probe'), pad=document.getElementById('kj-pad'); if(D.done||!pr) return;
-    pr.setAttribute('d',st[D.i]); var L=pr.getTotalLength(), N=12, e=[], k;
-    for(k=0;k<N;k++){var q=pr.getPointAtLength(L*k/(N-1)); e.push([q.x,q.y]);}
-    if(u.length<2) u=[u[0],u[0]]; var ul=plen(u); if(ul<4&&L>14) return;
-    var r=resamp(u,N), tol=D.guide?26:32, avg=0; for(k=0;k<N;k++) avg+=dist(r[k],e[k]); avg/=N;
-    var ok=L<14?(dist(r[0],e[0])<tol&&ul<45):(dist(r[0],e[0])<tol&&dist(r[N-1],e[N-1])<tol&&avg<tol*0.75&&ul>L*0.35&&ul<L*2.6);
-    if(ok){
-      var p=document.createElementNS(NS,'path'); p.setAttribute('class','kj-s'); p.setAttribute('d',st[D.i]); document.getElementById('kj-ink').appendChild(p);
-      D.i++; D.here=0;
-      if(D.i>=st.length){D.done=true; if(D.practice) setTimeout(function(){if(kdraw===D&&kview==='prac'){kshown=true; kdraw=null; kRender();}},600);}
-    } else {
-      D.miss++; D.here++; pad.classList.add('bad'); setTimeout(function(){pad.classList.remove('bad')},350);
-      if(D.here>=2) kHint();
-    }
-    kStat();
-  }
-  function kPadInit(){
-    var pad=document.getElementById('kj-pad'); if(!pad) return; var live=document.getElementById('kj-live'), pts=null;
-    function pt(e){var r=pad.getBoundingClientRect(); return [(e.clientX-r.left)/r.width*109,(e.clientY-r.top)/r.height*109];}
-    pad.addEventListener('pointerdown',function(e){ if(kdraw.done) return; e.preventDefault(); try{pad.setPointerCapture(e.pointerId)}catch(x){} pts=[pt(e)]; live.setAttribute('points',pts[0].join(','));});
-    pad.addEventListener('pointermove',function(e){ if(!pts) return; e.preventDefault(); pts.push(pt(e)); live.setAttribute('points',pts.map(function(p){return p[0].toFixed(1)+','+p[1].toFixed(1)}).join(' '));});
-    var up=function(){ if(!pts) return; var u=pts; pts=null; live.setAttribute('points',''); kStroke(u);};
-    pad.addEventListener('pointerup',up); pad.addEventListener('pointercancel',up);
-    kStat();
-  }
-  function kPadHtml(){
-    var D=kdraw, st=KJ.k[kIdx[D.ch]][4], a=KJ.k[kIdx[D.ch]], h='<svg id="kj-pad" class="kj-pad" viewBox="0 0 109 109"><path class="kj-x" d="M54.5 5V104M5 54.5H104"/>';
-    if(D.guide) st.forEach(function(d){h+='<path class="kj-s g" d="'+d+'"/>';});
-    h+='<g id="kj-ink"></g><polyline id="kj-live" class="kj-live" points=""/><path id="kj-probe" class="kj-probe" d=""/></svg>';
-    return '<div class="kj-prompt"><b dir="auto">'+esc(kMean(D.ch))+'</b><span lang="ja">'+esc([a[2],a[3]].filter(Boolean).join(' · '))+'</span><small>'+st.length+' '+esc(T('kjstrokes'))+'</small></div>'+h+'<p id="kj-stat" class="kj-stat"></p><div id="kj-ctl" class="kj-ctl"></div>';
-  }
-  // practice
-  function kStart(mode){kmode=mode; kq=kQueue(mode); kview='prac'; kNext();}
   function shuffle(a){for(var i=a.length-1;i>0;i--){var j=Math.floor(Math.random()*(i+1)),t=a[i];a[i]=a[j];a[j]=t;} return a;}
-  function rd(v){return v.split('|')[0].split('/')[0].trim();}
-  function kNext(){
-    kcur=kq.shift()||null; kshown=false; kread=null; kdraw=null; kres=null;
-    if(kcur&&kmode==='w'&&DK.kw==='screen') kNewDraw(kcur,false,true);
-    if(kcur&&kmode==='y'){
-      var ws=kReadWords(kcur), w=ws[Math.floor(Math.random()*ws.length)], right=rd(w.v), pool={};
-      Object.keys(kWords).forEach(function(ch){kWords[ch].forEach(function(x){var r=rd(x.v); if(r!==right) pool[r]=Math.abs(r.length-right.length);});});
-      var near=shuffle(Object.keys(pool)).sort(function(a,b){return pool[a]-pool[b]}).slice(0,3);
-      kread={v:w.v,right:right,opts:shuffle(near.concat([right])),pick:null};
-    }
-    kRender();
-  }
-  function kApply(g){var S=kS(kmode), n=nextState(S[kcur]||{},g,Date.now()); S[kcur]={due:n.due,ivl:n.ivl,ease:n.ease,reps:n.reps,st:n.st}; if(n.st==='learn') kq.push(kcur); kres=g; dSave(); kBadge();}
-  function kInfo(ch,words){
-    var a=KJ.k[kIdx[ch]], h='<p class="kj-mean" dir="auto">'+esc(kMean(ch))+'</p><p class="kj-rd" lang="ja">'+(a[2]?'<span><i>音</i>'+esc(a[2])+'</span>':'')+(a[3]?'<span><i>訓</i>'+esc(a[3])+'</span>':'')+'</p>';
-    if(words){var w=kWordsFor(ch), d=curDeck();
-      if(w.list.length){h+='<ul class="kj-words">'; w.list.slice(0,words).forEach(function(x){
-        h+='<li><button class="kj-w" lang="ja" data-a="say" data-s="'+esc(x.say)+'">'+esc(x.jp)+'</button><span lang="ja" class="kj-wr">'+esc(x.r)+'</span><span class="kj-wm" dir="auto">'+esc(x.m)+'</span>'+(x.v&&words>3?'<button class="mini'+(inDeck(d,x.v)?' on':'')+'" data-a="addw" data-v="'+esc(x.v)+'">'+(inDeck(d,x.v)?'✓':'＋')+'</button>':'<span></span>')+'</li>';});
-        h+='</ul>';}
-      if(w.later&&words>3) h+='<p class="dk-hint">+'+w.later+' '+esc(T('kjlater'))+'</p>';}
-    return h;
-  }
-  function kRender(){
-    kStop(); var h='';
-    if(kview==='grid'){
-      h+='<div class="dk-top"><b class="dk-title">'+(T('kanji')==='漢字'?'<span lang="ja">漢字</span>':'<span lang="ja">漢字</span> '+esc(T('kanji')))+'</b><button class="tg" data-a="close">✕</button></div><p class="dk-hint">'+esc(T('kjintro'))+'</p>';
-      var upto=-1; for(var i=0;i<lesOrder.length&&kDone(lesOrder[i]);i++) upto=i;
-      h+='<label class="kj-upto"><span>'+esc(T('kjupto'))+'</span><select id="kj-upto" class="sel"><option value="-1">'+esc(T('kjnone'))+'</option>';
-      lesOrder.forEach(function(id,n){h+='<option value="'+n+'"'+(n===upto?' selected':'')+'>'+esc(lesTitle(id))+'</option>';});
-      h+='</select></label><div class="kj-modes">';
-      [['r','kjrec'],['y','kjread'],['w','kjwrite']].forEach(function(m){var n=kQueue(m[0]).length; h+='<button class="kj-mode" data-a="start" data-m="'+m[0]+'"'+(n?'':' disabled')+'><b>'+esc(T(m[1]))+'</b><span>'+esc(T(m[1]+'s'))+'</span></button>';});
-      h+='</div>'+kOverview();
-      h+=kSel?'<p class="kj-nb">'+esc(T('pchoose'))+'</p>':'<button class="tg kj-selbtn" data-a="selmode">'+esc(T('pselect'))+'</button>';
-      ['n5','n4'].forEach(function(lv){
-        var ks=KJ.k.filter(function(a){return a[1]===lv}).map(function(a){return a[0]}), open=ks.filter(kOpen).length, S=kS('r');
-        h+='<h3 class="kj-lv">'+lv.toUpperCase()+' <span>'+open+' / '+ks.length+' '+esc(T('kjunl'))+'</span></h3>';
-        var tile=function(ch){return '<button class="kj-t'+['',' st1',' st2'][kStage(S[ch])]+(kSel&&kSel[ch]?' sel':'')+'" lang="ja" data-a="k" data-k="'+ch+'">'+ch+'</button>';};
-        lesOrder.forEach(function(id){var g=ks.filter(function(ch){return kLes[ch]===id}); if(!g.length) return;
-          h+='<div class="kj-gh"><span>'+esc(lesTitle(id))+(kDone(id)?' <b class="okc">✓</b>':'')+'</span>'+(kSel?'<button class="mini psb" data-a="selgrp" data-ks="'+g.join('')+'">'+esc(T('pall'))+'</button>':'<button class="mini psb" data-a="sheet" data-id="'+id+'">'+esc(T('psheet'))+'</button>')+'</div><div class="kj-grid">'+g.map(tile).join('')+'</div>';});
-        var ex=ks.filter(function(ch){return !kLes[ch]});
-        if(ex.length) h+='<div class="kj-gh"><span>'+esc(T('kjextra'))+'</span>'+(kSel?'<button class="mini psb" data-a="selgrp" data-ks="'+ex.join('')+'">'+esc(T('pall'))+'</button>':'')+'</div><div class="kj-grid">'+ex.map(tile).join('')+'</div>';
-      });
-      if(kSel){var sn=Object.keys(kSel).length; h+='<div class="kj-selbar"><b id="kj-seln">'+sn+'</b><span>'+esc(T('pchosen'))+'</span><button class="tg" data-a="selcancel">'+esc(T('cancel'))+'</button><button class="tg" aria-pressed="true" data-a="selprint"'+(sn?'':' disabled')+'>'+esc(T('pprint'))+'</button></div>';}
-    } else if(kview==='detail'){
-      var ch=kcur, a=KJ.k[kIdx[ch]];
-      h+='<div class="dk-top"><button class="tg" data-a="grid">‹ '+esc(T('kanji'))+'</button><span class="dk-count">'+a[1].toUpperCase()+' · '+a[4].length+' '+esc(T('kjstrokes'))+'</span></div>';
-      h+='<div class="kj-card"><button class="kj-play" data-a="replay" aria-label="'+esc(T('kjreplay'))+'">'+kSvg(ch,'kj-anim')+'</button>'+kInfo(ch,0)+'</div>';
-      h+='<p class="kj-nb">✎ '+esc(T('kjcopy'))+'</p>'+kSteps(ch);
-      h+='<div class="kj-row"><button class="tg" data-a="replay">▶ '+esc(T('kjreplay'))+'</button><button class="tg" data-a="trace">'+esc(T('kjtrace'))+'</button><button class="tg" data-a="mem">'+esc(T('kjmem'))+'</button></div>';
-      if(kLes[ch]) h+='<p class="dk-hint">'+esc(T('kjlocked'))+' '+esc(lesTitle(kLes[ch]))+'</p>';
-      var w=kWordsFor(ch); if(w.list.length||w.later){h+='<b class="kj-wh">'+esc(T('kjwords'))+'</b>'+kInfo(ch,12).replace(/^[\s\S]*?<\/p><p class="kj-rd"[\s\S]*?<\/p>/,'');}
-    } else if(kview==='draw'){
-      h+='<div class="dk-top"><button class="tg" data-a="detail">‹ <span lang="ja">'+kdraw.ch+'</span></button><span class="dk-count">'+esc(T(kdraw.guide?'kjtrace':'kjmem'))+'</span></div>'+kPadHtml();
-    } else {
-      var name={r:'kjrec',y:'kjread',w:'kjwrite'}[kmode];
-      h+='<div class="dk-top"><button class="tg" data-a="grid">‹ '+esc(T('kanji'))+'</button><span class="dk-count">'+esc(T(name))+' · '+(kq.length+(kcur?1:0))+'</span></div>';
-      if(!kcur) h+='<div class="dk-card"><p class="dk-done">'+esc(T(kQueue(kmode).length||Object.keys(kS(kmode)).length?'done':'kjnothing'))+'</p></div>';
-      else if(kmode==='r'){
-        h+='<div class="dk-card"><span class="kj-huge" lang="ja">'+kcur+'</span>'+(kshown?'<hr>'+kInfo(kcur,3):'')+'</div>';
-        if(!kshown) h+='<button class="dk-show" data-a="show">'+esc(T('showans'))+'</button>';
-        else h+=kGrades('r');
-      } else if(kmode==='w'){
-        var aw=KJ.k[kIdx[kcur]];
-        if(!kshown){
-          h+='<div class="kj-seg"><button data-a="kw" data-v="paper"'+(DK.kw==='screen'?'':' class="on"')+'>✎ '+esc(T('kwpaper'))+'</button><button data-a="kw" data-v="screen"'+(DK.kw==='screen'?' class="on"':'')+'>'+esc(T('kwscreen'))+'</button></div>';
-          if(kdraw) h+=kPadHtml();
-          else h+='<div class="dk-card"><p class="kj-mean" dir="auto">'+esc(kMean(kcur))+'</p><p class="kj-rd" lang="ja">'+esc([aw[2],aw[3]].filter(Boolean).join(' · '))+'</p><p class="kj-nb">✎ '+esc(T('kjnb'))+'</p></div>';
-          h+='<button class="dk-show" data-a="show">'+esc(T('kjshowk'))+'</button>';
-        } else h+='<div class="kj-card"><button class="kj-play" data-a="replay">'+kSvg(kcur,'kj-anim')+'</button>'+kInfo(kcur,0)+kSteps(kcur)+'</div>'+kGrades('w');
-      }
-      else {
-        var c=cardData({v:kread.v});
-        h+='<div class="dk-card"><span class="kj-word" lang="ja">'+esc(c.jp)+'</span><p class="dk-hint">'+esc(T('kjwhich'))+'</p>'+(kread.pick?'<hr><p class="dk-m" dir="auto">'+esc(c.m)+'</p>':'')+'</div><div class="kj-opts">';
-        kread.opts.forEach(function(o){var cls=kread.pick?(o===kread.right?' ok':o===kread.pick?' no':''):''; h+='<button class="kj-opt'+cls+'" lang="ja" data-a="opt" data-o="'+esc(o)+'"'+(kread.pick?' disabled':'')+'>'+esc(o)+'</button>';});
-        h+='</div>'; if(kread.pick) h+='<button class="dk-show" data-a="next">'+esc(T('kjnext'))+'</button>';
-      }
-    }
-    kB.innerHTML=h; if(!(kSel&&kview==='grid')) kP.scrollTop=0;
-    if(kview==='detail'||(kview==='prac'&&kmode==='w'&&kshown)) kAnim(kB.querySelector('.kj-anim'));
-    if(kdraw&&document.getElementById('kj-pad')) kPadInit();
-  }
-  function kShow(ch){wS.hidden=true; kcur=ch; kview='detail'; kRender(); kP.hidden=false; b.classList.add('ov-open');}
-  document.getElementById('t-kanji').addEventListener('click',function(){wS.hidden=true; kview='grid'; kRender(); kP.hidden=false; b.classList.add('ov-open');});
-  kP.addEventListener('click',function(e){
-    var t=e.target.closest('[data-a]'); if(!t) return; var a=t.getAttribute('data-a');
-    if(a==='close'){kStop(); kP.hidden=true; b.classList.remove('ov-open'); deckSync(); return;}
-    if(a==='grid'){kview='grid'; kdraw=null;}
-    else if(a==='k'&&kSel&&kview==='grid'){var kc=t.getAttribute('data-k'); if(kSel[kc]) delete kSel[kc]; else kSel[kc]=1; t.classList.toggle('sel',!!kSel[kc]); selSync(); return;}
-    else if(a==='selmode'){kSel={}; kRender(); return;}
-    else if(a==='selcancel'){kSel=null; kRender(); return;}
-    else if(a==='selgrp'){var gs=t.getAttribute('data-ks').split(''), allOn=gs.every(function(c){return kSel[c]}); gs.forEach(function(c){if(allOn) delete kSel[c]; else kSel[c]=1;}); var sc=kP.scrollTop; kRender(); kP.scrollTop=sc; return;}
-    else if(a==='selprint'){var list=KJ.k.map(function(x){return x[0]}).filter(function(c){return kSel[c]}); if(list.length) printSheet(list); return;}
-    else if(a==='k'){kcur=t.getAttribute('data-k'); kview='detail';}
-    else if(a==='detail'){kcur=kdraw?kdraw.ch:kcur; kview='detail';}
-    else if(a==='replay'){kAnim(kB.querySelector('.kj-anim')); return;}
-    else if(a==='trace'||a==='mem'){kNewDraw(kdraw&&kview==='draw'?kdraw.ch:kcur,a==='trace',false); kview='draw';}
-    else if(a==='redraw'){kNewDraw(kdraw.ch,kdraw.guide,kdraw.practice);}
-    else if(a==='hint'){kdraw.miss++; kHint(); kStat(); return;}
-    else if(a==='say'){var s=t.getAttribute('data-s'); play(s,s); return;}
-    else if(a==='addw'){toggleCard(t.getAttribute('data-v'));}
-    else if(a==='start'){return kStart(t.getAttribute('data-m'));}
-    else if(a==='sheet'){printSheet(t.getAttribute('data-id')); return;}
-    else if(a==='show'){kshown=true; kdraw=null;}
-    else if(a==='kw'){DK.kw=t.getAttribute('data-v'); dSave(); if(DK.kw==='screen') kNewDraw(kcur,false,true); else kdraw=null;}
-    else if(/^g[0-3]$/.test(a)){kApply(+a.charAt(1)); return kNext();}
-    else if(a==='next'){return kNext();}
-    else if(a==='opt'){kread.pick=t.getAttribute('data-o'); kApply(kread.pick===kread.right?2:0); var c=cardData({v:kread.v}); play(c.say,c.say);}
-    kRender();
-  });
-  kP.addEventListener('change',function(e){
-    if(e.target.id==='kj-upto'){var n=+e.target.value; DK.done={}; lesOrder.forEach(function(id,i){if(i<=n) DK.done[id]=1;}); dSave(); lessonMarks(); if(IMON) imRefresh(); kRender();}
-  });
   document.getElementById('content').addEventListener('click',function(e){
-    var nk=e.target.closest('.nbk'); if(nk){kShow(nk.getAttribute('data-k'));return;}
-    var np=e.target.closest('.nbprint'); if(np){printSheet(np.getAttribute('data-id'));return;}
     var gn=e.target.closest('.lnav'); if(gn){if(gn.getAttribute('data-go')) go(gn.getAttribute('data-go'));return;}
     var z=e.target.closest('.lzb'); if(!z) return; var id=z.closest('section.lesson').id; DK.done=DK.done||{};
     if(DK.done[id]) delete DK.done[id]; else DK.done[id]=1; dSave(); lessonMarks(); if(IMON) imRefresh();
@@ -1283,7 +1008,7 @@ body.paged #content section.lesson.cur{display:block}body.paged.first .hero{disp
   var iBtn=document.getElementById('t-imm');
   function imSync(){IMN=Object.keys(DK.done||{}).filter(function(k){return /^n[45]/.test(k)&&DK.done[k]}).length; imLabel();}
   function imLabel(){var tot=Object.keys(JA).length, n=Object.keys(JA).filter(function(k){return IMN>=JA[k][1]}).length; iBtn.setAttribute('aria-pressed',IMON?'true':'false'); iBtn.textContent=IMON?T('on')+' · '+n+' / '+tot:T('off');}
-  function imRefresh(){imSync(); applyLabels(); fBtn.textContent=T(b.classList.contains('nofuri')?'off':'on'); lessonMarksOnly(); if(!dP.hidden) dRender(); if(!kP.hidden&&kview==='grid') kRender(); if(!tP.hidden) tRender(); if(!gP.hidden) gRender(); if(!sP.hidden) sRun(); sQ.setAttribute('placeholder',T('sph'));}
+  function imRefresh(){imSync(); applyLabels(); fBtn.textContent=T(b.classList.contains('nofuri')?'off':'on'); lessonMarksOnly(); if(!dP.hidden) dRender(); if(!tP.hidden) tRender(); if(!gP.hidden) gRender(); if(!sP.hidden) sRun(); sQ.setAttribute('placeholder',T('sph'));}
   function imSet(on){IMON=!!on; if(HOSTED){try{localStorage.setItem('imm',IMON?'1':'0')}catch(e){}} imRefresh();}
   iBtn.addEventListener('click',function(){imSet(!IMON);});
   if(HOSTED){try{IMON=localStorage.getItem('imm')==='1'}catch(e){}}
@@ -1297,20 +1022,6 @@ body.paged #content section.lesson.cur{display:block}body.paged.first .hero{disp
   mEl.addEventListener('click',function(e){e.stopPropagation(); if(e.target.closest('#t-cloud,#t-print')) menuSet(false);});
   document.addEventListener('click',function(){if(!mEl.hidden) menuSet(false);});
   document.addEventListener('keydown',function(e){if(e.key==='Escape'&&!mEl.hidden){menuSet(false); mBtn.focus();}});
-  // ---- printable kanji practice sheet for one lesson ----
-  function pSvg(ch,upto,cls){var st=KJ.k[kIdx[ch]][4], h='<svg viewBox="0 0 109 109" class="'+cls+'"><path class="pg" d="M54.5 0V109M0 54.5H109"/>'; for(var i=0;i<st.length&&(upto<0||i<=upto);i++) h+='<path class="ps'+(upto>=0&&i===upto?' cur':'')+'" d="'+st[i]+'"/>'; return h+'</svg>';}
-  function printSheet(id){
-    var own=typeof id!=='string', ks=own?id:KJ.k.filter(function(a){return kLes[a[0]]===id}).map(function(a){return a[0]}); if(!ks.length) return;
-    var el=document.getElementById('printsheet'), h='<header><b lang="ja">漢字</b> '+esc(T('psheett'))+(own?'':' — '+esc(lesTitle(id)))+'</header>';
-    ks.forEach(function(ch){var a=KJ.k[kIdx[ch]], w=kWordsFor(ch).list[0], steps='', boxes='';
-      for(var i=0;i<a[4].length&&i<16;i++) steps+=pSvg(ch,i,'pstep');
-      for(var j=0;j<10;j++) boxes+=j<3?pSvg(ch,-1,'pbox faint'):'<svg viewBox="0 0 109 109" class="pbox"><path class="pg" d="M54.5 0V109M0 54.5H109"/></svg>';
-      h+='<section class="pk"><div class="pk-h">'+pSvg(ch,-1,'pbig')+'<div class="pk-i"><b dir="auto">'+esc(kMean(ch))+'</b><span lang="ja">'+esc([a[2],a[3]].filter(Boolean).join(' · '))+'</span>'+(w?'<span lang="ja">'+esc(w.jp)+(w.r&&w.r!==w.jp?' ('+esc(w.r)+')':'')+' <i dir="auto">'+esc(w.m)+'</i></span>':'')+'<div class="psteps">'+steps+'</div></div></div><div class="pboxes">'+boxes+'</div></section>';});
-    el.innerHTML=h; b.classList.add('psheet');
-    var done=function(){b.classList.remove('psheet'); window.removeEventListener('afterprint',done);};
-    window.addEventListener('afterprint',done);
-    setTimeout(function(){try{window.print()}catch(e){done()}},60);
-  }
   // ---- backup: one file with decks, review schedules, finished lessons, kanji progress and settings ----
   function hasProgress(){return (DK.list||[]).some(function(d){return d.cards.length})||(DK.done&&Object.keys(DK.done).length>0)||(DK.kj&&['r','w','y'].some(function(m){return DK.kj[m]&&Object.keys(DK.kj[m]).length}));}
   function backupNow(){
@@ -1337,7 +1048,7 @@ body.paged #content section.lesson.cur{display:block}body.paged.first .hero{disp
         if(pf.theme) root.setAttribute('data-theme',pf.theme);
         if(pf.les&&document.getElementById(pf.les)){setLes(pf.les); applyPage();}
         if(pf.lang&&UI[pf.lang]&&pf.lang!==lang) setLang(pf.lang); else {lessonMarks(); deckSync(); imRefresh();}
-        if(!dP.hidden) dRender(); if(!tP.hidden) tRender(); if(!kP.hidden) kRender();
+        if(!dP.hidden) dRender(); if(!tP.hidden) tRender();
         note(T('imported'));
       }catch(x){note(T('badfile'));}
     };
@@ -1353,11 +1064,11 @@ body.paged #content section.lesson.cur{display:block}body.paged.first .hero{disp
   // ---- today: one short plan for the session ----
   var tP=document.getElementById('todaypanel'), tB=document.getElementById('todaybody');
   function addPreset(id){var ps=presets().filter(function(x){return x.id===id})[0]; if(!ps) return null; var pd={id:uid(),name:ps.name,p:ps.id,cards:ps.vs.map(pcard)}; DK.list.push(pd); DK.cur=pd.id; dSave(); note('+'+ps.vs.length+' — '+ps.name); return pd;}
-  function closeAll(){[lesP,dP,kP,tP,sP,gP,wP].forEach(function(x){x.hidden=true}); kStop(); wS.hidden=true; b.classList.remove('ov-open'); deckSync();}
+  function closeAll(){[lesP,dP,tP,sP,gP,wP].forEach(function(x){x.hidden=true}); wS.hidden=true; b.classList.remove('ov-open'); deckSync();}
   function navSync(){
-    var cur=!tP.hidden?'today':!dP.hidden?'decks':!kP.hidden?'kanji':!wP.hidden?'words':'lesson';
+    var cur=!tP.hidden?'today':!dP.hidden?'decks':!wP.hidden?'words':'lesson';
     document.querySelectorAll('#tabs button').forEach(function(x){x.classList.toggle('on',x.getAttribute('data-t')===cur)});
-    [['deckn','tb-decks'],['kjn','tb-kanji']].forEach(function(p){var a=document.getElementById(p[0]), z=document.getElementById(p[1]); z.textContent=a.textContent; z.hidden=a.hidden;});
+    [['deckn','tb-decks']].forEach(function(p){var a=document.getElementById(p[0]), z=document.getElementById(p[1]); z.textContent=a.textContent; z.hidden=a.hidden;});
   }
   var tview='list', lq=[], lcur=null, lshown=false;
   function lPool(){
@@ -1390,18 +1101,13 @@ body.paged #content section.lesson.cur{display:block}body.paged.first .hero{disp
     if(kDone(curLes)){for(var i=li+1;i<lesOrder.length;i++){if(!kDone(lesOrder[i])){les=lesOrder[i];isNext=true;break;}}}
     h+='<div class="td-sec"><h3>'+esc(T('tlesson'))+'</h3><div class="td-row"><span><b>'+esc(lesTitle(les))+'</b>'+(kDone(les)?'<small>✓ '+esc(T('kjisdone'))+'</small>':'')+'</span><button class="tg" aria-pressed="true" data-a="les" data-id="'+les+'">'+esc(T(isNext?'tstart':'tcont'))+'</button></div>';
     var ks=KJ.k.filter(function(a){return kLes[a[0]]===les}).map(function(a){return a[0]});
-    if(ks.length) h+='<p class="td-none">✎ '+esc(T('nb3'))+'</p><span class="nbks">'+ks.map(function(k){return '<button type="button" class="nbk" lang="ja" data-a="k" data-k="'+k+'">'+k+'</button>'}).join('')+'</span>';
+    if(ks.length) h+='<p class="td-none">✎ '+esc(T('nb3'))+'</p><span class="nbks">'+ks.map(function(k){return '<span class="nbk" lang="ja">'+k+'</span>'}).join('')+'</span>';
     h+='</div>';
     // cards
     h+='<div class="td-sec"><h3>'+esc(T('tcards'))+'</h3>'; var any=false;
     DK.list.forEach(function(d){var n=dueCount(d); if(!n||!d.cards.length) return; any=true; h+='<div class="td-row"><span><b>'+esc(d.name)+'</b><small>'+n+' '+esc(T('due'))+'</small></span><button class="tg" aria-pressed="true" data-a="study" data-id="'+d.id+'">'+esc(T('study'))+'</button></div>';});
     if(!any) h+='<p class="td-none">'+esc(T('tnone'))+'</p>';
     var pid='L:'+curLes; if(presets().some(function(x){return x.id===pid})&&!DK.list.some(function(x){return x.p===pid})) h+='<div class="td-row"><span><small>'+esc(lesTitle(curLes))+'</small></span><button class="tg" data-a="addles" data-id="'+pid+'">＋ '+esc(T('taddles'))+'</button></div>';
-    h+='</div>';
-    // kanji
-    h+='<div class="td-sec"><h3>'+(T('kanji')==='漢字'?'<span lang="ja">漢字</span>':'<span lang="ja">漢字</span> '+esc(T('kanji')))+'</h3>';
-    [['r','kjrec'],['y','kjread'],['w','kjwrite']].forEach(function(m){var S=kS(m[0]), q=kQueue(m[0]), due=q.filter(function(ch){return S[ch]&&S[ch].due<=now}).length, fresh=q.length-due;
-      h+='<div class="td-row"><span><b>'+esc(T(m[1]))+'</b><small>'+due+' '+esc(T('treview'))+' · '+fresh+' '+esc(T('new'))+'</small></span><button class="tg"'+(due?' aria-pressed="true"':'')+' data-a="kj" data-m="'+m[0]+'"'+(q.length?'':' disabled')+'>'+esc(T('study'))+'</button></div>';});
     h+='</div>';
     var ln=lPool().length;
     h+='<div class="td-sec"><h3>'+esc(T('tlisten'))+'</h3><div class="td-row"><span><b>'+esc(T('llhint'))+'</b><small>'+ln+' '+esc(T('lsent'))+'</small></span><button class="tg" data-a="listen"'+(ln?'':' disabled')+'>'+esc(T('tstart'))+'</button></div></div>';
@@ -1422,10 +1128,8 @@ body.paged #content section.lesson.cur{display:block}body.paged.first .hero{disp
     else if(a==='lnext'){lNext(); return;}
     else if(a==='ladd'){var sy=lcur.querySelector('.jp').getAttribute('data-say'), dd=curDeck(); if(!hasRef(dd,{x:sy})){dd.cards.push({id:uid(),x:sy}); dSave(); note(T('added')+' — '+dd.name);} tRender(); return;}
     else if(a==='les'){closeAll(); go(t.getAttribute('data-id'));}
-    else if(a==='k'){closeAll(); kShow(t.getAttribute('data-k'));}
     else if(a==='study'){closeAll(); dP.hidden=false; b.classList.add('ov-open'); startStudy(t.getAttribute('data-id'));}
     else if(a==='addles'){addPreset(t.getAttribute('data-id')); tRender(); return;}
-    else if(a==='kj'){closeAll(); kP.hidden=false; b.classList.add('ov-open'); kStart(t.getAttribute('data-m'));}
     navSync();
   });
   tP.addEventListener('change',function(e){if(e.target.id==='bkfile'&&e.target.files[0]) restoreFrom(e.target.files[0]);});
@@ -1433,7 +1137,7 @@ body.paged #content section.lesson.cur{display:block}body.paged.first .hero{disp
     var t=e.target.closest('button'); if(!t) return; var k=t.getAttribute('data-t');
     if(k==='today') return openToday();
     closeAll();
-    if(k==='decks') document.getElementById('t-decks').click(); else if(k==='kanji') document.getElementById('t-kanji').click(); else if(k==='words') openWords();
+    if(k==='decks') document.getElementById('t-decks').click(); else if(k==='words') openWords();
     navSync();
   });
   document.addEventListener('click',function(){setTimeout(navSync,0)});
@@ -1446,7 +1150,6 @@ body.paged #content section.lesson.cur{display:block}body.paged.first .hero{disp
     document.querySelectorAll('#content tr[data-v]').forEach(function(tr){var v=tr.getAttribute('data-v'); if(seen[v]) return; seen[v]=1; var td=tr.children, jp=td[0].textContent.trim()||td[1].textContent.trim(), r=td[1].textContent.trim(), ro=td[2].textContent.trim(), m=td[3].textContent.trim();
       o.push({k:'v',t:jp,s:(r!==jp?r+' · ':'')+ro,m:m,f:[norm(jp),norm(r),norm(ro),norm(m)],el:tr});});
     ['n5','n4'].forEach(function(l){WD[l].forEach(function(e){var r=wRef(e); if(r.v) return; o.push({k:'v',t:e[0],s:(e[1]!==e[0]?e[1]+' · ':'')+'JLPT '+l.toUpperCase(),m:wMean(e),f:[norm(e[0]),norm(e[1]),norm(wMean(e))],wl:l,we:e});});});
-    KJ.k.forEach(function(a){var ch=a[0], m=kMean(ch); o.push({k:'k',t:ch,s:[a[2],a[3]].filter(Boolean).join(' · '),m:m,f:[ch,norm(a[2]),norm(a[3]),norm(m),norm(KJ.m.en[kIdx[ch]])],ch:ch});});
     document.querySelectorAll('#content section.lesson h2, #content section.lesson h3, #content section.lesson h4').forEach(function(h){var t=[].map.call(h.childNodes,function(n){return n.textContent}).join(' ').replace(/\s+/g,' ').trim(); if(t) o.push({k:'h',t:'',s:lesShort(h),m:t,f:[norm(t)],el:h});});
     var g=GL[lang]||GL.en||{}; Object.keys(g).forEach(function(w){ if(vmap[w]) return; o.push({k:'g',t:w,s:g[w].r||'',m:g[w].m,f:[norm(w),norm(g[w].r),norm(g[w].m)],w:w});});
     document.querySelectorAll('#content .ex').forEach(function(e){var j=e.querySelector('.jp'), en=e.querySelector('.en'), ro=e.querySelector('.ro'); if(!j) return; var jt=j.getAttribute('data-say')||j.textContent.trim(), et=en?en.textContent.trim():'';
@@ -1461,10 +1164,10 @@ body.paged #content section.lesson.cur{display:block}body.paged.first .hero{disp
   function sRun(){
     if(!sIdx) sBuild(); var raw=sQ.value.trim(), q=norm(raw), h=''; sHits=[];
     if(!q){sR.innerHTML='<p class="sr-none">'+esc(T('sph'))+'</p><button type="button" class="tg gibtn">'+esc(T('gindex'))+' ›</button>'; return;}
-    var groups={v:[],k:[],g:[],h:[],x:[]};
+    var groups={v:[],g:[],h:[],x:[]};
     sIdx.forEach(function(e){var sc=sScore(e,q); if(sc<9) groups[e.k].push([sc,e]);});
     var gram=groups.h.concat(groups.g);
-    [['v','s_v',groups.v,10],['k','s_k',groups.k,10],['g','s_g',gram,10],['x','s_x',groups.x,6]].forEach(function(G){
+    [['v','s_v',groups.v,10],['g','s_g',gram,10],['x','s_x',groups.x,6]].forEach(function(G){
       var list=G[2].sort(function(a,b){return (a[1].k==='h'?0:1)-(b[1].k==='h'?0:1)||a[0]-b[0]||(a[1].m||'').length-(b[1].m||'').length}); if(G[0]==='g'){var hs=list.filter(function(x){return x[1].k==='h'}), gs=list.filter(function(x){return x[1].k!=='h'}); list=hs.slice(0,5).concat(gs,hs.slice(5));} if(!list.length) return;
       h+='<div class="sr-g"><h3><span>'+esc(T(G[1]))+'</span><span>'+list.length+'</span></h3>';
       list.slice(0,G[3]).forEach(function(x){var e=x[1], n=sHits.push(e)-1;
@@ -1483,7 +1186,6 @@ body.paged #content section.lesson.cur{display:block}body.paged.first .hero{disp
   sQ.addEventListener('input',sRun);
   sR.addEventListener('click',function(e){
     var t=e.target.closest('.sr'); if(!t) return; var x=sHits[+t.getAttribute('data-n')]; if(!x) return;
-    if(x.k==='k'){closeAll(); kShow(x.ch); navSync(); return;}
     if(x.we){wLv=x.wl; openWords(x.we[0]); return;}
     if(x.k==='g'){var el=null, js=document.querySelectorAll('#content .j'); for(var i=0;i<js.length;i++){if(js[i].textContent.trim().replace(/^[〜～]/,'')===x.w){el=js[i];break;}} if(el) jumpTo(el); return;}
     jumpTo(x.el);
@@ -1568,7 +1270,7 @@ body.paged #content section.lesson.cur{display:block}body.paged.first .hero{disp
     applyPage();
     imSync(); applyLabels();
     deckSync(); if(!dP.hidden) dRender();
-    kMap(); lessonMarks(); if(!kP.hidden) kRender(); fBtn.setAttribute('aria-pressed',b.classList.contains('nofuri')?'false':'true'); fBtn.textContent=T(b.classList.contains('nofuri')?'off':'on'); if(!tP.hidden) tRender(); if(!gP.hidden) gRender(); if(!wP.hidden) wordsRender(); sIdx=null; if(!sP.hidden) sRun(); navSync();
+    kMap(); lessonMarks(); fBtn.setAttribute('aria-pressed',b.classList.contains('nofuri')?'false':'true'); fBtn.textContent=T(b.classList.contains('nofuri')?'off':'on'); if(!tP.hidden) tRender(); if(!gP.hidden) gRender(); if(!wP.hidden) wordsRender(); sIdx=null; if(!sP.hidden) sRun(); navSync();
     if(!document.getElementById('keymsg').textContent) kmsg(T('keymsg'));
     if(!HOSTED) document.title=T('h1')+' — JLPT N5–N4';
     if(HOSTED){try{localStorage.setItem('lang',l)}catch(e){}}

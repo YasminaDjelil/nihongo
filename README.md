@@ -18,16 +18,15 @@ No native speaker or teacher has checked the result, so expect the odd mistake. 
 - vocab lists you can flip into flashcards
 - exercises with the answers hidden until you want them
 - tap any Japanese text to hear it
-- search across vocabulary, kanji, grammar points and example sentences
+- search across vocabulary, grammar points and example sentences
 - the full JLPT N5 and N4 word lists (about 1,300 words), each one tap away from a deck
 - a grammar index listing every pattern with a link to its lesson
 - flashcard decks with spaced repetition, with a small drawing on the card for almost every word
-- kanji for N5 and N4 with stroke order, meant to be copied into a notebook. Nothing is locked and nothing is scored; practice just starts with the kanji from lessons I've marked as done
-- printable kanji practice sheets, for a whole lesson or for kanji you pick
+- at the end of each lesson, the list of kanji to learn with it. Kanji study itself (stroke order, practice sheets, tracking) lives in a separate app, [Kanji](https://github.com/YasminaDjelil/kanji)
 - listening practice: hear a sentence, write it in your notebook, then check
 - furigana over the kanji in example sentences, with a switch to turn it off
 - an optional mode where the app's own buttons turn Japanese little by little as lessons are finished
-- one-file backup of all progress (decks, reviews, finished lessons, kanji), with a reminder in Today
+- one-file backup of all progress (decks, reviews, finished lessons), with a reminder in Today
 
 It's built to be used next to a paper notebook. There are no points, streaks or levels.
 
@@ -59,7 +58,7 @@ Where things are in `src/`:
 | Layout, styles and all the app's behaviour | `template.html` |
 | Lesson illustrations | `figs.py` |
 | Flashcard drawings | `icons.py`, `icons2.py`, `icons3.py` |
-| Kanji list, meanings, readings | `kanji.tsv`, `kanji_x.tsv` |
+| Which kanji are listed with the lessons, and their meanings | `kanji.tsv`, `kanji_x.tsv` |
 | JLPT word lists (word, reading, English, French) | `words_n5.txt`, `words_n4.txt` |
 | Extra word meanings shown when you tap a word | `gloss_extra.json` |
 | Furigana rules | `furi.py` |
@@ -69,7 +68,7 @@ The lesson files use a small line-based format: `=lesson` starts a lesson, `ex:`
 
 If you change a lesson line in English, its translations are matched by the English text, so the same line in the `tr_*.json` files needs updating too, or that line will show in English.
 
-Before publishing, raise the version at the top of `src/static/sw.js` (`nihongo-v33` → `nihongo-v34`) and run `./build.sh` again. Phones hang on to the old copy otherwise, which confused me the first time.
+Before publishing, raise the version at the top of `src/static/sw.js` (`nihongo-v34` → `nihongo-v35`) and run `./build.sh` again. Phones hang on to the old copy otherwise, which confused me the first time.
 
 The audio in `audio.json` was recorded with Google Cloud Text-to-Speech. Anything without a clip falls back to the device's own Japanese voice.
 
@@ -87,7 +86,5 @@ To record what's missing (new sentences, or words added to the lists): run `./bu
 ## Licence
 
 Free to use, share and adapt, with credit, for non-commercial purposes, as long as adaptations keep the same licence: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). The full text is in `LICENSE`.
-
-The kanji stroke data is from [KanjiVG](https://kanjivg.tagaini.net/) by Ulrich Apel and stays under its own licence, CC BY-SA 3.0. Details in `NOTICE.md`.
 
 Audio made with Google Cloud Text-to-Speech.
